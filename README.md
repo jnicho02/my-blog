@@ -1,7 +1,7 @@
-Fork for your Telegram Blog
+Telegram Blog
 =============
 
 
-This is a template that you can fork into your own GitHub account
-and then point [Telegram](https://telegr.am) at your
-repository to your GitHub repo so you can publish your blog.
+This is my personal blog hosted via [Telegram](https://telegr.am).
+I have cloned a standard template then added my own content.
+Every time I push to the git repo the site is automatically updated.
