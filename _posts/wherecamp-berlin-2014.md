@@ -7,7 +7,7 @@ alias: /wherecamp-berlin-2014
 ​I went to Wherecamp Berlin 2014 last week. It was a Geographical Information System conference focussing on routing (e.g. satnavs).
 As a bit of an experiment. I have produced a review as a video so that it doesn't rely on me being there in person to present 
 
-https://www.youtube.com/watch?v=jX2XbXdouOU​
+<iframe width="420" height="315" src="//www.youtube.com/embed/jX2XbXdouOU" frameborder="0" allowfullscreen></iframe>
     
 I presented a lightning talk on the second day about 'Routing with personality' so will publish that soon.
 
