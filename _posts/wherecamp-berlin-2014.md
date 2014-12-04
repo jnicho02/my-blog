@@ -7,8 +7,10 @@ alias: /wherecamp-berlin-2014
 ​I went to Wherecamp Berlin 2014 last week. It was a Geographical Information System conference focussing on routing (e.g. satnavs).
 As a bit of an experiment. I have produced a review as a video so that it doesn't rely on me being there in person to present 
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/jX2XbXdouOU" frameborder="0" allowfullscreen></iframe>
-    
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jX2XbXdouOU
+" target="_blank"><img src="http://img.youtube.com/vi/jX2XbXdouOU/0.jpg" 
+alt="My review of WhereCamp Berlin 2014" width="240" height="180" border="10" /></a>
+
 I presented a lightning talk on the second day about 'Routing with personality' so will publish that soon.
 
 I wanted to add voiceover to a slideshow, and see how long it would take. The audio was recorded in Audicity which is great for chopping out the umms, errs, and general rambling. It is best to avoid running your words into each other when you speak. It is also good to talk in compact sentences.
