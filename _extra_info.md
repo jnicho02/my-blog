@@ -1,7 +1,7 @@
 ---
 blog_root: /blog_posts
 site_title: It's All In The Game
-
+template_url: https://github.com/telegr-am/template-green.git
 ---
 
 This file contains _Extra Info_ about your site.  You can
