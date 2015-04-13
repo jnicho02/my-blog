@@ -1,6 +1,6 @@
 title: Subtitled QuickTime
 date: 2005/06/06 21:00:00 -0700
-tags: [books]
+tags: [ideas]
 author: Jez Nicholson
 alias: /subtitled-quicktime
 

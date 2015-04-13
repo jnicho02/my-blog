@@ -1,6 +1,6 @@
 title: Does node.js encourage a new design paradigm?
 date: 2011/05/27 05:10:00 -0700
-tags: [{"name":"node.js","id":46550047},{"name":"wceu","id":46550046}]
+tags: [ideas]
 author: Jez Nicholson
 alias: /does-nodejs-encourage-a-new-design-paradigm
 

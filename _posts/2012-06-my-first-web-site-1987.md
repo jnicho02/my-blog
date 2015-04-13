@@ -2,7 +2,7 @@ title: My first 'web' site, 1987
 date: 2012/06/26 09:28:00 -0700
 tags: []
 author: Jez Nicholson
-alias: /my-first-web-site-1986
+alias: /my-first-web-site-1987
 
 <p><a href="http://www.flickr.com/photos/jnicho02/7449112198/" title="Burtsoft Issue 5 by J'Roo, on Flickr"><img src="http://farm9.staticflickr.com/8166/7449112198_a2e9eb5442.jpg" height="250" alt="Burtsoft Issue 5" width="180" /></a></p>
 <p>I was just recounting to my colleague Steve about building my first web site in 1987. Oh, okay, by 'recounting' I mean 'showing off', but hey what is blogging for if it isn't for a bit of self trumpeting?!</p>

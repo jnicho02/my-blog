@@ -1,6 +1,6 @@
 title: parsing csv files with groovy
 date: 2011/08/02 07:00:00 -0700
-tags: []
+tags: [code]
 author: Jez Nicholson
 alias: /parsing-csv-files-with-groovy
 

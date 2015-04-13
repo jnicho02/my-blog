@@ -1,8 +1,8 @@
 title: More stolpersteine
 date: 2011/05/27 08:18:00 -0700
-tags: [{"name":"openplaques","id":46721327},{"name":"wceu","id":46721328}]
+tags: []
 author: Jez Nicholson
-alias: /more-stolpersteine-openplaques-wceu
+alias: /more-stolpersteine
 
 <p><div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/jnicho02/BtZotpfcm8UYMwjbAXbEed9VADZZVM4XJcHs9LVIvsKtKD7a49VkszYVlfrj/photo.jpg"><img alt="Photo" height="640" src="/media/getfile/files.posterous.com/jnicho02/nJU9BHrDcdstsivz0nGbH4ZHxo3Lw8Y9muruqpMqvArk5tjI8eP4sqsmkshl/photo.jpg.scaled.500.jpg" width="478" /></a>
