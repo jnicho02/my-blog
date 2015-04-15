@@ -4,4 +4,4 @@ tags: [code]
 author: Jez Nicholson
 alias: /not-an-original-name
 
-Dang!, just found that there is already something called Jezblog at http://www.jezblog.34sp.com/ I don't think that my blog's name 'The Jezblog' is discriminated enough. I'll have to think of something more original.
+Dang! I just found that there is already something called Jezblog at http://www.jezblog.34sp.com/ I don't think that my blog's name 'The Jezblog' is discriminated enough. I'll have to think of something more original.

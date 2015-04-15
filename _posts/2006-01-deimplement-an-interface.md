@@ -10,6 +10,6 @@ The reason I ask, is because java.awt.Component implements Serializable which me
 
 In connection with this thought i've been reading up on serialVersionUID. Here are some resources that might be useful:
 
-Java Forums: To serialVersionUID or Not To serialVersionUID?
-The Squizlog: Eclipse 3.1, RAD 6.0 and serialVersionUID
-There is no performance gain from specifying a serialVersionUID. JavaWorld: Into the mist of serialization myths
+* Java Forums: To serialVersionUID or Not To serialVersionUID?
+* The Squizlog: Eclipse 3.1, RAD 6.0 and serialVersionUID
+* There is no performance gain from specifying a serialVersionUID. JavaWorld: Into the mist of serialization myths
