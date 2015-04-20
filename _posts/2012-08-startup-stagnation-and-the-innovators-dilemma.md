@@ -1,5 +1,5 @@
 title: Startup Stagnation and The Innovator's Dilemma
-date: 2012/08/25 08:20:00 -0700
+date: 2012/08/25
 tags: [ideas]
 author: Jez Nicholson
 alias: /startup-stagnation-and-the-innovators-dilemma

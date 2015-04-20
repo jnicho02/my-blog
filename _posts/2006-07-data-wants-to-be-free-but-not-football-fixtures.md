@@ -1,5 +1,5 @@
 title: data wants to be free...but not football fixtures
-date: 2006/07/17 21:00:00 -0700
+date: 2006/07/17
 tags: [open data]
 author: Jez Nicholson
 alias: /data-wants-to-be-free-but-not-football-fixtures

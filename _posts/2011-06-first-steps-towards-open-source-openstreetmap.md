@@ -1,5 +1,5 @@
 title: First steps towards open source OpenStreetMap Points Of Interest POI data
-date: 2011/06/06 09:26:00 -0700
+date: 2011/06/06
 tags: []
 author: Jez Nicholson
 alias: /first-steps-towards-open-source-openstreetmap

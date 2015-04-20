@@ -1,6 +1,6 @@
 title: attended Flood Risk Assessment presentation (1hr)
-date: 2015/01/07 21:00:00 -0700
-tags: []
+date: 2015/01/07
+tags: [events]
 author: Jez Nicholson
 alias: /attended-flood-risk-assessment-presentation
 

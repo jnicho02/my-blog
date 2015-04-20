@@ -1,5 +1,5 @@
 title: Censored map of Kashmir
-date: 2011/05/27 07:29:00 -0700
+date: 2011/05/27
 tags: [geo]
 author: Jez Nicholson
 alias: /censored-map-of-kashmir-tags-wceu

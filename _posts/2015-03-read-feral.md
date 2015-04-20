@@ -1,5 +1,5 @@
 title: read "Feral: Rewilding the Land, Sea and Human Life" by George Monbiot (16 hrs)
-date: 2015/03/09 21:00:00 -0700
+date: 2015/03/09 21:00:00 +0000
 tags: [books]
 author: Jez Nicholson
 alias: /read-feral

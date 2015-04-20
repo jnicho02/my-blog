@@ -1,5 +1,5 @@
 title:creating indexes in Hibernate with XDoclet tags
-date: 2006/07/26 21:00:00 -0700
+date: 2006/07/26
 tags: [events]
 author: Jez Nicholson
 alias: /creating-indexes-in-hibernate-eith-xdoclet-tags

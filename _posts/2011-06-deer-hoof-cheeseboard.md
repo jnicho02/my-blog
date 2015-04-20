@@ -1,5 +1,5 @@
 title: Deer Hoof Cheeseboard
-date: 2011/06/18 08:30:42 -0700
+date: 2011/06/18
 tags: [bad taste]
 author: Jez Nicholson
 alias: /deer-hoof-cheeseboard

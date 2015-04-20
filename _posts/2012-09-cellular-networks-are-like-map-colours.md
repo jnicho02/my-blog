@@ -1,5 +1,5 @@
 title: Cellular networks are like map colours
-date: 2012/09/14 00:12:02 -0700
+date: 2012/09/14
 tags: [ideas]
 author: Jez Nicholson
 alias: /cellular-networks-are-like-map-colours

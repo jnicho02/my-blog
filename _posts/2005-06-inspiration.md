@@ -1,5 +1,5 @@
 title: Inspiration
-date: 2005/06/06 21:00:00 -0700
+date: 2005/06/06
 tags: [ideas]
 author: Jez Nicholson
 alias: /inspiration

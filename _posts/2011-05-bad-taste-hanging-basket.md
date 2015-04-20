@@ -1,5 +1,5 @@
 title: Bad taste hanging basket
-date: 2011/05/22 10:31:28 -0700
+date: 2011/05/22
 tags: []
 author: Jez Nicholson
 alias: /bad-taste-hanging-basket

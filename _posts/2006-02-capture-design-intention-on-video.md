@@ -1,5 +1,5 @@
 title: capture design intention on video
-date: 2006/02/27 21:00:00 -0700
+date: 2006/02/27
 tags: [ideas]
 author: Jez Nicholson
 alias: /capture-design-intention-on-video

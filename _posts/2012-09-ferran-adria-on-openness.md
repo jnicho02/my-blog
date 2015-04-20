@@ -1,5 +1,5 @@
 title: Ferran Adrià on openness 
-date: 2012/09/23 08:55:00 -0700
+date: 2012/09/23
 tags: [ideas]
 author: Jez Nicholson
 alias: /ferran-adria-on-openness

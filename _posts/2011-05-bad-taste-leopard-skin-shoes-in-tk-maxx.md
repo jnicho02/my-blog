@@ -1,5 +1,5 @@
 title: Bad taste leopard skin shoes in TK Maxx
-date: 2011/05/21 10:46:19 -0700
+date: 2011/05/21
 tags: []
 author: Jez Nicholson
 alias: /bad-taste-leopard-skin-shoes-in-tk-maxx

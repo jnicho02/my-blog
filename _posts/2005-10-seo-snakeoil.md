@@ -1,5 +1,5 @@
 title: SEO = snakeoil?
-date: 2005/10/08 21:00:00 -0700
+date: 2005/10/08
 tags: [ideas]
 author: Jez Nicholson
 alias: /seo-snakeoil

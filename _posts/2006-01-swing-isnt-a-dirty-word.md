@@ -1,5 +1,5 @@
 title: Swing isn't a dirty word
-date: 2006/01/23 21:00:00 -0700
+date: 2006/01/23
 tags: [code]
 author: Jez Nicholson
 alias: /swing-isnt-a-dirty-word

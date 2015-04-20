@@ -1,5 +1,5 @@
 title: Next steps in open source OpenStreetMap Points Of Interest POI data
-date: 2011/06/09 04:32:00 -0700
+date: 2011/06/09
 tags: []
 author: Jez Nicholson
 alias: /next-steps-in-open-source-openstreetmap-point

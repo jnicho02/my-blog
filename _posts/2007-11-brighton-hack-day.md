@@ -1,5 +1,5 @@
 title: Fun at Brighton Hack Day
-date: 2007/11/20 21:00:00 -0700
+date: 2007/11/20
 tags: [events]
 author: Jez Nicholson
 alias: /fun-at-brighton-hack-day

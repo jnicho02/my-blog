@@ -1,5 +1,5 @@
 title: the spelling correction test
-date: 2006/10/17 21:00:00 -0700
+date: 2006/10/17
 tags: [ideas]
 author: Jez Nicholson
 alias: /the-spelling-correction-test

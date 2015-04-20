@@ -1,5 +1,5 @@
 title: playing with Google Calendar
-date: 2006/04/20 21:00:00 -0700
+date: 2006/04/20
 tags: [ideas]
 author: Jez Nicholson
 alias: /playing-with-google-calendar

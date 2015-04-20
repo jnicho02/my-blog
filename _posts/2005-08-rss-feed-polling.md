@@ -1,5 +1,5 @@
 title: RSS feed polling frequency and 304 Not modified
-date: 2005/08/26 21:00:00 -0700
+date: 2005/08/26
 tags: [code]
 author: Jez Nicholson
 alias: /rss-feed-polling

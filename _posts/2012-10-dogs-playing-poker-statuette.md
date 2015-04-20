@@ -1,5 +1,5 @@
 title: Dogs Playing Poker statuette
-date: 2012/10/06 15:11:40 -0700
+date: 2012/10/06
 tags: []
 author: Jez Nicholson
 alias: /dogs-playing-poker-statuette

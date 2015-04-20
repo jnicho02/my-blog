@@ -1,5 +1,5 @@
 title: Made a video about my Agile development process
-date: 2014/12/05 21:00:00 -0700
+date: 2014/12/05
 tags: []
 author: Jez Nicholson
 alias: /my-agile-development-process

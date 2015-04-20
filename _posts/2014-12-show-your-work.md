@@ -1,6 +1,6 @@
 title: Read "Show Your Work!" by Austin Kleon (1 hr)
-date: 2014/12/09 21:00:00 -0700
-tags: []
+date: 2014/12/09
+tags: [books]
 author: Jez Nicholson
 alias: /show-your-work
 

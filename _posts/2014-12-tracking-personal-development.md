@@ -1,5 +1,5 @@
 title: Tracking personal development
-date: 2014/12/10 21:00:00 -0700
+date: 2014/12/10
 tags: []
 author: Jez Nicholson
 alias: /tracking-personal-development

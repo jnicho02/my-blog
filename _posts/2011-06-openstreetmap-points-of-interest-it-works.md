@@ -1,5 +1,5 @@
 title: OpenStreetMap Points Of Interest - it works!
-date: 2011/06/09 07:58:00 -0700
+date: 2011/06/09
 tags: []
 author: Jez Nicholson
 alias: /openstreetmap-points-of-interest-it-works

@@ -1,5 +1,5 @@
 title: Certainty
-date: 2006/05/15 21:00:00 -0700
+date: 2006/05/15
 tags: [ideas]
 author: Jez Nicholson
 alias: /certainty

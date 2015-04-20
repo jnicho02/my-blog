@@ -1,5 +1,5 @@
 title: Fox frolic
-date: 2011/06/22 22:29:25 -0700
+date: 2011/06/22
 tags: []
 author: Jez Nicholson
 alias: /fox-frolic

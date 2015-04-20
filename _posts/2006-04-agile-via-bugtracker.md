@@ -1,5 +1,5 @@
 title: Agile management via a bugtracker (Mantis)
-date: 2006/04/07 21:00:00 -0700
+date: 2006/04/07
 tags: [ideas]
 author: Jez Nicholson
 alias: /agile-via-bugtracker

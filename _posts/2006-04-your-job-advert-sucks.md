@@ -1,5 +1,5 @@
 title: How to see whether your job advert sucks
-date: 2006/04/11 21:00:00 -0700
+date: 2006/04/11
 tags: [ideas]
 author: Jez Nicholson
 alias: /your-job-advert-sucks

@@ -1,5 +1,5 @@
 title: using CSS on html in a JTextPane
-date: 2006/05/05 21:00:00 -0700
+date: 2006/05/05
 tags: [code]
 author: Jez Nicholson
 alias: /using-css-in-a-jtextpane
@@ -79,40 +79,41 @@ public class CssAction extends HTMLTextAction {
 }
 Then I extend HTMLEditorKit to add my Actions to the standard set.
 
-package core.view.editor;
-
-import javax.swing.Action;
-import javax.swing.text.TextAction;
-import javax.swing.text.html.HTMLEditorKit;
-
-public class MyHTMLEditorKit extends HTMLEditorKit {
-  private static final Action[] customDefaultActions = {
-      new CssAction("Small", "body {font-size: 10pt;}"),
-      new CssAction("Medium", "body {font-size: 14pt;}"),
-      new CssAction("Large", "body {font-size: 18pt;}") };
-
-  public Action[] getActions() {
-    return TextAction.augmentList(super.getActions(), customDefaultActions);
-  }
-
-}
-package core.view.editor;
-
-import javax.swing.JTextPane;
-import javax.swing.text.Document;
-import javax.swing.text.html.HTMLEditorKit;
-import javax.swing.text.html.StyleSheet;
-
-public class Foo extends JTextPane {
-  public Foo() {
-    super();
-    HTMLEditorKit kit = new MyHTMLEditorKit();
-    setEditorKit(kit);
-    Document doc = kit.createDefaultDocument();
-    setDocument(doc);
-  }
-
-}
+    package core.view.editor;
+    
+    import javax.swing.Action;
+    import javax.swing.text.TextAction;
+    import javax.swing.text.html.HTMLEditorKit;
+    
+    public class MyHTMLEditorKit extends HTMLEditorKit {
+      private static final Action[] customDefaultActions = {
+          new CssAction("Small", "body {font-size: 10pt;}"),
+          new CssAction("Medium", "body {font-size: 14pt;}"),
+          new CssAction("Large", "body {font-size: 18pt;}")
+        };
+        
+      public Action[] getActions() {
+        return TextAction.augmentList(super.getActions(), customDefaultActions);
+      }
+    }
+  
+    package core.view.editor;
+    
+    import javax.swing.JTextPane;
+    import javax.swing.text.Document;
+    import javax.swing.text.html.HTMLEditorKit;
+    import javax.swing.text.html.StyleSheet;
+    
+    public class Foo extends JTextPane {
+      public Foo() {
+        super();
+        HTMLEditorKit kit = new MyHTMLEditorKit();
+        setEditorKit(kit);
+        Document doc = kit.createDefaultDocument();
+        setDocument(doc);
+      }
+      
+    }
 Leaving you only to retrieve the Actions from getActions() by name (getValue("Name")) and creating a JButton or JMenuItem or use my previously mentioned JActionComboBox
 
 ** Update 7th Oct 2010**

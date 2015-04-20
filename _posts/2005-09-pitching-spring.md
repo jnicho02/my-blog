@@ -1,5 +1,5 @@
 title: answering Rick Hightower: How do you pitch the Spring framework to a development manager?
-date: 2005/09/11 21:00:00 -0700
+date: 2005/09/11
 tags: [ideas]
 author: Jez Nicholson
 alias: /pitching-spring

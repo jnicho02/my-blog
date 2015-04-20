@@ -1,5 +1,5 @@
 title: notes from watching Paul Browne talking about Agile
-date: 2006/07/13 21:00:00 -0700
+date: 2006/07/13
 tags: [ideas]
 author: Jez Nicholson
 alias: /paul-browne-talks-agile

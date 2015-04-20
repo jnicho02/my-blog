@@ -1,6 +1,6 @@
 title: attended Brighton Ruby Group lunch and chat (1hr)
-date: 2015/01/13 21:00:00 -0700
-tags: [CPD, events]
+date: 2015/01/13
+tags: [events]
 author: Jez Nicholson
 alias: /attended-brighton-ruby-group-lunch
 

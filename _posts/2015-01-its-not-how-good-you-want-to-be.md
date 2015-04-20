@@ -1,5 +1,5 @@
 title: read "It's not how good you are, it's how good you want to be." by Paul Arden (4 hrs)
-date: 2015/01/20 21:00:00 -0700
+date: 2015/01/20
 tags: [CPD, books]
 author: Jez Nicholson
 alias: /its-not-how-good-you-want-to-be

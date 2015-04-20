@@ -1,6 +1,6 @@
 title: World Bank's Open Data
-date: 2011/04/20 04:51:00 -0700
-tags: [{"name":"opendata","id":44588100}]
+date: 2011/04/20
+tags: [opendata]
 author: Jez Nicholson
 alias: /world-banks-open-data-tag-opendata
 

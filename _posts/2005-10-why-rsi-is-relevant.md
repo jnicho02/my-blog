@@ -1,5 +1,5 @@
 title: Why Repetitive Strain Injury is relevant
-date: 2005/10/05 21:00:00 -0700
+date: 2005/10/05
 tags: [ideas]
 author: Jez Nicholson
 alias: /why-rsi-is-relevant

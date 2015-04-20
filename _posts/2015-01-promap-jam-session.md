@@ -1,5 +1,5 @@
 title: took part in the Promap Jam Session (5 hrs)
-date: 2015/01/30 21:00:00 -0700
+date: 2015/01/30
 tags: [events]
 author: Jez Nicholson
 alias: /promap-jam-session

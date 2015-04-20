@@ -1,5 +1,5 @@
 title: an easy Hibernate Criteria orderBy
-date: 2006/05/15 21:00:00 -0700
+date: 2006/05/15
 tags: [ideas]
 author: Jez Nicholson
 alias: /easy-hibernnate-ordering
@@ -10,43 +10,52 @@ One place where it was a minor pain was in doing an orderBy. Personally I want t
 
 Here's my helper method to allow simple passing of an orderBy string to a Hibernate Criteria:
 
-  /**
-   * a helper method to add an 'order by' statement to a Hibernate Criteria
-   * pass in an orderBy field in the format 'field asc,field2 desc'.
-   * It will default to ascending so you can pass 'field, field2 desc'
-   * @param criteria
-   * @param orderBy
-   */
-  public static void orderBy(Criteria criteria,String orderBy){
-    if (null != orderBy && !("".equals(orderBy.trim()))) {
-      StringTokenizer st = new StringTokenizer(
-          orderBy, ",");
-      while (st.hasMoreTokens()) {
-        StringTokenizer st2 = new StringTokenizer(st.nextToken());
-        int tokenCount = 1;
-        String field = null;
-        String direction = "asc";
-        while (st2.hasMoreTokens()) {
-          String token = st2.nextToken();
-          switch (tokenCount) {
-          case 1:
-            field = token;
-            break;
-          case 2:
-            direction = token;
-            break;
-          default:
-            break;
+    /**
+     * a helper method to add an 'order by' statement to a Hibernate Criteria
+     * pass in an orderBy field in the format 'field asc,field2 desc'.
+     * It will default to ascending so you can pass 'field, field2 desc'
+     * @param criteria
+     * @param orderBy
+     */
+    public static void orderBy(Criteria criteria,String orderBy)
+    {
+      if (null != orderBy && !("".equals(orderBy.trim())))
+      {
+        StringTokenizer st = new StringTokenizer(
+            orderBy, ",");
+        while (st.hasMoreTokens())
+        {
+          StringTokenizer st2 = new StringTokenizer(st.nextToken());
+          int tokenCount = 1;
+          String field = null;
+          String direction = "asc";
+          while (st2.hasMoreTokens())
+          {
+            String token = st2.nextToken();
+            switch (tokenCount)
+            {
+              case 1:
+                field = token;
+                break;
+              case 2:
+                direction = token;
+                break;
+              default:
+                break;
+            }
+            tokenCount++;
           }
-          tokenCount++;
-        }
-        if (null != field) {
-          if ("asc".equalsIgnoreCase(direction)) {
-            criteria.addOrder(Order.asc(field));
-          } else {
-            criteria.addOrder(Order.desc(field));
+          if (null != field)
+          {
+            if ("asc".equalsIgnoreCase(direction))
+            {
+              criteria.addOrder(Order.asc(field));
+            }
+            else
+            {
+              criteria.addOrder(Order.desc(field));
+            }
           }
         }
       }
     }
-  }

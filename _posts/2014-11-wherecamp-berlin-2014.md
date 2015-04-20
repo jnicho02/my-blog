@@ -1,6 +1,6 @@
 title: WhereCampEU, Berlin 2014
-date: 2014/11/16 16:44:00 -0700
-tags: []
+date: 2014/11/16
+tags: [events]
 author: Jez Nicholson
 alias: /wherecamp-berlin-2014
 

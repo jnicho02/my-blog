@@ -1,5 +1,5 @@
 title: read "Redirect, Changing The Stories We Live By" by Timothy D. Wilson (10 hrs)
-date: 2015/02/11 21:00:00 -0700
+date: 2015/02/11
 tags: [books]
 author: Jez Nicholson
 alias: /read-redirect

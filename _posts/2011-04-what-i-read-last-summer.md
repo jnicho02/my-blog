@@ -1,10 +1,10 @@
 title: What I read last Summer (or anytime, come to think of it)
-date: 2011/04/27 06:27:00 -0700
+date: 2011/04/27
 tags: []
 author: Jez Nicholson
-alias: /what-i-read-last-summer-or-anytime-come-to-th
+alias: /what-i-read-last-summer
 
-<p>I use my Twitter account to keep track of what I read by starting the tweet 'reading...'. Using a ruby program and twitter gem I can generate a list. Next step is to post to this blog via an API call every week</p>
+I use my Twitter account to keep track of what I read by starting the tweet 'reading...'. Using a ruby program and twitter gem I can generate a list. Next step is to post to this blog via an API call every week
 <ul>
 <li>Wed Mar 30 05:35:31 +0000 2011 Reading <a href="http://t.co/HYDnzos">http://t.co/HYDnzos</a> #opendata #yam</li>
 <li>Fri Mar 18 12:13:35 +0000 2011 reading <a href="http://www.madwdata.org.uk/">http://www.madwdata.org.uk/</a> approach to #opendata</li>

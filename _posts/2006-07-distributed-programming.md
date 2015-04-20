@@ -1,5 +1,5 @@
 title: distributed programming Web2.0 style
-date: 2006/07/19 21:00:00 -0700
+date: 2006/07/19
 tags: [ideas]
 author: Jez Nicholson
 alias: /distributed-programming

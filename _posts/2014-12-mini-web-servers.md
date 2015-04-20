@@ -1,5 +1,5 @@
 title: following the maxims with mini web servers
-date: 2014/12/15 21:00:00 -0700
+date: 2014/12/15
 tags: []
 author: Jez Nicholson
 alias: /mini-web-servers

@@ -1,5 +1,5 @@
 title: Fox cubs on a trampoline
-date: 2011/05/15 23:06:32 -0700
+date: 2011/05/15
 tags: []
 author: Jez Nicholson
 alias: /fox-cubs-on-a-trampoline

@@ -1,5 +1,5 @@
 title: Operacy
-date: 2005/10/12 21:00:00 -0700
+date: 2005/10/12
 tags: [ideas]
 author: Jez Nicholson
 alias: /operacy

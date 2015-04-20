@@ -1,5 +1,5 @@
 title: not an original name
-date: 2006/01/16 21:00:00 -0700
+date: 2006/01/16
 tags: [code]
 author: Jez Nicholson
 alias: /not-an-original-name

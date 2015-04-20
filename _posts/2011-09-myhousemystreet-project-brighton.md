@@ -1,5 +1,5 @@
 title: MyHouseMyStreet project, Brighton
-date: 2011/09/20 02:53:00 -0700
+date: 2011/09/20
 tags: []
 author: Jez Nicholson
 alias: /myhousemystreet-project-brighton

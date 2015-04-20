@@ -1,6 +1,6 @@
 title: Attended MySociety Meetup
-date: 2014/12/03 21:00:00 -0700
-tags: []
+date: 2014/12/03
+tags: [events]
 author: Jez Nicholson
 alias: /attended-mysociety-meetup
 

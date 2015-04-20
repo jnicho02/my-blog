@@ -1,5 +1,5 @@
 title: monetise gaming at your peril
-date: 2006/10/23 21:00:00 -0700
+date: 2006/10/23
 tags: [events]
 author: Jez Nicholson
 alias: /monetise-gaming-at-your-peril

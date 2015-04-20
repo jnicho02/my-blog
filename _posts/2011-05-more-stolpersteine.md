@@ -1,5 +1,5 @@
 title: More stolpersteine
-date: 2011/05/27 08:18:00 -0700
+date: 2011/05/27
 tags: []
 author: Jez Nicholson
 alias: /more-stolpersteine

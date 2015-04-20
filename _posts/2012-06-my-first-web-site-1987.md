@@ -1,5 +1,5 @@
 title: My first 'web' site, 1987
-date: 2012/06/26 09:28:00 -0700
+date: 2012/06/26
 tags: []
 author: Jez Nicholson
 alias: /my-first-web-site-1987

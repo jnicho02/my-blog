@@ -1,5 +1,5 @@
 title: read "The (Honest) Truth About Dishonesty" by Dan Ariely (6 hrs)
-date: 2015/01/29 21:00:00 -0700
+date: 2015/01/29
 tags: [books]
 author: Jez Nicholson
 alias: /read-honest-truth-about-dishonesty

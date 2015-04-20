@@ -1,6 +1,6 @@
 title: attended Coaching Skills presentation (1hr)
-date: 2015/01/06 21:00:00 -0700
-tags: []
+date: 2015/01/06
+tags: [courses]
 author: Jez Nicholson
 alias: /attended-coaching-skills-presentation
 

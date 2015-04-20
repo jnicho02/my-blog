@@ -1,5 +1,5 @@
 title: OpenOffice.org 2.0 uses some Java : this is evil apparently...
-date: 2006/01/11 21:00:00 -0700
+date: 2006/01/11
 tags: [code]
 author: Jez Nicholson
 alias: /java-is-evil-apparently

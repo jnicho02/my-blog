@@ -1,5 +1,5 @@
 title: Tweaking installed open source webapps
-date: 2006/12/04 21:00:00 -0700
+date: 2006/12/04
 tags: [events]
 author: Jez Nicholson
 alias: /tweaking-open-source-webapps

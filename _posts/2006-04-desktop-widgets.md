@@ -1,5 +1,5 @@
 title: what is the 'best' way to build a desktop widget?
-date: 2006/04/21 21:00:00 -0700
+date: 2006/04/21
 tags: [ideas]
 author: Jez Nicholson
 alias: /desktop-widgets

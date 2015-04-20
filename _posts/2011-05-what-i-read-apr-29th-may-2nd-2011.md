@@ -1,5 +1,5 @@
 title: What I read Apr 29th-May 2nd 2011
-date: 2011/05/03 04:06:49 -0700
+date: 2011/05/03
 tags: []
 author: Jez Nicholson
 alias: /what-i-read-apr-29th-may-2nd-2011

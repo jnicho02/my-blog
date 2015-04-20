@@ -1,6 +1,6 @@
 title: attended Creativity and Innovation workshop (3hrs)
-date: 2015/01/07 21:00:00 -0700
-tags: []
+date: 2015/01/07
+tags: [courses]
 author: Jez Nicholson
 alias: /attended-creativity-and-innovation-workshop
 

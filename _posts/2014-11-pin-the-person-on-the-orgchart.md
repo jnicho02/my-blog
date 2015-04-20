@@ -1,5 +1,5 @@
 title: Pin the person on the orgchart
-date: 2014/11/25 16:30:00 -0700
+date: 2014/11/25
 tags: []
 author: Jez Nicholson
 alias: /pin-the-person-on-the-orgchart

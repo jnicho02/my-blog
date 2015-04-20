@@ -1,5 +1,5 @@
 title: declaring log4j loggers statically....or not?
-date: 2006/07/03 21:00:00 -0700
+date: 2006/07/03
 tags: [code]
 author: Jez Nicholson
 alias: /declaring-log4j-loggers-statically

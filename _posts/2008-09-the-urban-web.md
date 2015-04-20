@@ -1,5 +1,5 @@
 title: The Urban Web
-date: 2008/09/05 21:00:00 -0700
+date: 2008/09/05
 tags: [events,geo]
 author: Jez Nicholson
 alias: /the-urban-web

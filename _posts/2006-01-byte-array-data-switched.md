@@ -1,5 +1,5 @@
 title: Oracle/Hibernate byte array data switched round problem
-date: 2006/01/11 21:00:00 -0700
+date: 2006/01/11
 tags: [code]
 author: Jez Nicholson
 alias: /byte-array-data-switched

@@ -1,5 +1,5 @@
 title: Java best practice
-date: 2006/06/09 21:00:00 -0700
+date: 2006/06/09
 tags: [ideas]
 author: Jez Nicholson
 alias: /java-best-practice

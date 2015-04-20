@@ -1,5 +1,5 @@
 title: Tracking Lucene
-date: 2005/08/17 21:00:00 -0700
+date: 2005/08/17
 tags: [code]
 author: Jez Nicholson
 alias: /tracking-lucene

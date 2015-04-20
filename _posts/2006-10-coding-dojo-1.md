@@ -1,5 +1,5 @@
 title: CodingDojo #1
-date: 2006/10/18 21:00:00 -0700
+date: 2006/10/18
 tags: [events]
 author: Jez Nicholson
 alias: /coding-dojo-1

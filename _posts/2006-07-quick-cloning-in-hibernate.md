@@ -1,5 +1,5 @@
 title: quick cloning in Hibernate
-date: 2006/07/01 21:00:00 -0700
+date: 2006/07/01
 tags: [ideas]
 author: Jez Nicholson
 alias: /quick-cloning-in-hibernate

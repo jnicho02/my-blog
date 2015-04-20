@@ -1,5 +1,5 @@
 title: my World Cup calendar gets used in school
-date: 2006/05/25 21:00:00 -0700
+date: 2006/05/25
 tags: [ideas]
 author: Jez Nicholson
 alias: /my-google-world-cup-calendar-used-in-classroom

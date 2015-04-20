@@ -1,5 +1,5 @@
 title: Share your dots, but don't connect them.
-date: 2012/09/13 23:34:00 -0700
+date: 2012/09/13
 tags: [ideas]
 author: Jez Nicholson
 alias: /share-your-dots

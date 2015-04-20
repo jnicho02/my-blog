@@ -1,6 +1,6 @@
 title: read "101 Things I Learned in Architecture School" by Matthew Frederick (2 hrs)
-date: 2015/01/22 21:00:00 -0700
-tags: [CPD, books]
+date: 2015/01/22
+tags: [books]
 author: Jez Nicholson
 alias: /101-things-i-learned-in-architecture-school
 

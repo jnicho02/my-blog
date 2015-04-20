@@ -1,5 +1,5 @@
 title: Matt Raible on TheServerSide
-date: 2005/06/06 21:00:00 -0700
+date: 2005/06/06
 tags: [code]
 author: Jez Nicholson
 alias: /Matt-Raible-on-theserverside

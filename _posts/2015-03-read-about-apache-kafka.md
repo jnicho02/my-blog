@@ -1,5 +1,5 @@
 title: read up about Apache Kafka (1hr)
-date: 2015/04/07 21:00:00 -0700
+date: 2015/04/07
 tags: [articles]
 author: Jez Nicholson
 alias: /read-about-apache-kafka

@@ -1,6 +1,6 @@
 title: Another idea for Book Hack Day
-date: 2011/05/01 05:20:00 -0700
-tags: [{"name":"bhd11","id":45246150}]
+date: 2011/05/01
+tags: []
 author: Jez Nicholson
 alias: /another-idea-for-book-hack-day
 

@@ -1,5 +1,5 @@
 title: read microservices article "Agile coding in enterprise IT: Code small and local" (1hr)
-date: 2015/04/07 21:00:00 0000
+date: 2015/04/07
 tags: [articles]
 author: Jez Nicholson
 alias: /read-microservices-in-enterprise-it

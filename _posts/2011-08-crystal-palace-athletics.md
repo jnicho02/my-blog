@@ -1,5 +1,5 @@
 title: Crystal Palace athletics
-date: 2011/08/06 13:36:03 -0700
+date: 2011/08/06
 tags: []
 author: Jez Nicholson
 alias: /crystal-palace-athletics

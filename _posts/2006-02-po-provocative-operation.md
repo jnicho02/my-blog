@@ -1,5 +1,5 @@
-title: 'Po' = Provocative Operation
-date: 2006/01/27 21:00:00 -0700
+title: Po = Provocative Operation
+date: 2006/01/27
 tags: [ideas]
 author: Jez Nicholson
 alias: /po-provocative-operation

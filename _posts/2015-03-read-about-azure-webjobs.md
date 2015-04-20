@@ -1,5 +1,5 @@
 title: read up about Azure WebJobs (1hr)
-date: 2015/04/01 21:00:00 -0700
+date: 2015/04/01
 tags: [articles]
 author: Jez Nicholson
 alias: /read-about-azure-webjobs

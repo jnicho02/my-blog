@@ -1,5 +1,5 @@
 title: webapp presentation layer = "None of the above"
-date: 2006/10/16 21:00:00 -0700
+date: 2006/10/16
 tags: [events]
 author: Jez Nicholson
 alias: /webapp-presentation-layer

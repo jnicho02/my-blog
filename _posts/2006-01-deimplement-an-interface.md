@@ -1,5 +1,5 @@
 title: can you de-implement an interface?
-date: 2006/01/24 21:00:00 -0700
+date: 2006/01/24
 tags: [code]
 author: Jez Nicholson
 alias: /deimplement-an-interface

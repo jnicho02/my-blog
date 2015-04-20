@@ -1,5 +1,5 @@
 title: Corporate communications using social networking
-date: 2012/07/01 03:26:00 -0700
+date: 2012/07/01
 tags: [ideas]
 author: Jez Nicholson
 alias: /corporate-communications-using-social-network

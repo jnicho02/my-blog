@@ -1,5 +1,5 @@
 title: Who cares about Human Resources?
-date: 2005/10/05 21:00:00 -0700
+date: 2005/10/05
 tags: [ideas]
 author: Jez Nicholson
 alias: /who-cares-about-hr

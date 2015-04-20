@@ -1,5 +1,5 @@
 title: attended Product Tank Brighton #3 (3hrs)
-date: 2015/01/15 21:00:00 -0700
+date: 2015/01/15
 tags: [CPD, events]
 author: Jez Nicholson
 alias: /product-tank-3

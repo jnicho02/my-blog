@@ -1,5 +1,5 @@
 title: 'new job' notification via LinkedIn
-date: 2006/11/17 21:00:00 -0700
+date: 2006/11/17
 tags: [events]
 author: Jez Nicholson
 alias: /new-job-notification-on-linkedin

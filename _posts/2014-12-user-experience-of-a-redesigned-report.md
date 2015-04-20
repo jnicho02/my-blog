@@ -1,5 +1,5 @@
 title: User Experience of a redesigned report
-date: 2014/12/10 21:00:00 -0700
+date: 2014/12/10
 tags: []
 author: Jez Nicholson
 alias: /user-experience-of-a-redesigned-report

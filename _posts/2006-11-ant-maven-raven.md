@@ -1,5 +1,5 @@
 title: ant..maven..raven...what build tool to go for?
-date: 2006/11/13 21:00:00 -0700
+date: 2006/11/13
 tags: [events]
 author: Jez Nicholson
 alias: /ant-maven-raven

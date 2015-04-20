@@ -1,6 +1,6 @@
 title: Artefact cards are great
-date: 2014/11/25 17:00:00 -0700
-tags: []
+date: 2014/11/25
+tags: [events]
 author: Jez Nicholson
 alias: /artefact-cards-are-great
 

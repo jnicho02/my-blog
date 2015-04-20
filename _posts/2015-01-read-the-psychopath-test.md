@@ -1,5 +1,5 @@
 title: read "The Psychopath Test" by Jon Ronson (8hrs)
-date: 2015/01/13 21:00:00 -0700
+date: 2015/01/13
 tags: [CPD, books]
 author: Jez Nicholson
 alias: /read-the-psychopath-test

@@ -1,5 +1,5 @@
 title: Is it practical to JUnit test a GUI?
-date: 2005/11/16 21:00:00 -0700
+date: 2005/11/16
 tags: [code]
 author: Jez Nicholson
 alias: /testing-a-gui

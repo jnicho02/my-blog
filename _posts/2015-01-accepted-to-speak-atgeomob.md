@@ -1,6 +1,6 @@
 title: attended Geomob London (4hrs)
-date: 2015/01/14 21:00:00 -0700
-tags: [CPD, events]
+date: 2015/01/14
+tags: [events]
 author: Jez Nicholson
 alias: /accepted-to-speak-atgeomob
 
