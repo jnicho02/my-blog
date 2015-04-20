@@ -4,4 +4,4 @@ tags: []
 author: Jez Nicholson
 alias: /my-agile-development-process
 
-​<iframe width="420" height="315" src="https://www.youtube.com/embed/71KtMgRUiY8" frameborder="0" allowfullscreen></iframe>
+[![My Agile development process](http://img.youtube.com/vi/71KtMgRUiY8/0.jpg)](http://www.youtube.com/watch?v=71KtMgRUiY8)
