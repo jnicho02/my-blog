@@ -4,7 +4,7 @@ tags: [presentations]
 author: Jez Nicholson
 alias: /watched-organising-for-microservices
 
-500px talk about microservices http://www.infoq.com/presentations/500px-services jump to 5m
+A talk by 500px about microservices http://www.infoq.com/presentations/500px-services jump to 5m
 
 Microservices can be referred to as 'Hipster SOA'
 
