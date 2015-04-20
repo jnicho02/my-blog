@@ -1,4 +1,4 @@
-title: read "How to be Alone" by Sara Maitland (6 hrs)
+title: watched Organising For Microservices (1 hr)
 date: 2015/03/31 21:00:00 -0700
 tags: [presentations]
 author: Jez Nicholson
