@@ -4,39 +4,38 @@ tags: [code]
 author: Jez Nicholson
 alias: /parsing-csv-files-with-groovy
 
-<p>We have a piece of software that insists on generating a type of csv file containing multiple datasets. I'm currently turning this into XML to make it easier to process (funny that, people seem to have a downer on xml most of the time). I want to parse the csv without knowing what the columns will be, plus they can be speechmark delimitted and maybe contain carriage returns.</p>
-<p>Anyway, it seems easy to start with and then gets more and more involved. Let's face it, life is too short to write a full parser for myself. I did a bit of research and took the opportunity to try it out in groovy. My latest version uses a groovy wrapper&nbsp;<a href="https://github.com/xlson/groovycsv/">https://github.com/xlson/groovycsv/</a>&nbsp;of&nbsp;<a href="http://opencsv.sourceforge.net/">http://opencsv.sourceforge.net/</a></p>
-<p>UPDATE: my good friend and ex-colleague @nugsie suggested a MarkupBuilder....</p>
-<p><code>
- @Grab('com.xlson.groovycsv:groovycsv:0.2')
- import com.xlson.groovycsv.CsvParser
- import groovy.xml.MarkupBuilder
- 
- def csv = '''field_one,field_two,field_three
- ay,"be""e",sea
- ay,"bee
- multiline",sea'''
- 
- def writer = new StringWriter()
- def xml = new MarkupBuilder(writer)
- 
- def data = new CsvParser().parse(csv)
- 
- xml.records() {
-&nbsp; &nbsp;data.each { line -&gt;
-&nbsp; &nbsp; &nbsp;feature() {
-&nbsp; &nbsp; &nbsp; &nbsp;line.columns.each { columnName, index -&gt;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"${columnName}"(line.values[index])
-&nbsp; &nbsp; &nbsp; &nbsp;}
-&nbsp; &nbsp; &nbsp;}
-&nbsp; &nbsp;}
- }
- 
- writer.toString()
- </code></p>
-<p>output from which is:</p>
-<p><code>
+We have a piece of software that insists on generating a type of csv file containing multiple datasets. I'm currently turning this into XML to make it easier to process (funny that, people seem to have a downer on xml most of the time). I want to parse the csv without knowing what the columns will be, plus they can be speechmark delimitted and maybe contain carriage returns.
+Anyway, it seems easy to start with and then gets more and more involved. Let's face it, life is too short to write a full parser for myself. I did a bit of research and took the opportunity to try it out in groovy. My latest version uses a groovy wrapper&nbsp;<a href="https://github.com/xlson/groovycsv/">https://github.com/xlson/groovycsv/</a>&nbsp;of&nbsp;<a href="http://opencsv.sourceforge.net/">http://opencsv.sourceforge.net/</a>
+UPDATE: my good friend and ex-colleague @nugsie suggested a MarkupBuilder....
 
+'''groovy
+
+    @Grab('com.xlson.groovycsv:groovycsv:0.2')
+    import com.xlson.groovycsv.CsvParser
+    import groovy.xml.MarkupBuilder
+
+    def csv = '''field_one,field_two,field_three
+    ay,"be""e",sea
+    ay,"bee
+    multiline",sea'''
+
+    def writer = new StringWriter()
+    def xml = new MarkupBuilder(writer)
+    def data = new CsvParser().parse(csv)
+    xml.records() {
+    &nbsp; &nbsp;data.each { line -&gt;
+    &nbsp; &nbsp; &nbsp;feature() {
+    &nbsp; &nbsp; &nbsp; &nbsp;line.columns.each { columnName, index -&gt;
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;"${columnName}"(line.values[index])
+    &nbsp; &nbsp; &nbsp; &nbsp;}
+    &nbsp; &nbsp; &nbsp;}
+    &nbsp; &nbsp;}
+    }
+ 
+    writer.toString()
+'''
+
+output from which is:
 
 &lt;?xml version="1.0" encoding="UTF-8"?&gt;
  &lt;records&gt;
@@ -53,7 +52,4 @@ alias: /parsing-csv-files-with-groovy
  &nbsp; &lt;/Feature&gt;
  &lt;/records&gt;
 
-
-</code></p>
-<p>...nice.</p>
-<p>&nbsp;</p>
+...nice.
