@@ -1,5 +1,6 @@
 title: Simple Audio Blogging
 date: 2013-05-22
+tags: [ideas]
 author: Jez Nicholson
 
 I've been planning to add some simple audio blogs to our company web site. In particular, short one-on-one interviews which will probably be held at the interviewees premises. My first thought was to use an electronic dictaphone or even use the iPhone Record app.

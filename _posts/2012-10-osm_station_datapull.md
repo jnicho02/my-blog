@@ -1,5 +1,6 @@
 title: OpenStreetMap station data
 date: 2012-10-31
+tags: [code, osm]
 author: Jez Nicholson
 
 Here is some quick postgis sql that I used to knock up kml of railway station sites in England. I have now forked traingraph to add my own flourishes https://github.com/jnicho02/traingraph

@@ -1,6 +1,6 @@
 title: Exploring OSM Railway Data
 date: 2012-10-26
-tags: [osm]
+tags: [code, osm]
 author: Jez Nicholson
 
 I've been using Postgis to explore OSM Railway Data. As tagging is open in Open Street Map it means that there may be a number of alternatives to look for. I am doing some counts to see what people actually tag nodes and ways as.
