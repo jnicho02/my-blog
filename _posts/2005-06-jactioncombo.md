@@ -6,6 +6,8 @@ alias: /jactioncombo
 
 I'm very keen on Swing components being properly object-oriented. An example of this would be a combo box of actions. Many programmers would put the actions into a HashMap, populate the combo with Strings to represent the action, then on actionPerformed look up the action in the HashMap. What I say is: change the comboBox to accept Action objects and render them appropriately...no need to create your own storage...change the representation to something else if you want...
 
+'''java
+
     import java.awt.Component;
     import java.awt.event.ActionEvent;
     import java.awt.event.ActionListener;
@@ -89,4 +91,4 @@ I'm very keen on Swing components being properly object-oriented. An example of 
                 }
             }
         }
-    }
+    }'''
