@@ -12,10 +12,10 @@ I had been playing with Google Calendar and used it as an example. A sign of dup
 
 If you have Google Calendar and wish to subscribe then:
 
-Under the Calendars list click 'manage calendars'
-Under Other Calendars click 'add calendar'
-Select Public Calendar Address
-Enter http://www.google.com/calendar/ical/bqnoop4s611jmcjcio5rvg92co@group.calendar.google.com/public/basic as the public address
+* Under the Calendars list click 'manage calendars'
+* Under Other Calendars click 'add calendar'
+* Select Public Calendar Address
+* Enter http://www.google.com/calendar/ical/bqnoop4s611jmcjcio5rvg92co@group.calendar.google.com/public/basic as the public address
 You can add any ical calendar to Google Calendars. I have ones from upcoming.org on mine.
 
 There is an RSS feed which is in 'last edited' order. Not sure how useful that is (?)

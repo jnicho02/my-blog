@@ -8,76 +8,85 @@ Creating an HTML editor with standard jdk1.4/1.5 Swing is fairly simple, but rem
 
 I do this in two ways. Firstly, to apply CSS directly to a panel:
 
-package core.view.editor;
+'''java
 
-import javax.swing.JTextPane;
-import javax.swing.text.Document;
-import javax.swing.text.html.HTMLEditorKit;
-import javax.swing.text.html.StyleSheet;
+    package core.view.editor;
 
-public class Foo extends JTextPane {
-  public Foo() {
-    super();
-    HTMLEditorKit kit = new HTMLEditorKit();
-    setEditorKit(kit);
-    StyleSheet styleSheet = kit.getStyleSheet();
-    styleSheet
-        .addRule("body {margin-left:22px; margin-top:22px; margin-right:22px;}");
-    styleSheet
-        .addRule("body {color:#000000; font-family:Verdana,sans-serif;}");
-    Document doc = kit.createDefaultDocument();
-    setDocument(doc);
-  }
+    import javax.swing.JTextPane;
+    import javax.swing.text.Document;
+    import javax.swing.text.html.HTMLEditorKit;
+    import javax.swing.text.html.StyleSheet;
 
-}
+    public class Foo extends JTextPane {
+      public Foo() {
+        super();
+        HTMLEditorKit kit = new HTMLEditorKit();
+        setEditorKit(kit);
+        StyleSheet styleSheet = kit.getStyleSheet();
+        styleSheet
+            .addRule("body {margin-left:22px; margin-top:22px; margin-right:22px;}");
+        styleSheet
+            .addRule("body {color:#000000; font-family:Verdana,sans-serif;}");
+        Document doc = kit.createDefaultDocument();
+        setDocument(doc);
+      }
+    }
 and secondly to create Actions and hence buttons or drop-downs to control the display
 
-package core.view.editor;
+'''java
 
-import java.awt.event.ActionEvent;
+    package core.view.editor;
 
-import javax.swing.JEditorPane;
-import javax.swing.text.html.HTMLEditorKit;
-import javax.swing.text.html.StyleSheet;
-import javax.swing.text.html.HTMLEditorKit.HTMLTextAction;
+    import java.awt.event.ActionEvent;
+    import javax.swing.JEditorPane;
+    import javax.swing.text.html.HTMLEditorKit;
+    import javax.swing.text.html.StyleSheet;
+    import javax.swing.text.html.HTMLEditorKit.HTMLTextAction;
 
-/**
- * apply a number of css rules to the stylesheet
- */
-public class CssAction extends HTMLTextAction {
-  public CssAction(String name, String[] rules) {
-    super(name);
-    this.rules = rules;
-  }
-
-  public CssAction(String name, String rule) {
-    super(name);
-    rules = new String[1];
-    rules[0] = rule;
-  }
-
-  public void actionPerformed(ActionEvent ae) {
-    JEditorPane editor = getEditor(ae);
-    if (editor != null) {
-      HTMLEditorKit kit = getHTMLEditorKit(editor);
-      StyleSheet styleSheet = kit.getStyleSheet();
-      for (int i = 0; i < rules.length; i++) {
-        styleSheet.addRule(rules[i]);
-        // no need to remove existing rule
+    /**
+     + apply a number of css rules to the stylesheet
+     */
+    public class CssAction extends HTMLTextAction
+    {
+      public CssAction(String name, String[] rules)
+      {
+        super(name);
+        this.rules = rules;
       }
-      int pos = editor.getCaretPosition();
-      String data = editor.getText();
-      editor.setText("");
-      editor.setText(data);
-      editor.setCaretPosition(pos);
+
+      public CssAction(String name, String rule)
+      {
+        super(name);
+        rules = new String[1];
+        rules[0] = rule;
+      }
+
+      public void actionPerformed(ActionEvent ae)
+      {
+        JEditorPane editor = getEditor(ae);
+        if (editor != null)
+        {
+          HTMLEditorKit kit = getHTMLEditorKit(editor);
+          StyleSheet styleSheet = kit.getStyleSheet();
+          for (int i = 0; i < rules.length; i++)
+          {
+            styleSheet.addRule(rules[i]);
+            // no need to remove existing rule
+          }
+          int pos = editor.getCaretPosition();
+          String data = editor.getText();
+          editor.setText("");
+          editor.setText(data);
+          editor.setCaretPosition(pos);
+        }
+      }
+
+      // set of css rules, e.g. "body {margin-left:22px;}"
+      private String[] rules;
     }
-  }
-
-  // set of css rules, e.g. "body {margin-left:22px;}"
-  private String[] rules;
-
-}
+'''
 Then I extend HTMLEditorKit to add my Actions to the standard set.
+'''java
 
     package core.view.editor;
     
@@ -85,18 +94,23 @@ Then I extend HTMLEditorKit to add my Actions to the standard set.
     import javax.swing.text.TextAction;
     import javax.swing.text.html.HTMLEditorKit;
     
-    public class MyHTMLEditorKit extends HTMLEditorKit {
-      private static final Action[] customDefaultActions = {
-          new CssAction("Small", "body {font-size: 10pt;}"),
-          new CssAction("Medium", "body {font-size: 14pt;}"),
-          new CssAction("Large", "body {font-size: 18pt;}")
-        };
+    public class MyHTMLEditorKit extends HTMLEditorKit
+    {
+      private static final Action[] customDefaultActions =
+      {
+        new CssAction("Small", "body {font-size: 10pt;}"),
+        new CssAction("Medium", "body {font-size: 14pt;}"),
+        new CssAction("Large", "body {font-size: 18pt;}")
+      };
         
-      public Action[] getActions() {
+      public Action[] getActions()
+      {
         return TextAction.augmentList(super.getActions(), customDefaultActions);
       }
     }
-  
+'''
+'''java
+    
     package core.view.editor;
     
     import javax.swing.JTextPane;
@@ -104,16 +118,18 @@ Then I extend HTMLEditorKit to add my Actions to the standard set.
     import javax.swing.text.html.HTMLEditorKit;
     import javax.swing.text.html.StyleSheet;
     
-    public class Foo extends JTextPane {
-      public Foo() {
+    public class Foo extends JTextPane
+    {
+      public Foo()
+      {
         super();
         HTMLEditorKit kit = new MyHTMLEditorKit();
         setEditorKit(kit);
         Document doc = kit.createDefaultDocument();
         setDocument(doc);
       }
-      
     }
+'''
 Leaving you only to retrieve the Actions from getActions() by name (getValue("Name")) and creating a JButton or JMenuItem or use my previously mentioned JActionComboBox
 
 ** Update 7th Oct 2010**

@@ -10,9 +10,11 @@ Being an Agile-type Developer I wasn't happy that the tests were being done in m
 
 I know that this all sounds a bit sad, but there is a point:
 
-a JUnit test that took 5 minutes to code paid off almost immediately by showing up potential errors.
-the process of adding test cases makes you think about the problem more. Only by adding test cases did I think of 120001. That's why testing before or during coding will change the way you code....it makes you think about the problem and express the various outcomes.
+A JUnit test that took 5 minutes to code paid off almost immediately by showing up potential errors.
+The process of adding test cases makes you think about the problem more. Only by adding test cases did I think of 120001. That's why testing before or during coding will change the way you code....it makes you think about the problem and express the various outcomes.
 random test cases are not enough. Coverage is vital. I should identify the potential combinations and have a test for each.
+
+'''java
 
     import junit.framework.TestCase;
     
@@ -113,3 +115,4 @@ random test cases are not enough. Coverage is vital. I should identify the poten
             assertEquals("one hundred twenty three million four hundred fifty six thousand seven hundred and eighty nine",EnglishDecimalFormat.convert(123456789));
         }
     }
+'''

@@ -6,7 +6,7 @@ alias: /po-provocative-operation
 
 Sometimes good ideas come about by being deliberately provocative, not by trying to solve the problem directly. Thinking is a skill that we should all work on as one of the arsenal of technical skills needed in IT.
 
-I've been reading Edward De Bono's Thinking Course again. He introduces a term 'po' which could stand for 'provocative operation' or be part of hypothesis, suppose, possible or poetry. By stating a seemingly absurd standpoint, you might produce the unusual solution that cracks the problem.
+I've been reading Edward De Bono's Thinking Course. He introduces a term 'po' which could stand for 'provocative operation' or be part of hypothesis, suppose, possible or poetry. By stating a seemingly absurd standpoint, you might produce the unusual solution that cracks the problem.
 
 * A reversal
 * Exaggeration

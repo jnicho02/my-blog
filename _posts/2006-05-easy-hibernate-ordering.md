@@ -9,6 +9,7 @@ I've been doing a bit of Hibernate recently using the Criteria object. This help
 One place where it was a minor pain was in doing an orderBy. Personally I want to be able to say criteria.addOrder("field1 asc, field2 desc") rather than build it up one item at a time. Maybe someone will point out that I've missed a method in the standard library, if so i'll update this post accordingly.
 
 Here's my helper method to allow simple passing of an orderBy string to a Hibernate Criteria:
+'''java
 
     /**
      * a helper method to add an 'order by' statement to a Hibernate Criteria
@@ -59,3 +60,4 @@ Here's my helper method to allow simple passing of an orderBy string to a Hibern
         }
       }
     }
+'''

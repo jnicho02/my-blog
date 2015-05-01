@@ -1,6 +1,6 @@
 title: geoUrl tagging non-tagged web pages
 date: 2006/07/15
-tags: [ideas]
+tags: [geo,ideas]
 author: Jez Nicholson
 alias: /geotagging-non-tagged-web-pages
 

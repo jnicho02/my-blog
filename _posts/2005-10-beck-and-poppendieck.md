@@ -6,7 +6,7 @@ alias: /kent-beck-and-mary-poppendieck
 
 I'm a bit late on writing this up, so have probably forgotten some of it by now....On the 24th June I went to see a seminar from Exoftware.
 
-"Accountability and Developer Testing" Kent Beck, Three Rivers Institute In his talk, Kent will present a high level overview on the business value of developer accountability and a solid testing environment.
+"Accountability and Developer Testing" Kent Beck, Three Rivers Institute. In his talk, Kent will present a high level overview on the business value of developer accountability and a solid testing environment.
 
 I wanted to see Kent Beck due to his seminal textbook eXtreme Programming eXplained and the fact that he wrote JUnit. Beck says that the 2nd edition of XP Xplained has been greatly refactored and that he has changed his approach in trying to get his ideas adopted. Rather than saying, "this is how you must develop" he says, "here are some things that worked for me, maybe you can adopt and adapt them".
 

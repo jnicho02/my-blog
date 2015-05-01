@@ -10,6 +10,8 @@ However, the example doesn't really have the desired effect because my actions a
 
 For example, here's my look and feel changer....
 
+'''java
+
     import java.awt.Component;
     import java.awt.event.ActionEvent;
     
@@ -87,5 +89,5 @@ For example, here's my look and feel changer....
         }
         
         private UIManager.LookAndFeelInfo laf;
-        
     }
+'''

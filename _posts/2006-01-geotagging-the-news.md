@@ -1,6 +1,6 @@
 title: geotagging the news
 date: 2006/01/18
-tags: [code]
+tags: [geo]
 author: Jez Nicholson
 alias: /geotagging-the-news
 

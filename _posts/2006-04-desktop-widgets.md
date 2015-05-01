@@ -8,13 +8,14 @@ Latest project requires a desktop widget to automatically update itself and disp
 
 First off, what does 'best' mean in this situation? Well it needs to be:
 
-highly graphical and groovy,
-easily updatable to new versions,
-not a resource hog,
-easy to install,
-not have too many platform-specific requirements that cause loads of support calls.
+* highly graphical and groovy,
+* easily updatable to new versions,
+* not a resource hog,
+* easy to install,
+* not have too many platform-specific requirements that cause loads of support calls.
 ...some other stuff I haven't thought of yet...
-Yahoo Widgets
+
+##Yahoo Widgets
 My first thought was of Yahoo Widgets (used to be Konfabulator). The Yahoo Weather widget sits on my desktop and looks really beautiful and is just the sort of thing we want to produce.
 
 
@@ -22,14 +23,14 @@ You can create a widget direct from Photoshop files, so slick graphics are easil
 
 Comments from Loosely Coupled about the potential of Yahoo Widgets
 
-Flash/Flex
+##Flash/Flex
 Second thought was of Flash/Flex. Slick graphics are possible and there are plenty of developers out there, but am not sure whether you could program an always-on desktop widget with it?
 
-OpenLaszlo
+##OpenLaszlo
 Then there's OpenLaszlo, but similar to Flash/Flex
 
-Swing
+##Swing
 I could just fall back to my old favourite Java Swing, but that might just be a case of having a hammer and seeing every problem as a nail. But, I do have plenty of experience of it so could cope with any problems that are thrown up. I can't say that any of the GUIs i've worked on have been works of art, but I know that groovy interfaces are possible.
 
-Help!
+##Help!
 What to do....maybe someone can suggest other technologies or give some advice?....or maybe not, 155 reads so far and zero comments...
