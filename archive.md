@@ -3,7 +3,7 @@ order: 30
 show-if: has_blog
 
 <div class="page-header">
-	<h1>Blog Archive</h1>
+	<h1>Archive</h1>
 </div>
 
 <div data-lift="archived_posts">
