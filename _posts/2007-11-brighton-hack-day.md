@@ -16,4 +16,4 @@ Around lunchtime we were joined by Mr Hopper Snr, who after hearing a little abo
 
 We nearly had an integration problem where an incomplete command would be issued to the game. This was because we didn't force a test.
 
-The eventual demo worked a treat. Thom had adapted the temperature sensor at the last minute to be embedded in the bottom of a cut off Coke can. Hot or cold liquid could be poured into this and be in direct contact with the sensor. This would post a message to a web server which the demo laptop was polling. The java Robot API was then used to write the appropriate command into the Inform game window at the prompt.
+The eventual demo worked a treat. Thom had adapted the temperature sensor at the last minute to be embedded in the bottom of a cut off Coke can. Hot or cold liquid could be poured into this and be in direct contact with the sensor. This would post a message to a web server which the demo laptop was polling. The Java Robot API was then used to write the appropriate command into the Inform game window at the prompt.
