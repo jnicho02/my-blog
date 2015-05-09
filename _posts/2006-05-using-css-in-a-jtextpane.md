@@ -11,12 +11,12 @@ I do this in two ways. Firstly, to apply CSS directly to a panel:
 '''java
 
     package core.view.editor;
-
+    
     import javax.swing.JTextPane;
     import javax.swing.text.Document;
     import javax.swing.text.html.HTMLEditorKit;
     import javax.swing.text.html.StyleSheet;
-
+    
     public class Foo extends JTextPane {
       public Foo() {
         super();
@@ -36,13 +36,13 @@ and secondly to create Actions and hence buttons or drop-downs to control the di
 '''java
 
     package core.view.editor;
-
+    
     import java.awt.event.ActionEvent;
     import javax.swing.JEditorPane;
     import javax.swing.text.html.HTMLEditorKit;
     import javax.swing.text.html.StyleSheet;
     import javax.swing.text.html.HTMLEditorKit.HTMLTextAction;
-
+    
     /**
      + apply a number of css rules to the stylesheet
      */
@@ -53,14 +53,14 @@ and secondly to create Actions and hence buttons or drop-downs to control the di
         super(name);
         this.rules = rules;
       }
-
+    
       public CssAction(String name, String rule)
       {
         super(name);
         rules = new String[1];
         rules[0] = rule;
       }
-
+    
       public void actionPerformed(ActionEvent ae)
       {
         JEditorPane editor = getEditor(ae);
@@ -80,7 +80,7 @@ and secondly to create Actions and hence buttons or drop-downs to control the di
           editor.setCaretPosition(pos);
         }
       }
-
+    
       // set of css rules, e.g. "body {margin-left:22px;}"
       private String[] rules;
     }

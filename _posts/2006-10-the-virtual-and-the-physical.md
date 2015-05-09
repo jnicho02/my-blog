@@ -1,6 +1,6 @@
 title: the key to success for e-commerce: combining the virtual and the physical?
 date: 2006/10/27
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
 alias: /the-virtual-and-the-physical
 

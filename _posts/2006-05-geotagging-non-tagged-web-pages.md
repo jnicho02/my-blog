@@ -8,5 +8,5 @@ I have an idea for a small extension to geourl.org. Geourl maintain a database o
 
 The system could be friendly and offer the site owner information about their site, e.g. an email saying "you could add the following meta tags to page xxx.html..."
 
-Peer review
+##Peer review
 I've also been thinking about an anti-spam measure where new submissions are sent to people whose geo location is near to the new one. They could then peer review the info and weed out spam.

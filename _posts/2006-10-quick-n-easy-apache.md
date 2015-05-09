@@ -1,6 +1,6 @@
 title: my quick n' easy Apache2 set up
 date: 2006/10/30
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
 alias: /quick-n-easy-apache
 

@@ -1,6 +1,6 @@
 title: Thoughts on microformats
 date: 2007/07/06
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
 alias: /thoughts-on-microformats
 

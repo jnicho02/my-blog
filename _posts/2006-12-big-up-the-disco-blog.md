@@ -1,6 +1,6 @@
 title: in which I "big up" The Disco Blog
 date: 2006/12/06
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
 alias: /big-up-the-disco-blog
 

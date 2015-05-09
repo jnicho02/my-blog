@@ -1,6 +1,6 @@
 title: Why use a CMS?
 date: 2007/08/01
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
 alias: /why-use-a-cms
 
