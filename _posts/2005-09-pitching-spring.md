@@ -2,7 +2,6 @@ title: answering Rick Hightower: How do you pitch the Spring framework to a deve
 date: 2005/09/11
 tags: [ideas]
 author: Jez Nicholson
-alias: /pitching-spring
 
 I started adding a comment to Rick Hightower's blog entry How do you pitch the Spring framework to a development manager? but soon discovered that the comments box didn't leave me enough room to say what I wanted to say.
 

@@ -1,4 +1,4 @@
-title: BrightonCodingDojo #6
+title: BrightonCodingDojo #16
 date: 2007/08/02
 tags: [events]
 author: Jez Nicholson

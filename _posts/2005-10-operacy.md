@@ -2,7 +2,6 @@ title: Operacy
 date: 2005/10/12
 tags: [ideas]
 author: Jez Nicholson
-alias: /operacy
 
 It's not the size that counts.
 In business, there is no point being really clever if it doesn't actually result in a meaningful action. Our education systems are overly geared towards building knowledge bases and not towards how to get things done.

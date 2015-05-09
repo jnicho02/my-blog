@@ -2,7 +2,6 @@ title: Certainty
 date: 2006/05/15
 tags: [ideas]
 author: Jez Nicholson
-alias: /certainty
 
 Certainty is key when running a business. When your customers give you money to do something then they expect you to do it, within a timeframe they feel is reasonable, and with a certain level of hassle. These are the parameters that make up the offering, and the business needs to be certain that they can achieve these targets.
 

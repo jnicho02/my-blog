@@ -1,8 +1,8 @@
-title: watched Organising For Microservices (1 hr)
+title: watched Organising For Microservices
 date: 2015/03/31
 tags: [presentations]
 author: Jez Nicholson
-alias: /watched-organising-for-microservices
+log-time: 1h
 
 A talk by 500px about microservices http://www.infoq.com/presentations/500px-services jump to 5m
 
