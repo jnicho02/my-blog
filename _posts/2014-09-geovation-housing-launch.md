@@ -1,5 +1,6 @@
 title: attended the GeoVation Housing Challenge launch
 date: 2014-09-16
+tags: [events]
 author: Jez Nicholson
 
 ​​​​On Monday night I attended the launch of the GeoVation Housing Challenge​ by​ Ordnance Survey and the Land Registry. It was in The Building Centre, Store Street, London. Right outside was a WikiHouse to poke around in (i'll write a seperate post)

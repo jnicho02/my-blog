@@ -1,8 +1,8 @@
-title: read "The Psychopath Test" by Jon Ronson (8hrs)
+title: read "The Psychopath Test" by Jon Ronson
 date: 2015/01/13
-tags: [CPD, books]
+tags: [books]
 author: Jez Nicholson
-alias: /read-the-psychopath-test
+time-spent: 8h
 
 ​This might be a bit extreme to include as personal development, but the intention was to research User Experience by exploring how people think. I'm reading a number of books around the subject and trying to read an hour a day during the week.
 

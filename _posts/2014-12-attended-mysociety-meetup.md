@@ -2,7 +2,7 @@ title: Attended MySociety Meetup
 date: 2014/12/03
 tags: [events]
 author: Jez Nicholson
-alias: /attended-mysociety-meetup
+time-spent: 3h
 
 ​Last night MySociety held a meetup in Brighton.​ [MySociety](https://www.mysociety.org/) are the people behind FixMyStreet, TheyWorkForYou, and WhatDoTheyKnow. I don't know whether they are making the most of their 'data exhaust', but they must be building up some useful datasets behind the scenes.
 

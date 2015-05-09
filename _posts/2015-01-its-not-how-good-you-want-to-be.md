@@ -1,8 +1,8 @@
-title: read "It's not how good you are, it's how good you want to be." by Paul Arden (4 hrs)
+title: read "It's not how good you are, it's how good you want to be." by Paul Arden
 date: 2015/01/20
-tags: [CPD, books]
+tags: [books,ux,personal-growth]
 author: Jez Nicholson
-alias: /its-not-how-good-you-want-to-be
+time-spent: 4h
 
 ​​​Principally a book about advertising, this book is still extremely relevant to User Experience and User Centred Design thinking. It is also pretty inspiring to.
 

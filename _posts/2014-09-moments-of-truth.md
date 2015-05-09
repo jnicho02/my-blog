@@ -1,6 +1,8 @@
 title: user journeys and "Moments of Truth"
 date: 2014-09-21
+tags: [ideas]
 author: Jez Nicholson
+time-spent: 1h
 
 ​​​​I've been watching videos about user journeys. A user journey maps all the interactions between the user and your product. 
 

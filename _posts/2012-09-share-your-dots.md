@@ -2,7 +2,6 @@ title: Share your dots, but don't connect them.
 date: 2012/09/13
 tags: [ideas]
 author: Jez Nicholson
-alias: /share-your-dots
 
 <a href="/media/getfile/files.posterous.com/jnicho02/ssGtuHlwfmuwaesqIGyBcvHyvzkIAkjsFJGzbeEgwrcAznufsljBtGmkcsDj/p198.jpg.scaled1000.jpg"><img alt="P198" height="669" src="/media/getfile/files.posterous.com/jnicho02/ssGtuHlwfmuwaesqIGyBcvHyvzkIAkjsFJGzbeEgwrcAznufsljBtGmkcsDj/p198.jpg.scaled500.jpg" width="500" /></a>
 

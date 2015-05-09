@@ -1,8 +1,8 @@
-title: attended Creativity and Innovation workshop (3hrs)
+title: attended Creativity and Innovation workshop
 date: 2015/01/07
 tags: [courses]
 author: Jez Nicholson
-alias: /attended-creativity-and-innovation-workshop
+time-spent: 3h
 
 ​​This short course was run by the very excellent James Marshall from Talking Ape. We had attended his presentation skills training last year which enabled me to do my TestBash Conference talk.
 

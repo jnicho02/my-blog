@@ -11,4 +11,6 @@ alias: /crystal-palace-athletics
 <a href="http://itsallinthega.me/crystal-palace-athletics">Watch on Posterous</a>
 </div>
 </div>
-<p>Had a good day at Crystal Palace athletics. Always a good meet because it's the athletes last chance to practice before the World Championships (in Korea). <br />Phillips Idowu set a good opening distance in the triple jump but was eclipsed by two others. Lisa Dobrisky won her race and other Brits managed A-rated times in order to help their late selection for the Worlds.</p>
+Had a good day at Crystal Palace athletics. Always a good meet because it's the athletes last chance to practice before the World Championships (in Korea).
+
+Phillips Idowu set a good opening distance in the triple jump but was eclipsed by two others. Lisa Dobrisky won her race and other Brits managed A-rated times in order to help their late selection for the Worlds.

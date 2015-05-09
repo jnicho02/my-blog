@@ -2,7 +2,6 @@ title: Startup Stagnation and The Innovator's Dilemma
 date: 2012/08/25
 tags: [ideas]
 author: Jez Nicholson
-alias: /startup-stagnation-and-the-innovators-dilemma
 
 Reading <a href="http://www.getfinch.com/2012/08/startup-stagnation/">Startup Stagnation</a>&nbsp;led me to&nbsp;<a href="http://blogs.hbr.org/cs/2011/10/steve_jobs_solved_the_innovato.html">The Innovator's Dilemma</a>&nbsp;which both made me think about 'the trouble with companies'. It always seems to be the same thing: a company starts off, it innovates, creates a great product and all goes swimmingly. As it gets more mature the bean counters come in and (justifiably) focus on making a profit. After a while you start thinking that something is going wrong. Creating new products becomes a painful process where it used to be joyful.&nbsp;The company starts valueing sales staff over technical staff. You start overhearing conversations with the old-timers who were there at the beginning, "you should have been here 4 years ago, it was amazing, everyone pulled in the same direction, it was fun, and we were great". New competitors start bringing out new products faster than you. The company loses sight of what made it great in the first place - great, innovative products.
 

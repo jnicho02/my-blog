@@ -1,8 +1,8 @@
-title: read "The (Honest) Truth About Dishonesty" by Dan Ariely (6 hrs)
+title: read "The (Honest) Truth About Dishonesty" by Dan Ariely
 date: 2015/01/29
-tags: [books]
+tags: [books,UX]
 author: Jez Nicholson
-alias: /read-honest-truth-about-dishonesty
+time-spent: 6h
 
 ​​​Ariely is a popular User Experience author who discusses how people think and what makes them act the way they do. Two things that are essential if you want to build or sell any type of product or service..so, let's face it, just 'be in business' at all.
 

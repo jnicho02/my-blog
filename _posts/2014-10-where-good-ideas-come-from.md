@@ -1,7 +1,7 @@
 title: read "Where Good Ideas Come From: The Seven Patterns of Innovation" by Steven Johnson
 date: 2014-10-06
-tags: [ideas]
-author: Jez Nicholson
+tags: [books]
+time-spent: 8h
 
 ​Having read Johnson's previous book "The Ghost Map" about Dr John Snow and the Broad Street Pump cholera map I was interested to read this book about innovation.
 

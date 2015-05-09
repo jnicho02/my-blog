@@ -1,8 +1,8 @@
-title: attended Flood Risk Assessment presentation (1hr)
+title: attended Flood Risk Assessment presentation
 date: 2015/01/07
 tags: [events]
 author: Jez Nicholson
-alias: /attended-flood-risk-assessment-presentation
+time-spent: 1h
 
 ​​One of Argyll's consultants is an ex-employee of Ambiental. They have lots of experience in doing Flood Risk Assessments​ (FRA) and wanted to fill in our background knowledge on what this involves.
 

@@ -2,7 +2,6 @@ title: Ferran Adrià on openness
 date: 2012/09/23
 tags: [ideas]
 author: Jez Nicholson
-alias: /ferran-adria-on-openness
 
 <a href="/media/getfile/files.posterous.com/jnicho02/wkneznGiwdtGjpkmulhpIAqHuhfbkcEhfiutnrldgsjChkhrivrJBxeEpmIE/p237.jpg.scaled1000.jpg"><img alt="P237" height="669" src="/media/getfile/files.posterous.com/jnicho02/wkneznGiwdtGjpkmulhpIAqHuhfbkcEhfiutnrldgsjChkhrivrJBxeEpmIE/p237.jpg.scaled500.jpg" width="500" /></a>
 

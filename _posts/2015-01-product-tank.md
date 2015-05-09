@@ -1,8 +1,8 @@
 title: attended Product Tank Brighton #3 (3hrs)
 date: 2015/01/15
-tags: [CPD, events]
+tags: [events,product-management]
 author: Jez Nicholson
-alias: /product-tank-3
+time-spent: 3h
 
 ​​​I went to a Meetup for Product Managers last night and heard some interesting stuff.
 

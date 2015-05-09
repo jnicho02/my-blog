@@ -2,7 +2,6 @@ title: Pin the person on the orgchart
 date: 2014/11/25
 tags: [ideas]
 author: Jez Nicholson
-alias: /pin-the-person-on-the-orgchart
 
 ​For the company annual review I had to do a presentation to all the Brighton staff. I wanted to make a point to them that everyone in Argyll is now part of the larger mothership known as Landmark. So, I made a little game.
 

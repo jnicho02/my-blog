@@ -1,8 +1,8 @@
-title: Read "Show Your Work!" by Austin Kleon (1 hr)
+title: Read "Show Your Work!" by Austin Kleon
 date: 2014/12/09
 tags: [books]
 author: Jez Nicholson
-alias: /show-your-work
+time-spent: 1h
 
 ​Having read Kleon's first book "Steal Like An Artist" I thought i'd give this one a go.
 

@@ -1,8 +1,7 @@
 title: following the maxims with mini web servers
 date: 2014/12/15
-tags: []
+tags: [ideas]
 author: Jez Nicholson
-alias: /mini-web-servers
 
 ​​Thinking about the DMGI Maxim of "HTTP RESTful API's (using JSON) will serve all data and core transactions - the same api's will serve internal application requirements and external partners" I've been looking for a tiny C# web server to add to our production 'robots'. Each robot would then have some standard api objects like logs, jobs, and report counts that could be queried on-the-fly.
 

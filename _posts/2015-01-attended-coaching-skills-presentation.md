@@ -1,8 +1,8 @@
-title: attended Coaching Skills presentation (1hr)
+title: attended Coaching Skills presentation
 date: 2015/01/06
 tags: [courses]
 author: Jez Nicholson
-alias: /attended-coaching-skills-presentation
+time-spent: 1h
 
 ​​We had a guest speaker from Brighton Technical College to talk about basic coaching skills. His experience was mostly from call centres but it highlighted how a 'coaching culture' could be introduced. The idea being that individual coaching can lead to high performance and strong personal growth.
 

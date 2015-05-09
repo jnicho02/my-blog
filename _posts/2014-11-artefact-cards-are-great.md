@@ -1,8 +1,7 @@
 title: Artefact cards are great
 date: 2014/11/25
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
-alias: /artefact-cards-are-great
 
 The final day of WhereCamp was an iBeacon hack day. But, i'm not here to talk about that now, but instead talk about <a href="http://artefactshop.com/">Artefact cards</a>​.
 

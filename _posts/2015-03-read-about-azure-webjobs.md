@@ -4,7 +4,7 @@ tags: [articles]
 author: Jez Nicholson
 time-spent: 1h
 
-​Unfortunately, I missed the Scott Hanselman TIS Talk about Azure WebJobs, but his article at http://www.hanselman.com/blog/IntroducingWindowsAzureWebJobs.aspx​ has helped as an introduction.
+​Unfortunately, I missed the [Scott Hanselman](http://www.hanselman.com/) TIS Talk at work about Azure WebJobs, but his ['Introducing...' article](http://www.hanselman.com/blog/IntroducingWindowsAzureWebJobs.aspx​) has helped as an introduction.
 
 It looks like a WebJob is a custom task the can either run continuously or be kicked off as a scheduled task. It can take input such as a Blob of data in a storage container, process it and put the output into another container. I don't know yet whether it will perform a callback to tell the trigger that it has finished.
 

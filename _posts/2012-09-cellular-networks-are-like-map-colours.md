@@ -2,7 +2,6 @@ title: Cellular networks are like map colours
 date: 2012/09/14
 tags: [ideas]
 author: Jez Nicholson
-alias: /cellular-networks-are-like-map-colours
 
 <a href="/media/getfile/files.posterous.com/jnicho02/ichzqztBsJdmvAxgxEJhDGAcAwgyxmFIEsfCeuhIeyiJkutgvkvAxGjJugtC/p220.jpg.scaled1000.jpg"><img alt="P220" height="333" src="/media/getfile/files.posterous.com/jnicho02/ichzqztBsJdmvAxgxEJhDGAcAwgyxmFIEsfCeuhIeyiJkutgvkvAxGjJugtC/p220.jpg.scaled500.jpg" width="500" /></a>
 
