@@ -1,5 +1,5 @@
 title: read "A Field Guide to Getting Lost" by Rebecca Solnit
-date: 2015/04/??
+date: 2015/04/01
 tags: [books,ux]
 author: Jez Nicholson
 time-spent: 5h

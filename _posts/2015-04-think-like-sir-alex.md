@@ -1,5 +1,5 @@
 title: read "How to Think Like Sir Alex Ferguson" by Damian Hughes
-date: 2015/04/??
+date: 2015/04/05
 tags: [books,management]
 author: Jez Nicholson
 time-spent: 6h
