@@ -24,7 +24,7 @@ That is a bit ugly, but the [Leaflet.markerclusterer](https://github.com/Leaflet
 
 If you don't have an awful lot of data then you could simply load all of it from a single geojson file. We have 35000+ plaques on Open Plaques so passing the entire database is not an option.
 
-The standard functionality is to trigger a bounding box query. Top-left and  bottom-right coordinates are sent as parameters in whatever url structure you tell it.
+The standard functionality is to trigger a bounding box query with [leaflet-vector-layers](http://jasonsanford.github.io/leaflet-vector-layers/) or similar. Top-left and  bottom-right coordinates are sent as parameters in whatever url structure you tell it.
 
 ![/images/bounding_box.jpg](/images/bounding_box.jpg)
 
