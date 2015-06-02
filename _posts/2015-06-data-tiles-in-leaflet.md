@@ -13,20 +13,20 @@ https://youtu.be/2PCPa8PuHng
 
 Leaflet is very quick and easy to get a map up and running.
 
-![/images/basic_map.jpg](/images/basic_map.jpg)
+![/images/basic_map.png](/images/basic_map.png)
 
 If you return points from your data server as geojson they can be hooked straight in
-![/images/some_points.jpg](/images/some_points.jpg)
+![/images/some_points.png](/images/some_points.png)
 
 That is a bit ugly, but the [Leaflet.markerclusterer](https://github.com/Leaflet/Leaflet.markercluster) comes to the rescue
 
-![/images/clusters.jpg](/images/clusters.jpg)
+![/images/clusters.png](/images/clusters.png)
 
 If you don't have an awful lot of data then you could simply load all of it from a single geojson file. We have 35000+ plaques on Open Plaques so passing the entire database is not an option.
 
 The standard functionality is to trigger a bounding box query with [leaflet-vector-layers](http://jasonsanford.github.io/leaflet-vector-layers/) or similar. Top-left and  bottom-right coordinates are sent as parameters in whatever url structure you tell it.
 
-![/images/bounding_box.jpg](/images/bounding_box.jpg)
+![/images/bounding_box.png](/images/bounding_box.png)
 
 A bounding box is a very simple SQL query
 
