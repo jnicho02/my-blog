@@ -1,5 +1,5 @@
 title: attended the GeoVation Housing Challenge launch
-date: 2014-09-16
+date: 2014-09-15
 tags: [events]
 author: Jez Nicholson
 

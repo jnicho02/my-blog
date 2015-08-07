@@ -1,5 +1,5 @@
 title: WhereCampEU, Berlin 27-28th May 2011
-date: 2011/06/01
+date: 2011/05/28
 tags: [events,geo]
 author: Jez Nicholson
 alias: /wherecampeu-berlin-2011
