@@ -1,0 +1,12 @@
+---
+title: webapp presentation layer = "None of the above"
+date: 2006/10/16
+tags: [ideas]
+author: Jez Nicholson
+alias: /webapp-presentation-layer
+---
+When choosing a presentation layer one of the questions you should always ask yourself is "should I be doing this in the first place?". I've just been reading Valery&Galina's Enterprise Web Application. Presentation Layer. Requirements.Take 2 and noted Daniel Spiewak's comments on whether a desktop app should be shoehorned into a web browser. I see Daniel's point and think that it's always important to use the right tool for the job.
+
+Having built an application with a thick-client communicating over the web (Acce-lerator) and more recently a full browser-based app (BookingBooster) I have found increasing customer expectation to be able to do it all in a web browser. I see this as a sea-change in attitude which we in the IT world must not let slip through our fingers by producing poor systems. The idea of Application Service Provider services has been around for yonks, but it is only now that businesses seem happy to sign up to salesforce.com and the likes without questioning whether the service will be uninterupted, to what point will their data be restored in the event of a database crash? what if their internet connection goes down?. (amusingly JRoller went down when I tried to post this blog entry...but I created it in bloggar, a desktop application, and therefore didn't lose my entry and was able to continue working)
+
+There is a point to desktop applications. They can show multiple views of the same data, handle state, have multiple windows, enable drag and drop, use objects, etc. The web introduces different ways of accessing data and we shouldn't lose sight of that and force it to look and act exactly the same as a desktop app, rather we should keep the flexibility of the web and add application-like functionality. Just as the document/desktop metaphor fundementally affected the way that desktop apps worked and magazine publishing affected the web we should be careful not to turn the web into document/desktop...it should be it's own thing.
