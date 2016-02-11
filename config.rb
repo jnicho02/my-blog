@@ -130,10 +130,3 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
-
-# This will push to the gh-pages branch of the repo, which will
-# host it on github pages (If this is a github repository)
-activate :deploy do |deploy|
-  deploy.method = :git
-  deploy.build_before = true
-end
