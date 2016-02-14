@@ -1,6 +1,6 @@
 ---
 pageable: true
-per_page: 10
+per_page: 20
 ---
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
@@ -12,16 +12,7 @@ per_page: 10
 
 <div class="card-columns">
   <% page_articles.each_with_index do |article, i| %>
-    <div class="card" name="article-summary" style="max-width: 40rem;">
-      <div class="card-block">
-        <h4 class="card-title"><%= link_to article.title, article %></h4>
-        <p class="card-text"><%= article.body %></p>
-      </div>
-      <div class="card-footer">
-        <small><%= article.date.strftime('%b %e') %></small>
-        <span class="label label-pill label-info pull-right"><%= article.date.strftime('%Y') %></span>
-      </div>
-    </div>
+    <%= partial("summary-cards", :locals => { :article => article, :page_type => 'day' } ) %>
   <% end %>
 </div>
 
