@@ -1,8 +1,9 @@
 ---
-title: read "Inside of a Dog" by Alexandra Horowitz
+title: read "A Field Guide to Getting Lost" by Rebecca Solnit
 date: 2015/04/20
 tags: [books,ux]
-isbn:
+isbn: 978-1841957456
+img: http://ecx.images-amazon.com/images/I/71NUcNqWKFL.jpg
 author: Jez Nicholson
 time-spent: 5h
 ---

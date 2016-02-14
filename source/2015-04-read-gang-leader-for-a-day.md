@@ -2,7 +2,8 @@
 title: read "Gang Leader for a Day" by Sudhir Venkatesh
 date: 2015/04/04
 tags: [books,ux]
-ISBN:
+ISBN: 978-0141030913
+img: http://ecx.images-amazon.com/images/I/51yGh7bjPWL.jpg
 author: Jez Nicholson
 time-spent: 8h
 ---

@@ -2,7 +2,8 @@
 title: read "How to Think Like Sir Alex Ferguson" by Damian Hughes
 date: 2015/04/05
 tags: [books]
-isbn:
+isbn: 978-1781313480
+img: http://ecx.images-amazon.com/images/I/71BoGjnyFeL.jpg
 author: Jez Nicholson
 time-spent: 6h
 ---

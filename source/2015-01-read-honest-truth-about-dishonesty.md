@@ -1,7 +1,7 @@
 ---
 title: read "The (Honest) Truth About Dishonesty" by Dan Ariely
 date: 2015/01/29
-tags: [books,UX]
+tags: [books,ux]
 isbn:
 author: Jez Nicholson
 time-spent: 6h

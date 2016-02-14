@@ -2,7 +2,8 @@
 title: read "How To Stay Sane" by Philippa Perry
 date: 2015/04/02
 tags: [books,ux]
-ISBN:
+isbn: 978-1447202301
+img: http://ecx.images-amazon.com/images/I/31YYjIP8PkL.jpg
 author: Jez Nicholson
 time-spent: 2h
 ---

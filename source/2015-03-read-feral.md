@@ -2,7 +2,8 @@
 title: read "Feral. Rewilding the Land, Sea and Human Life" by George Monbiot
 date: 2015/03/09
 tags: [books]
-isbn:
+isbn: 978-0141975580
+img: http://ecx.images-amazon.com/images/I/514j7tK4awL.jpg
 author: Jez Nicholson
 time-spent: 16h
 ---

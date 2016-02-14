@@ -2,7 +2,8 @@
 title: read "101 Things I Learned in Architecture School" by Matthew Frederick
 date: 2015/01/22
 tags: [books]
-isbn:
+isbn: 978-0262062664
+img: http://ecx.images-amazon.com/images/I/411HRB1dUHL.jpg
 author: Jez Nicholson
 time-spent: 2h
 ---
