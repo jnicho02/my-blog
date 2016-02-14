@@ -1,8 +1,9 @@
-title: Simple Audio Blogging
-date: 2013-05-22
+---
+title: simple audio blogging
+date: 2013/05/22
 tags: [ideas]
 author: Jez Nicholson
-
+---
 I've been planning to add some simple audio blogs to our company web site. In particular, short one-on-one interviews which will probably be held at the interviewees premises. My first thought was to use an electronic dictaphone or even use the iPhone Record app.
 
 We tried out a dictaphone and the results were pretty good. The unit itself was pretty cheap £50-60 and it is very portable. The sound quality wasn't bad, but as with all audio you have to be careful of background noise.
