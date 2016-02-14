@@ -1,7 +1,7 @@
 ---
 title: attended Geomob London
 date: 2015/01/14
-tags: [events]
+tags: [events,geo]
 author: Jez Nicholson
 time-spent: 4h
 ---

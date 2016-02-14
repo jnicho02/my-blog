@@ -7,7 +7,9 @@
     <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
 
     <!-- Use title if it's in the page YAML frontmatter -->
-    <title><%= current_page.data.title || "The Middleman" %></title>
+    <title>
+
+    <%= current_page.data.title || "It's All In The Game" %></title>
     <!-- Bootstrap 4 alpha CSS -->
     <!-- IMPORTANT: Don't use this .css file in production. Use Bootstrap 3 until Bootstrap 4.0.0 is released. -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css">
@@ -27,11 +29,30 @@
     <br/>
     <br/>
     <br/>
-    <div class="container">
+    <div class="container-fluid">
       <h1><%= current_page.data.title %></h1>
       <%= yield %>
     </div>
 
+<% if is_blog_article? %>
+    <div class="container-fluid" name="tags">
+      <% current_page.tags.each_with_index do |tag, i| %>
+        <% label = case i
+        when 0
+            'label-info'
+        when 1
+            'label-primary'
+        when 2
+            'label-success'
+        when 3
+            'label-warning'
+        end %>
+        <a href="<%= tag_path(tag) %>">
+        <span class="label label-pill <%= label %> pull-left"><%= tag %></span>
+        </a>
+      <% end %>
+    </div>
+<% end %>
     <%= partial "footer" %>
 
   </body>

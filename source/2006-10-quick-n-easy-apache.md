@@ -3,7 +3,6 @@ title: my quick n' easy Apache2 set up
 date: 2006/10/30
 tags: [ideas]
 author: Jez Nicholson
-alias: /quick-n-easy-apache
 ---
 Whilst developing or trialling web applications I often find that I have to change my Apache2 setup. I'm starting a new job next Monday so i'm going to write up my quick n' easy way for posterity. I'm sure that someone will tell me that there's a better way, but here goes (BTW: I'm on a Windows box):
 

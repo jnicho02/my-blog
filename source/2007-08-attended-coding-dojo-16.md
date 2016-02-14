@@ -1,9 +1,8 @@
 ---
-title: BrightonCodingDojo #16
+title: BrightonCodingDojo 16
 date: 2007/08/02
 tags: [events]
 author: Jez Nicholson
-alias: /coding-dojo-6
 ---
 ​​I went to the Brighton Coding Dojo last night to do some more Ruby programming. We continued with the Klondike (aka Solitaire, aka Patience) CodeKata.
 

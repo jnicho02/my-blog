@@ -1,9 +1,8 @@
 ---
 title: Agile management via a bugtracker (Mantis)
 date: 2006/04/07
-tags: [ideas]
+tags: [agile]
 author: Jez Nicholson
-alias: /agile-via-bugtracker
 ---
 ​​​​So, after a lot of selecting and trialling (thanks Dave!) we've managed to get Mantis accepted as the company bugtracking system. It has had an immediate effect on project management, making the large number of small projects and tasks appear to be manageable. However, it isn't just a case of having a system in place, it needs to be fully accepted as the central source of information and the way it is used has to be sorted out.
 

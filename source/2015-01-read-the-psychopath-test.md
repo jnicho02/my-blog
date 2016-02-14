@@ -2,6 +2,7 @@
 title: read "The Psychopath Test" by Jon Ronson
 date: 2015/01/13
 tags: [books]
+isbn:
 author: Jez Nicholson
 time-spent: 8h
 ---

@@ -1,9 +1,8 @@
 ---
 title: procrastination, Agile...and a bit of footy for luck
 date: 2006/07/25
-tags: [events]
+tags: [agile]
 author: Jez Nicholson
-alias: /procrastination-agile-and-football
 ---
 I've been reading an anti-procrastination book called The Now Habit and see that some of the advice is relevant to Agile development. I don't think that I have the worst symptoms of procrastination: inability to start or finish a task through fear of failure. But, a lot of projects in my personal life seem to take forever and I feel that a number of tasks at work take too long.
 

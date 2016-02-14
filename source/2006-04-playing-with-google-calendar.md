@@ -3,7 +3,6 @@ title: playing with Google Calendar
 date: 2006/04/20
 tags: [ideas]
 author: Jez Nicholson
-alias: /playing-with-google-calendar
 ---
 So, i've been having a good play with Google Calendar. Frankly i'm amazed that there hasn't been a mainstream calendaring system around for years. It doesn't seem to be rocket science that you should be able to produce and consume streams of data in ical format, but maybe there was more to it than that!
 

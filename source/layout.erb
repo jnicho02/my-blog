@@ -25,9 +25,7 @@
     </div>
     
     <aside class="container">
-
       <h2>Recent Articles</h2>
-
       <div class="card-columns">
         <% blog.articles[0...10].each do |article| %>
           <div class="card" name="article-summary">
@@ -42,13 +40,8 @@
           </div>
         <% end %>
       </div>
-
     </aside>
 
     <%= partial "footer" %>
-
-    <!-- Bootstrap 4 Alpha JS -->
-    <!-- IMPORTANT: Don't use this .js file in production. Use Bootstrap 3 until Bootstrap 4.0.0 is released. -->
-    <script src="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/js/bootstrap.js"></script> 
   </body>
 </html>

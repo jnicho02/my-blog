@@ -1,7 +1,7 @@
 ---
 title: accepted to speak at the Open Data Institute
 date: 2014-08-30
-tags: [open-data]
+tags: [opendata]
 author: Jez Nicholson
 ---
 ​I'm quite excited that I have been accepted to speak at the Open Data Institute (the 'ODI') in October. I will be speaking about our first experiences of using open data in Landmark reports for the Energy & Infrastructure report. This report began life as the 'High Speed 2 report' after Tony Turck convinced HS2 Ltd to release their data. 

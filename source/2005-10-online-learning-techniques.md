@@ -3,7 +3,6 @@ title: Online learning techniques
 date: 2005/10/05
 tags: [ideas]
 author: Jez Nicholson
-alias: /online-learning-techniques
 ---
 I was discussing over the weekend with a friend who is putting together plans for online learning at a college. My experience is that e-learning has very good intentions, but often misses the mark. Many colleges and universities start by providing discussion groups and forums on an 'if you build it, they will come' basis. A forum needs about 8+ regular posters to have any life, and a subject that provokes discussion (one that there is no right answer to the questions, or which has lots of details), but for every 10 forum members perhaps only 1 will be a regular...so that's 80 members before it comes to life.
 

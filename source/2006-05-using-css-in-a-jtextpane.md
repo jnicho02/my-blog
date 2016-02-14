@@ -1,9 +1,8 @@
 ---
 title: using CSS on html in a JTextPane
 date: 2006/05/05
-tags: [code]
+tags: [java]
 author: Jez Nicholson
-alias: /using-css-in-a-jtextpane
 ---
 Creating an HTML editor with standard jdk1.4/1.5 Swing is fairly simple, but remains slightly buggy and HTML 3.2-based. One nice touch is that a JTextPane can handle CSS.
 

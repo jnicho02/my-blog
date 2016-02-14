@@ -1,9 +1,8 @@
 ---
 title: Po = Provocative Operation
 date: 2006/01/27
-tags: [ideas]
+tags: [ideas,books]
 author: Jez Nicholson
-alias: /po-provocative-operation
 ---
 Sometimes good ideas come about by being deliberately provocative, not by trying to solve the problem directly. Thinking is a skill that we should all work on as one of the arsenal of technical skills needed in IT.
 

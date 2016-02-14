@@ -3,7 +3,6 @@ title: Fun at Brighton Hack Day
 date: 2007/11/20
 tags: [events]
 author: Jez Nicholson
-alias: /fun-at-brighton-hack-day
 ---
 ​​​​Well, as the title says, I had a bit of fun this weekend at the inaugoral Brighton Hack Farm.
 

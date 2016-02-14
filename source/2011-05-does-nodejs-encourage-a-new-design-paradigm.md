@@ -3,7 +3,6 @@ title: Does node.js encourage a new design paradigm?
 date: 2011/05/27
 tags: [ideas]
 author: Jez Nicholson
-alias: /does-nodejs-encourage-a-new-design-paradigm
 ---
 I was discussing node.js with one of the guys here at WhereCampEU. My question is whether using node.js affects how you design an application and not just that it speeds it up.
 The initial benefit of an event-based framework as that tasks can be sped up. Basically, if you built a web app without considering the architecture you might grab a web framework and a MySql database server and happily build the functionality that is required. Database servers are pretty good at handling throughput, but if your app gets really popular you may hit the dreaded 'run out of database connections' error. Fine you say, just increase the number of connections, and then the size of the server's memory. A lot of the time this will (and has up to now) worked just fine. Something like node.js would mean that you never hit this problem....but then again, most people never even considered that it is a problem that they would have.

@@ -1,9 +1,8 @@
 ---
 title: Bioshock keynote
 date: 2008/07/30
-tags: [events,geo]
+tags: [events,games]
 author: Jez Nicholson
-alias: /bioshock-keynote
 ---
 I just watched a keynote speech by the developers of the game Biochock at Develop 2008 Conference. Here are some of the things that I found interesting:
 

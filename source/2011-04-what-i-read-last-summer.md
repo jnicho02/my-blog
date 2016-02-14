@@ -1,9 +1,8 @@
 ---
 title: What I read last Summer (or anytime, come to think of it)
 date: 2011/04/27
-tags: []
+tags: [ideas]
 author: Jez Nicholson
-alias: /what-i-read-last-summer
 ---
 I use my Twitter account to keep track of what I read by starting the tweet 'reading...'. Using a ruby program and twitter gem I can generate a list. Next step is to post to this blog via an API call every week
 <ul>

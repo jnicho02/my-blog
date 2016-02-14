@@ -2,6 +2,7 @@
 title: read "How to be Alone" by Sara Maitland
 date: 2015/03/18
 tags: [books]
+isbn:
 author: Jez Nicholson
 time-spent: 6h
 ---

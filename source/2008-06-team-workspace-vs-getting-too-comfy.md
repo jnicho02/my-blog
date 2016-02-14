@@ -3,7 +3,6 @@ title: Team workspace vs getting too comfy
 date: 2008/06/24
 tags: [ideas]
 author: Jez Nicholson
-alias: /team-workspace-vs-getting-too-comfy
 ---
 My team moved from one of our office buildings to the other last week. The move was forced on us, so didn't go down too well with the team, but sometimes these things have to happen as there is limited space. I would have preferred to stay physically close to game developers as I believe that the social web will be harder to integrate with what they do than with Marketing who are generally happy to accept that anything that gives the product more exposure is good. The next big challenge for Marketing is how to measure and analyse the effectiveness of social web features, game devs will probably be involved with the nuts and bolts of implementation.
 

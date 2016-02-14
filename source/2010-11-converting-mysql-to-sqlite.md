@@ -3,7 +3,6 @@ title: converting MySql data to sqlite3
 date: 2010/12/11
 tags: [code]
 author: Jez Nicholson
-alias: /
 ---
 I was just trying to switch a Rails app over to mysql and had a bad time with the mysql gem. In the end I decided to get the data into sqlite3 instead. It wasn't too hard. I loaded the sql dump that I had been given into mysql then dumped it out again in a sqlite-friendly format with:
 

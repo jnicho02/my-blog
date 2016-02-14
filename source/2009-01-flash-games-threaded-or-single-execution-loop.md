@@ -1,7 +1,7 @@
 ---
 title: Flash games. Threaded or single execution loop?
 date: 2009/01/05
-tags: [ideas]
+tags: [games]
 author: Jez Nicholson
 ---
 ​​​Whilst writing a Flash mini-game the discussion came up whether the objects themselves should manage their proximity checking, etc. or whether there should be a single game execution loop that steps through a container of game characters. I'm making a note here because I am going for Inbox Zero and am about to delete the emails about it.

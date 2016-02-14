@@ -1,9 +1,8 @@
 ---
 title: Swing isn't a dirty word
 date: 2006/01/23
-tags: [code]
+tags: [java]
 author: Jez Nicholson
-alias: /swing-isnt-a-dirty-word
 ---
 Over the years, i've experienced the "Swing-is-slow Witchhunt", the "Web App is best Schism", the "SWT vs Swing Holy Wars", the "use-tcl/Ruby/my tech" Riots, and lots more anti-Swing commentary. But it appears that JRoller is home to a number of Swing-ites (I would say Swing-ers but it may be taken the wrong way) or Swing-friendly posters.
 

@@ -1,9 +1,8 @@
 ---
 title: UK postbox BN1 1
 date: 2011/04/20
-tags: []
+tags: [geo]
 author: Jez Nicholson
-alias: /uk-postbox-bn1-1
 ---
 <p><div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/jnicho02/GCWrUiGELDU6yghBwgDE3MNMao2a8xm35fk8Ps3bstmOt39AeAF9a4h4XoFF/photo.jpg"><img alt="Photo" height="640" src="/media/getfile/files.posterous.com/jnicho02/JIOHJZsQHaEai651zSCLz8GaIPjRiXvb7aDKWzIqw2E6ovaxmmnSNlWwmQxv/photo.jpg.scaled.500.jpg" width="478" /></a>

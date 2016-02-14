@@ -3,7 +3,6 @@ title: Next steps in open source OpenStreetMap Points Of Interest POI data
 date: 2011/06/09
 tags: []
 author: Jez Nicholson
-alias: /next-steps-in-open-source-openstreetmap-point
 ---
 <p><div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/temp-2011-06-09/BwjEkDbwJIFHuBHyaptfivpzrzgerGwmFGaElobJsfGyEemdbBHpgGuGGavD/fullosm.JPG.scaled1000.jpg"><img alt="Fullosm" height="347" src="/media/getfile/files.posterous.com/temp-2011-06-09/BwjEkDbwJIFHuBHyaptfivpzrzgerGwmFGaElobJsfGyEemdbBHpgGuGGavD/fullosm.JPG.scaled500.jpg" width="500" /></a>

@@ -3,7 +3,6 @@ title: geotagging the news
 date: 2006/01/18
 tags: [geo]
 author: Jez Nicholson
-alias: /geotagging-the-news
 ---
 The London SE1 Community Website News Map shows that geotagging is starting to take off. It's not new to add geourl and/or geotag information to a web page but I'm guessing that they must have added a feature to their content management system to encourage the geocoding of all news stories.
 

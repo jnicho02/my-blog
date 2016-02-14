@@ -1,9 +1,8 @@
 ---
 title: creating indexes in Hibernate with XDoclet tags
 date: 2006/07/26
-tags: [events]
+tags: [java]
 author: Jez Nicholson
-alias: /creating-indexes-in-hibernate-eith-xdoclet-tags
 ---
 Perhaps i've been a little slow, but up to now I hadn't realised how you create indexes via Hibernate XDoclet tags. I suppose it's because most of the work i've been doing is development from scratch that i'm so busy getting the properties and relationships right that I haven't focussed on tuning. I subscribe to the 'build first, tune later' approach as "Premature optimization is the root of all evil.". Generally, database servers are built to make the obvious/logical queries run quickly and a cunning plan at twisting the table structure to run quickly will miss out on these. Now I let Hibernate dictate much of my database table structures....I wonder how efficient the indexing is?
 

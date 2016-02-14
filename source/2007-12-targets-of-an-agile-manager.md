@@ -1,9 +1,8 @@
 ---
 title: Targets of an Agile Manager
 date: 2007/12/20
-tags: [ideas]
+tags: [agile]
 author: Jez Nicholson
-alias: /targets-of-an-agile-manager
 ---
 Joh and I held the fort for the Brighton Agile Forum last night by discussing a number of Agile issues over beers at The Eagle. One thing we discussed was what the ultimate targets of an Agile Manager are. Targets being the slightly abstract concepts that lead you to achieve the end goals.
 

@@ -1,7 +1,7 @@
 ---
 title: MSc gps games...and Universities working with business
 date: 2009/03/13
-tags: [ideas]
+tags: [events,games]
 author: Jez Nicholson
 ---
 Yesterday afternoon I went up to Sussex University to assist in reviewing Msc students' game design projects. I accompanied Richard Vahrman from Locomatrix as the University had partnered with his company for the project, which was heartening in itself.

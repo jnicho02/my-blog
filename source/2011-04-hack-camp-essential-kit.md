@@ -1,9 +1,8 @@
 ---
 title: Hack Camp essential kit
 date: 2011/04/30
-tags: []
+tags: [ideas]
 author: Jez Nicholson
-alias: /hack-camp-essential-kit
 ---
 <div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/jnicho02/qZyfXaY3jyIJQi41R5obvkBPa1Ymt8an3EDdfT8ISc5860P5PhMMk13VtOkn/photo.jpg"><img alt="Photo" height="640" src="/media/getfile/files.posterous.com/jnicho02/EQueyW4bIM5lTX0gOFBEhuDaPeI3E3jst9eaArMbOgKHquh69PDDCSo8mEBN/photo.jpg.scaled.500.jpg" width="478" /></a>

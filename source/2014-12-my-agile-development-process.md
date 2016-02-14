@@ -1,7 +1,7 @@
 ---
 title: Made a video about my Agile development process
 date: 2014/12/05
-tags: []
+tags: [agile]
 author: Jez Nicholson
 time-spent: 2h
 ---

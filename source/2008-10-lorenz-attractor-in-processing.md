@@ -3,7 +3,6 @@ title: my second Processing program (3D spheres)
 date: 2008/10/07
 tags: [code]
 author: Jez Nicholson
-alias: /lorenz-attractor-in-processing
 ---
 I revisited my first Processing program this morning and had a play with 3D objects. This is incredibly easy as all I had to do was take a quick look at an example then use a 'Matrix'
 

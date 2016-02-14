@@ -3,7 +3,6 @@ title: my Web Dev toolset
 date: 2009/02/13
 tags: [ideas]
 author: Jez Nicholson
-alias: /my-webdev-toolset
 ---
 ​​​​These are the tools that I regularly use for web development
 

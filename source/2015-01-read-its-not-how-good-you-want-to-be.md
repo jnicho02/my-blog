@@ -2,6 +2,7 @@
 title: read "It's not how good you are, it's how good you want to be." by Paul Arden
 date: 2015/01/20
 tags: [books,ux,personal-growth]
+isbn:
 author: Jez Nicholson
 time-spent: 4h
 ---

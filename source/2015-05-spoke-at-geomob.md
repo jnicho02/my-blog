@@ -1,7 +1,7 @@
 ---
 title: spoke at Geomob
 date: 2015/05/19
-tags: [events]
+tags: [events,geo]
 author: Jez Nicholson
 time-spent: 6h
 ---

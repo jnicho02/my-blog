@@ -1,9 +1,8 @@
 ---
 title: The relevance of Agile development methods to the games industry
 date: 2008/11/17
-tags: [ideas]
+tags: [agile,games]
 author: Jez Nicholson
-alias: /agile-in-the-games-industry
 ---
 I had a question come through on my LinkedIn account, "I am curious as to how relevant Agile development methods are to the gaming industry?". For posterity, here is my reply:
 

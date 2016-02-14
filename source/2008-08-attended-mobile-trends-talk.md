@@ -1,9 +1,8 @@
 ---
 title: Mobile trends talk
 date: 2008/08/04
-tags: [events]
+tags: [events,games]
 author: Jez Nicholson
-alias: /mobile-trends-talk
 ---
 I went to a talk about the latest trends in mobile gaming.
 

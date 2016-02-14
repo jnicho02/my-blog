@@ -1,7 +1,7 @@
 ---
 title: dom4j makes xslt a breeze
 date: 2007/07/30
-tags: [code]
+tags: [java]
 author: Jez Nicholson
 ---
 If you are writing an XML->XSLT transformation, I advise playing with dom4j for a bit to find out how to write XPath statements the painless way.

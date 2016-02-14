@@ -1,9 +1,8 @@
 ---
 title: standalone Swing Actions
 date: 2006/02/09
-tags: [code]
+tags: [java]
 author: Jez Nicholson
-alias: /standalone-swing-actions
 ---
 I saw the SwingUtilities.getRoot(component) in a Java Almanac example Getting the JFrame of a Component and decided to make some of my Swing Actions work standalone so that they are reusable.
 

@@ -1,7 +1,7 @@
 ---
 title: The Wall of Common Sense
 date: 2008/07/31
-tags: [ideas]
+tags: [agile]
 author: Jez Nicholson
 alias: /wall-of-common-sense
 ---

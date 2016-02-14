@@ -1,9 +1,8 @@
 ---
 title: social network rewards
 date: 2006/12/12
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
-alias: /social-network-rewards
 ---
 In online communities, such as forums, peer approval is conferred in an ad-hoc manner via supportive comments or general consensus being achieved. In the examples below, social networks have adopted a 'reward' feature that one member can confer on another.
 

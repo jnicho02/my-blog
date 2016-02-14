@@ -1,9 +1,8 @@
 ---
 title: an easy Hibernate Criteria orderBy
 date: 2006/05/15
-tags: [ideas]
+tags: [java]
 author: Jez Nicholson
-alias: /easy-hibernnate-ordering
 ---
 I've been doing a bit of Hibernate recently using the Criteria object. This helps you to write an hql query without you needing to do loads of string processing to add the 'wheres', 'ands', etc.
 

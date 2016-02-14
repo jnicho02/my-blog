@@ -2,6 +2,7 @@
 title: read "Inside of a Dog" by Alexandra Horowitz
 date: 2015/04/20
 tags: [books,ux]
+isbn:
 author: Jez Nicholson
 time-spent: 5h
 ---

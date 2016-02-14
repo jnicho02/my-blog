@@ -1,9 +1,8 @@
 ---
 title: quick cloning in Hibernate
 date: 2006/07/01
-tags: [ideas]
+tags: [java]
 author: Jez Nicholson
-alias: /quick-cloning-in-hibernate
 ---
 Yesterday, I was pondering why my system was a bit slow in performing a clone operation when I had an epiphany.
 

@@ -1,7 +1,7 @@
 ---
 title: All Day Coding Dojo
 date: 2008/12/04
-tags: [ideas]
+tags: [events,games]
 author: Jez Nicholson
 alias: /all-day-coding-dojo
 ---

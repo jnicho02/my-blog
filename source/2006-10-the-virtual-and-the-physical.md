@@ -3,7 +3,6 @@ title: the key to success for e-commerce - combining the virtual and the physica
 date: 2006/10/27
 tags: [ideas]
 author: Jez Nicholson
-alias: /the-virtual-and-the-physical
 ---
 One of my pet theories is that to be successful in e-commerce you must combine the virtual and the physical, i.e. there should be a physical/meatspace element to your product. In the long run, people seem more prepared to pay for physical goods whereas the price of pure software degrades. Combine the two and you have low running costs with sustained prices. If your product is software only then you will probably require continual innovation to sustain the price, you may also be more susceptible to competitors replicating your offering.
 

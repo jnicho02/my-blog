@@ -3,7 +3,6 @@ title: SEO = snakeoil?
 date: 2005/10/08
 tags: [ideas]
 author: Jez Nicholson
-alias: /seo-snakeoil
 ---
 SEO as a business seems to me fairly nebulous and a bit like selling snakeoil. Techies are normally more worried about how the (web-based) system works, but the clients are more interested in the marketing. Which makes sense really, why would they want to spend money on us building systems for them if nobody visits. So, the practice of analysing logs and creating copy which hits the right keywords, etc. has grown into a small, but profitable business. All those people who used to be making profits knocking up websites are now making it by tuning them for Google et al. It may be a lesser skill than designing a complicated system.
 

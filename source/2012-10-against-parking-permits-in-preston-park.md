@@ -3,7 +3,6 @@ title: Against parking permits in Preston Park
 date: 2012/10/08
 tags: [rant]
 author: Jez Nicholson
-alias: /against-parking-permits-in-preston-park
 ---
 ![/images/parking.jpg](/images/parking.jpg)
 

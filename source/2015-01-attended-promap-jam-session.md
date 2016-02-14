@@ -1,7 +1,7 @@
 ---
-title: took part in the Promap Jam Session (5 hrs)
+title: took part in the Promap Jam Session
 date: 2015/01/30
-tags: [events,UX]
+tags: [events,ux]
 author: Jez Nicholson
 time-spent: 5h
 ---

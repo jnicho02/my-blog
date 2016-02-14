@@ -3,7 +3,6 @@ title: Why use a CMS?
 date: 2007/08/01
 tags: [ideas]
 author: Jez Nicholson
-alias: /why-use-a-cms
 ---
 For a recent presentation I gave reasons why you should use a CMS for an information publishing system rather than creating your own from scratch.
 

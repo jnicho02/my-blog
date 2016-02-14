@@ -1,9 +1,8 @@
 ---
 title: Agile testing numbers to words
 date: 2006/04/12
-tags: [ideas]
+tags: [agile]
 author: Jez Nicholson
-alias: /agile-testing-numbers-to-words
 ---
 JUnit testing before/during coding can drastically improve the quality of your code. I've been coding a small util to convert numbers into words. First step was a quick google which soon threw up Réal Gagnon's EnglishDecimalFormat
 

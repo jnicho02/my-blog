@@ -1,7 +1,7 @@
 ---
 title: PlayStation Network Home
 date: 2008/07/30
-tags: [events,geo]
+tags: [events,games]
 author: Jez Nicholson
 ---
 I'm currently at the Develop Conference 2008 in Brighton, UK. It's a games developer conference and I am interested in seeing where the web world and the games world are colliding/merging

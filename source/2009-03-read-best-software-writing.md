@@ -1,7 +1,7 @@
 ---
 title: read "The Best Software Writing 1 - Selected and Introduced by Joel Spolsky"
 date: 2009/03/13
-tags: [ideas]
+tags: [books]
 author: Jez Nicholson
 ---
 I've finished reading [The Best Software Writing 1 - Selected and Introduced by Joel Spolsky](http://www.amazon.co.uk/Best-Software-Writing-Selected-Introduced/dp/1590595009/) and firmly believe that it should be on every Developer's bookshelf. Highlights for me were:

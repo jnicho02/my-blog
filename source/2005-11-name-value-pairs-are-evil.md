@@ -3,7 +3,6 @@ title: XML name/value pairs are evil
 date: 2005/11/25
 tags: [code]
 author: Jez Nicholson
-alias: /name-value-pairs-are-evil
 ---
 When I approach outputting data into XML I always try to adopt an open industry standard. Something that i've noticed is that to enable you to put your own attributes in there is a name/value pair pattern.
 

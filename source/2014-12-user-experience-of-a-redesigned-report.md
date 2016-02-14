@@ -1,7 +1,7 @@
 ---
 title: User Experience of a redesigned report
 date: 2014/12/10
-tags: [UX]
+tags: [ux]
 author: Jez Nicholson
 ---
 ​We are reaching the end of the redevelopment of the Energy and Infrastructure report. Part of this was about adopting the new graphic style guide. 

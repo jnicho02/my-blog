@@ -3,7 +3,6 @@ title: Writing a system is a bit like writing a novel
 date: 2005/10/12
 tags: [ideas]
 author: Jez Nicholson
-alias: /like-writing-a-novel
 ---
 One way to explain to a business person what it is like to write a system is to tell them that it's like writing a novel.
 

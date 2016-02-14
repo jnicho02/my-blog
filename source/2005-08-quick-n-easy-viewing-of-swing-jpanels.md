@@ -3,7 +3,6 @@ title: Quick n easy viewing of Swing JPanels
 date: 2005/08/17
 tags: [code]
 author: Jez Nicholson
-alias: /quick-n-easy-viewing-of-swing-jpanels
 ---
 Now, if you're like me, you still like to code Swing panels by hand. Personally I believe that you can keep the code much tighter than a gui design program and also I don't like getting tied in to a product. When i'm coding Swing panels I generally make them bean-like, giving them a single null constructor. When you are making small cosmetic changes it's very tempting to add a main() to each panel so that you can run it standalone, i.e. you don't want to fire up the whole system. But, that is introducing code that the class is not responsible for, and test code starts to creep in to your nice neat classes. My quick n' easy answer was to write a little program that hunts a given source code directory for classes that extend JComponent and have a null constructor, then make them launchable standalone in a frame.
 

@@ -3,7 +3,6 @@ title: Why Repetitive Strain Injury is relevant
 date: 2005/10/05
 tags: [ideas]
 author: Jez Nicholson
-alias: /why-rsi-is-relevant
 ---
 I just read in Personnel Today that an article by The Chartered Society of Physiotherapy has hilighted the issue of repetitive strain injury (RSI) by reporting an increase of 52,000 reported incidents in the UK from 396,000 in 2001/02 to 448,000 in 2003/04.
 

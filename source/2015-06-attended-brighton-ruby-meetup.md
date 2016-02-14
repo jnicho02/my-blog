@@ -1,7 +1,7 @@
 ---
 title: attended Brighton Ruby Group Meetup
 date: 2015/06/04
-tags: [events]
+tags: [events,ruby]
 author: Jez Nicholson
 time-spent: 2h
 ---

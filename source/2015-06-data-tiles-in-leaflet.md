@@ -1,7 +1,7 @@
 ---
 title: Data tiles in Leaflet
 date: 2015/06/02
-tags: [ideas,code]
+tags: [ideas,code,geo]
 author: Jez Nicholson
 ---
 Here is a little something i've been playing with. After the first flush of plotting points on a Leaflet map I soon realised that things can get quite slow. I've been building a tile-based data server which is hooked in to the map tile calls in the javascript. It isn't an original thought (i'll add in links to original references when I find them) but i've taken it a bit further than other people have.

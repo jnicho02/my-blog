@@ -3,7 +3,6 @@ title: webapp presentation layer = "None of the above"
 date: 2006/10/16
 tags: [ideas]
 author: Jez Nicholson
-alias: /webapp-presentation-layer
 ---
 When choosing a presentation layer one of the questions you should always ask yourself is "should I be doing this in the first place?". I've just been reading Valery&Galina's Enterprise Web Application. Presentation Layer. Requirements.Take 2 and noted Daniel Spiewak's comments on whether a desktop app should be shoehorned into a web browser. I see Daniel's point and think that it's always important to use the right tool for the job.
 

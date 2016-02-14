@@ -1,7 +1,7 @@
 ---
 title: Is writing a computer game like writing modern fiction?
 date: 2008/03/03
-tags: [ideas]
+tags: [games,books]
 author: Jez Nicholson
 alias: /is-writing-a-game-like-writing-fiction
 ---

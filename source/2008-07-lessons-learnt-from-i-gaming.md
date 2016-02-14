@@ -1,7 +1,7 @@
 ---
 title: Lessons learnt from i-gaming sites
 date: 2008/07/31
-tags: [events,geo]
+tags: [games]
 author: Jez Nicholson
 alias: /lessons-learnt-from-i-gaming
 ---

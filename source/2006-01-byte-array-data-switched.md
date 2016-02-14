@@ -3,7 +3,6 @@ title: Oracle Hibernate byte array data switched round problem
 date: 2006/01/11
 tags: [code]
 author: Jez Nicholson
-alias: /byte-array-data-switched
 ---
 The Oracle/Hibernate live installation has been going crazy on me: A Picture object contains two byte arrays containing a full size image and a reduced size thumbnail. Hibernate successfully inserts the data, but on retrieving the data it is in the wrong fields ??!^%$"£!
 

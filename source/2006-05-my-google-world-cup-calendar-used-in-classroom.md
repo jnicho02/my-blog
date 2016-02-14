@@ -3,7 +3,6 @@ title: my World Cup calendar gets used in school
 date: 2006/05/25
 tags: [ideas]
 author: Jez Nicholson
-alias: /my-google-world-cup-calendar-used-in-classroom
 ---
 I was very pleased to receive an email from murky telling me that my England World Cup Glory Google Calendar
 

@@ -3,7 +3,6 @@ title: distributed programming Web2.0 style
 date: 2006/07/19
 tags: [ideas]
 author: Jez Nicholson
-alias: /distributed-programming
 ---
 Whilst poking round the net I found the Web2.0 Validator. It is a slightly irreverant site that applies a set of rules to work out how 'Web2.0y' your site is. The interesting part (to me) is that they've enabled the specification of the rules themselves to be done by the general public via del.icio.us
 

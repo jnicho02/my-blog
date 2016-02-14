@@ -1,9 +1,8 @@
 ---
 title: Is Twitter dangerous to companies?
 date: 2009/01/14
-tags: [ideas]
+tags: [socialmedia]
 author: Jez Nicholson
-alias: /subtitled-quicktime
 ---
 I've been keen on using social media for marketing and supporting gaming communities. On our site for Aion I added a feature to the backend CMS to enable the community guys to auto-tweet whenever they post to their official blog. We decided to experiment with the feeds being game+language specific so that we could maintain the service if a community representative moved jobs aion_en, aion_de,aion_fr. The feeds have worked quite well and the community reps are tweeting in addition to the article autotweets, which is great because otherwise they are just glorified RSS feeds.
 

@@ -3,10 +3,10 @@ title: parsing csv files with groovy
 date: 2011/08/02
 tags: [code]
 author: Jez Nicholson
-alias: /parsing-csv-files-with-groovy
 ---
 We have a piece of software that insists on generating a type of csv file containing multiple datasets. I'm currently turning this into XML to make it easier to process (funny that, people seem to have a downer on xml most of the time). I want to parse the csv without knowing what the columns will be, plus they can be speechmark delimitted and maybe contain carriage returns.
-Anyway, it seems easy to start with and then gets more and more involved. Let's face it, life is too short to write a full parser for myself. I did a bit of research and took the opportunity to try it out in groovy. My latest version uses a groovy wrapper&nbsp;<a href="https://github.com/xlson/groovycsv/">https://github.com/xlson/groovycsv/</a>&nbsp;of&nbsp;<a href="http://opencsv.sourceforge.net/">http://opencsv.sourceforge.net/</a>
+Anyway, it seems easy to start with and then gets more and more involved. Let's face it, life is too short to write a full parser for myself. I did a bit of research and took the opportunity to try it out in groovy. My latest version uses a groovy wrapper [https://github.com/xlson/groovycsv/](https://github.com/xlson/groovycsv/) of [http://opencsv.sourceforge.net/](http://opencsv.sourceforge.net/)
+
 UPDATE: my good friend and ex-colleague @nugsie suggested a MarkupBuilder....
 
 '''groovy

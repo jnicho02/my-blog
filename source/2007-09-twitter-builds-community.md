@@ -1,9 +1,8 @@
 ---
 title: Twitter builds community
 date: 2007/09/26
-tags: [ideas]
+tags: [ideas,socialmedia]
 author: Jez Nicholson
-alias: /twitter-builds-community
 ---
 I'm a big fan of Twitter and use it as a fine upstanding example of all things Web2.0. It is a very simple application that only really does one thing, it allows you to post "what are you doing right now" and tells you what your friends have written. At first, it didn't seem that interesting. I used it as a micro-blogging platform...a way to keep an audit trail of thoughts with any accompanying links. I could have used delicious, but I have never really fallen in love with it.
 

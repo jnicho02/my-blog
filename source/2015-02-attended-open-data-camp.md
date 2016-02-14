@@ -1,7 +1,7 @@
 ---
 title: attended and spoke at Open Data Camp UK
 date: 2015/02/22
-tags: [events]
+tags: [events,opendata]
 author: Jez Nicholson
 time-spent: 2d
 ---

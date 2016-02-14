@@ -1,9 +1,8 @@
 ---
-title: Widgety Goodness 2007UK
+title: Widgety Goodness 2007
 date: 2007/12/10
 tags: [events]
 author: Jez Nicholson
-alias: /widgety-goodness
 ---
 Went to a conference on widgets last week. Here are some of the memes that I picked up.
 

@@ -3,7 +3,6 @@ title: capture design intention on video
 date: 2006/02/27
 tags: [ideas]
 author: Jez Nicholson
-alias: /capture-design-intention-on-video
 ---
 Making a digital video of a software architect explaining a system to another developer/architect may help to document the intention behind a system.
 

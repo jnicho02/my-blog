@@ -1,5 +1,5 @@
 ---
-title: CodingDojo #10
+title: CodingDojo 10
 date: 2007/03/09
 tags: [events]
 author: Jez Nicholson

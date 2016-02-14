@@ -2,6 +2,7 @@
 title: read "ReWork" by Jason Fried
 date: 2014-09-15
 tags: [books]
+isbn: 
 author: Jez Nicholson
 ---
 ​​​​I was on a train journey to London, so I reread ReWork by Jason Fried and ​David Heimnemeier Hansson from 37Signals.

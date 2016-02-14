@@ -3,7 +3,6 @@ title: Online Estate Agents, I never thought they'd make money from it...
 date: 2006/03/21
 tags: [ideas]
 author: Jez Nicholson
-alias: /online-estate-agents
 ---
 In the early days of e-commerce two ideas cropped up fairly early in discussions: online estate agents (real estate) and online dating. The pitfalls in these two soon become apparant. To my surprise, both have recently started to make money on the net.
 

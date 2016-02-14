@@ -1,9 +1,8 @@
 ---
 title: This project's out of control, let's set a deadline
 date: 2006/01/18
-tags: [code]
+tags: [ideas]
 author: Jez Nicholson
-alias: /out-of-control-set-a-deadline
 ---
 This statement is a symptom of a management anti-pattern. When a project hasn't been managed well from the start and turns out to be bloated and seemingly never-ending there is always a Project Manager around to 'save' the project by forcing the Developers to name a date when it will be finished.
 

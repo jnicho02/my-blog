@@ -2,6 +2,7 @@
 title: read "The Art of the Start 2.0" by Guy Kawasaki
 date: 2015/07/20
 tags: [books]
+isbn:
 author: Jez Nicholson
 time-spent: 8h
 ---

@@ -3,7 +3,6 @@ title: Inspiration
 date: 2005/06/06
 tags: [ideas]
 author: Jez Nicholson
-alias: /inspiration
 ---
 I've been inspired by Santhosh Kumar's Swing Weblog and added a Swing section.
 

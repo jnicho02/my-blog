@@ -20,11 +20,66 @@ pageable: true
   <% end %>
 <% end %>
 
-<ul>
+<div class="card-columns">
   <% page_articles.each_with_index do |article, i| %>
-    <li><%= link_to article.title, article %> <span><%= article.date.strftime('%b %e') %></span></li>
+
+    <% if article.tags.include? 'books' %>
+
+      <div class="card" name="article-oneliner" style="max-width: 40rem;">
+        <div class="card-block">
+        book
+          <p class="card-title"><%= link_to article.title, article %></p>
+        </div>
+        <div class="card-footer">
+          <% case page_type
+             when 'day' %>
+          <% when 'month' %>
+            <span class="label label-pill label-info pull-right"><%= article.date.strftime('%e') %></span>
+          <% when 'year' %>
+            <span class="label label-pill label-info pull-right"><%= article.date.strftime('%b %e') %></span>
+          <% end %>
+        </div>
+      </div>
+
+    <% elsif article.tags.include? 'events' %>
+    
+      <div class="card card-inverse" name="article-oneliner" style="max-width: 40rem;">
+        <div class="card-block">
+        event
+          <p class="card-title"><%= link_to article.title, article %></p>
+        </div>
+        <div class="card-footer">
+          <% case page_type
+             when 'day' %>
+          <% when 'month' %>
+            <span class="label label-pill label-info pull-right"><%= article.date.strftime('%e') %></span>
+          <% when 'year' %>
+            <span class="label label-pill label-info pull-right"><%= article.date.strftime('%b %e') %></span>
+          <% end %>
+        </div>
+      </div>
+
+    <% else %>
+
+      <div class="card" name="article-oneliner" style="max-width: 40rem;">
+        <div class="card-block">
+        basic
+          <p class="card-title"><%= link_to article.title, article %></p>
+        </div>
+        <div class="card-footer">
+          <% case page_type
+             when 'day' %>
+          <% when 'month' %>
+            <span class="label label-pill label-info pull-right"><%= article.date.strftime('%e') %></span>
+          <% when 'year' %>
+            <span class="label label-pill label-info pull-right"><%= article.date.strftime('%b %e') %></span>
+          <% end %>
+        </div>
+      </div>
+
+    <% end %>
   <% end %>
-</ul>
+</div>
 
 <% if paginate %>
   <% if next_page %>

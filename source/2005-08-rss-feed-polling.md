@@ -3,7 +3,6 @@ title: RSS feed polling frequency and 304 Not modified
 date: 2005/08/26
 tags: [code]
 author: Jez Nicholson
-alias: /rss-feed-polling
 ---
 I've just been doing some research into my plans on integrating news and information into a Swing client application via RSS (and/or Atom). It seems to me that rather than expecting our users to continually check the web site for news items we can just poll a feed from within the app. The main impetus was the ability to send system messages as the client does not maintain state on the server.
 

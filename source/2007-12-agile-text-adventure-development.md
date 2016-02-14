@@ -1,9 +1,8 @@
 ---
 title: Agile text adventure development
 date: 2007/12/19
-tags: [ideas]
+tags: [agile,games]
 author: Jez Nicholson
-alias: /agile-text-adventure-development
 ---
 Inform is a tool for writing text adventures. It is a domain specific language presented via a slick editor interface (since version 7) and works somewhat like a book: you write about the scenery; create characters; define actions and reactions; create puzzles. The reader (player) then takes the role of the lead character.
 

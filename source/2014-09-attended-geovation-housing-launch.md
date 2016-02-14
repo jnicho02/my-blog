@@ -10,4 +10,4 @@ GeoVation is a programme from the Ordnance Survey to promote innovation in geogr
 
 The original problem setting stage of the process was in July and was attended by Colin Blears and Andy Noble.
 
-GeoVation Challenge​​​​ - https://www.geovation.org.uk/geovationchallenge/
+[GeoVation Challenge​​​​](https://www.geovation.org.uk/geovationchallenge/)

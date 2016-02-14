@@ -1,11 +1,12 @@
 ---
 title: Deer Hoof Cheeseboard
 date: 2011/06/18
-tags: [bad taste]
+tags: [bad-taste]
 author: Jez Nicholson
 alias: /deer-hoof-cheeseboard
 ---
-<div class='p_embed p_image_embed'>
-<a href="/media/getfile/files.posterous.com/jnicho02/OEaDWkCTgW614h5bFRFGerQmMB9Q6R6ZWHNb9cDsXMwQAKrjuyXU03bxUugN/photo.jpg"><img alt="Photo" height="640" src="/media/getfile/files.posterous.com/jnicho02/bp5PlD2iTVgaUctQYUwvCubxfd0O45N1qVdCn43ctAZZ1CoZAdZHSOsdANlr/photo.jpg.scaled.500.jpg" width="478" /></a>
-</div>
-<p>Found this in Snoopers' Paradise. Truly tacky.</p>
+![Deer Hoof Cheeseboard](https://farm4.staticflickr.com/3209/5845942680_734a18e9ba_z.jpg[)
+
+CC Attribution-Sharealike by [Jez Nicholson](https://www.flickr.com/photos/jnicho02/), on Flickr
+
+Found this in Snoopers' Paradise. Truly tacky.

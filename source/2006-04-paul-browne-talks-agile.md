@@ -1,9 +1,8 @@
 ---
 title: notes from watching Paul Browne talking about Agile
 date: 2006/07/13
-tags: [ideas]
+tags: [agile]
 author: Jez Nicholson
-alias: /paul-browne-talks-agile
 ---
 Just been prompted by the Slingshot AF development blog to watch a video of Paul Browne talking about Agile and how to sell it to your manager.
 

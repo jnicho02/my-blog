@@ -1,9 +1,8 @@
 ---
 title: Test Driven Text adventure development
 date: 2008/01/08
-tags: [ideas]
+tags: [agile,games]
 author: Jez Nicholson
-alias: /test-driven-text-adventure
 ---
 To continue my investigations into text adventure programming using Inform7 I have been thinking about different types of puzzles. I was browsing through a Game Design book in Borders which included a short paragraph on puzzle types. If I remember rightly, the list is as below:
 

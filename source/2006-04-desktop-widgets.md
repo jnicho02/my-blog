@@ -3,7 +3,6 @@ title: what is the 'best' way to build a desktop widget?
 date: 2006/04/21
 tags: [ideas]
 author: Jez Nicholson
-alias: /desktop-widgets
 ---
 Latest project requires a desktop widget to automatically update itself and display the number and status of bookings, e.g. some cute pictures of planes that fill up to show bookings for the week, but what is the 'best' way to do this?
 

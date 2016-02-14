@@ -3,7 +3,6 @@ title: Who cares about Human Resources?
 date: 2005/10/05
 tags: [ideas]
 author: Jez Nicholson
-alias: /who-cares-about-hr
 ---
 The business world goes through phases where different departments hold the power. To start with it was Manufacturing/Production, then the Accountants, and Sales, then Marketing only to be beaten into submission by IT. I believe that the peak of power is marked by a sharp rise in highly paid Independent Consultants as there is an imbalance in supply and demand. The days of big-bucks in IT contracting seem to have gone (through increased supply and a sudden dip in demand after the .com boom/bust), leading me to believe that the power is moving away to a different mob.
 
