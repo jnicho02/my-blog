@@ -15,9 +15,13 @@ I wanted to see Kent Beck due to his seminal textbook [eXtreme Programming eXpla
 
 His latest focus is on accountability. Quality is an instantaneous measure taken at a point in time. We have QA teams that test a finished piece of software until it is 'of a level of quality that it can be released'. We should be more interested in health. In a human being, quality would be like measuring your pulse rate, but health would be making you run on a treadmill and seeing how quickly your pulse can return to rest. In other words, health is the measurement of performance under stress.
 
-"The shape of the software matches the shape of the team". A large bloated team will produce a large bloated product and vice versa. In order to build great products you must concentrate on building a great team. Using the right tools and processes can enable a team to be flexible and accountable. Accountability is about being able to account for one's actions, this is not about being responsible for them for ever, but about being able to demonstrate what it is you have done. Tools like JUnit foster a climate of being able to demonstrate that a piece of software works, and in the action of doing so a Developer becomes more responsible and more accurate.
+> "The shape of the software matches the shape of the team".
 
-Beck posed the rhetorical question, "What if you published all your test results on your companies home page" to which the answer is probably either, "everyone would start forging the results" or "you'd make damn sure that they all pass".
+A large bloated team will produce a large bloated product and vice versa. In order to build great products you must concentrate on building a great team. Using the right tools and processes can enable a team to be flexible and accountable. Accountability is about being able to account for one's actions, this is not about being responsible for them for ever, but about being able to demonstrate what it is you have done. Tools like JUnit foster a climate of being able to demonstrate that a piece of software works, and in the action of doing so a Developer becomes more responsible and more accurate.
+
+Beck posed the rhetorical question, 
+> "What if you published all your test results on your companies home page" 
+to which the answer is probably either, "everyone would start forging the results" or "you'd make damn sure that they all pass".
 
 ##Lean Software Development Mary Poppendieck
 Can the efficiencies and cost savings enjoyed by the manufacturing industry through lean and TQM manufacturing practices be applied to the software industry? In one word: absolutely! In this talk, Mary Poppendieck will take attendees through the benefits of lean software development and how to apply the practices to projects.
