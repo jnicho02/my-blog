@@ -24,7 +24,7 @@ Beck posed the rhetorical question,
 to which the answer is probably either, "everyone would start forging the results" or "you'd make damn sure that they all pass".
 
 ##Lean Software Development Mary Poppendieck
-Can the efficiencies and cost savings enjoyed by the manufacturing industry through lean and TQM manufacturing practices be applied to the software industry? In one word: absolutely! In this talk, Mary Poppendieck will take attendees through the benefits of lean software development and how to apply the practices to projects.
+"Can the efficiencies and cost savings enjoyed by the manufacturing industry through lean and TQM manufacturing practices be applied to the software industry? In one word: absolutely! In this talk, Mary Poppendieck will take attendees through the benefits of lean software development and how to apply the practices to projects."
 
 I didn't know what to expect from Mary Poppendieck, but I was pleasantly surprised. She talked about Just-in-Time workflow in manufacturing and how this could be translated to software development and made a lot of sense.
 
