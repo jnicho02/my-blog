@@ -11,10 +11,7 @@ time-spent: 4h
 
 There were 6 talks. Higlights being:
 
-1. [John Snow dataset](http://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/)
-
-2. Beautiful [personalised travel guide card sets](http://www.telescopecards.com/​) Each set is a one-off print run via web->Mapbox Studio->Indesign->pdf->printer
-
-3. The [London Squared Map](http://www.aftertheflood.co/projects/london-squared-map​)
-
-4. ]Open Addresses project launched at the Open Data Institute](http://alpha.openaddressesuk.org/news/2015/01/14/UKs-first-open-and-free-address-list-launches​) (ODI) in London 
+* [John Snow dataset](http://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/)
+* Beautiful [personalised travel guide card sets](http://www.telescopecards.com/​) Each set is a one-off print run via web->Mapbox Studio->Indesign->pdf->printer
+* The [London Squared Map](http://www.aftertheflood.co/projects/london-squared-map​)
+* [Open Addresses](http://alpha.openaddressesuk.org/news/2015/01/14/UKs-first-open-and-free-address-list-launches​) launched at the Open Data Institute (ODI) in London 

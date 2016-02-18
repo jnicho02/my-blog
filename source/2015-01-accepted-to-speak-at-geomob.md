@@ -1,7 +1,7 @@
 ---
-title: attended Geomob London
+title: accepted to speak at Geomob London
 date: 2015/01/14
-tags: [events,geo]
+tags: [geo]
 author: Jez Nicholson
 time-spent: 4h
 ---

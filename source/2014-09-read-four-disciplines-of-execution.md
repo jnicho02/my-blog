@@ -11,21 +11,21 @@ Good term that, 'the whirlwind', meaning the seeming neverending whirl of daily 
 
 The authors suggest:
 
-Discipline 1: Focus on the wildly important
+# Discipline 1: Focus on the wildly important
 
 - pick the single most important thing your group should achieve
 
 - say how you know you've crossed the finishing line
 
-Discipline 2: Act of the Lead Measures
+# Discipline 2: Act on the Lead Measures
 
 - think about cause-and-effect. The end goal is measured after the event, they call this a 'lag' measure. Try to identify simple day-to-day measurable things that you think have the ability to affect the end goal.
 
-Discipline 3: Keep a Compelling Scoreboard
+# Discipline 3: Keep a Compelling Scoreboard
 
 - display the 'score' on the wall so that everyone can see whether we are winning
 
-Discipline 4: Create a Cadence of Accountability
+# Discipline 4: Create a Cadence of Accountability
 
 - meet every week for individuals to state what they have done last week and will do this week to move the lead measure.
 

@@ -1,7 +1,7 @@
 ---
-title: Share your dots, but don't connect them.
+title: read "Steal Like An Artist" by Austin Kleon
 date: 2012/09/13
-tags: [ideas]
+tags: [books,ideas]
 author: Jez Nicholson
 ---
 <a href="/media/getfile/files.posterous.com/jnicho02/ssGtuHlwfmuwaesqIGyBcvHyvzkIAkjsFJGzbeEgwrcAznufsljBtGmkcsDj/p198.jpg.scaled1000.jpg"><img alt="P198" height="669" src="/media/getfile/files.posterous.com/jnicho02/ssGtuHlwfmuwaesqIGyBcvHyvzkIAkjsFJGzbeEgwrcAznufsljBtGmkcsDj/p198.jpg.scaled500.jpg" width="500" /></a>

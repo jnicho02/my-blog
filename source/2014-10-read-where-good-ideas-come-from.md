@@ -11,4 +11,4 @@ time-spent: 8h
 
 Innovation can come from accidental inputs (like penicillin), but you have to have an environment where something might happen before it can.
 
-Here he is talking at TED in Oxford http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=en​​
+Here he is [talking at TED in Oxford](http://www.ted.com/talks/steven_johnson_where_good_ideas_come_from?language=en​​)

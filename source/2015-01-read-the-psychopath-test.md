@@ -1,7 +1,7 @@
 ---
 title: read "The Psychopath Test" by Jon Ronson
 date: 2015/01/13
-tags: [books]
+tags: [books,ux]
 isbn: 978-0330492270
 img: http://ecx.images-amazon.com/images/I/81iMSjb%2B3YL.jpg
 author: Jez Nicholson

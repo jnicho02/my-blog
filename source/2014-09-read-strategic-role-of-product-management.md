@@ -8,8 +8,6 @@ author: Jez Nicholson
 
 I particularly liked The Pragmatic Marketing Framework on page 3 which I might print out and stick on the wall. They split all the areas involved in managing a product from conceiving ideas to event support. This chart of activities can be split nicely between three Product Management roles:
 
-1. Product Strategy Director: balancing a product portfolio; setting prices; understanding the market​; etc.
-
-2. Technical Product Manager: innovation; product roadmap; use scenarios; etc.
-
-3. Product Marketing Manager: launch plans; sales tools; event support; etc.
+* Product Strategy Director: balancing a product portfolio; setting prices; understanding the market​; etc.
+* Technical Product Manager: innovation; product roadmap; use scenarios; etc.
+* Product Marketing Manager: launch plans; sales tools; event support; etc.

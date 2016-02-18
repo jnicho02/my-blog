@@ -10,15 +10,15 @@ Now, how many of you know absolutely everybody in Landmark? All the new starters
 
 1. printed out the org chart and arranged it on a wall. It took a bit of shuffling around and blutack.
 
-<img src="https://farm8.staticflickr.com/7544/15689489758_3865eb3d15_z.jpg" alt="Pin the person on the org chart"/>​
+![Pin the person on the org chart](https://farm8.staticflickr.com/7544/15689489758_3865eb3d15_z.jpg)
 
 2. printed out a list of names and job titles from a selection of people. Cut them into paper strips and put them in a hat​
 
-<img src="https://farm9.staticflickr.com/8588/15875012371_0120697ca5_n.jpg" alt="Pin the person on the org chart"/>
+![Pin the person on the org chart](https://farm9.staticflickr.com/8588/15875012371_0120697ca5_n.jpg)
 
 3. passed the hat round and got everyone to pick one
 4. got them all on their feet at the same time to go and stick the name in the right place on the chart. Asking other people was allowed.
 
-<img src="https://farm9.staticflickr.com/8655/15257347593_a5fecc800f_z.jpg" alt="Pin the person on the org chart"/>
+![Pin the person on the org chart](https://farm9.staticflickr.com/8655/15257347593_a5fecc800f_z.jpg)
 
 They all seemed to really enjoy it, and I think that it was educational.

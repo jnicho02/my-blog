@@ -1,5 +1,5 @@
 ---
-title: the spelling correction test
+title: the typo test
 date: 2006/10/17
 tags: [ideas]
 author: Jez Nicholson

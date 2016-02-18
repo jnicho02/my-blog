@@ -1,6 +1,6 @@
 ---
 title: Agile seminar. Kent Beck and Mary Poppendieck, London June 2005
-date: 2005/10/05
+date: 2005/06/24
 tags: [events]
 author: Jez Nicholson
 ---

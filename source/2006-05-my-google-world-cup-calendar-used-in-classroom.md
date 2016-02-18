@@ -6,7 +6,7 @@ author: Jez Nicholson
 ---
 I was very pleased to receive an email from murky telling me that my England World Cup Glory Google Calendar
 
-"I teach IT, and today I've been showing the boys calendaring software - yours was used as an example, so you probably have quite a few subscribers!"
+>"I teach IT, and today I've been showing the boys calendaring software - yours was used as an example, so you probably have quite a few subscribers!"
 
 I had been playing with Google Calendar and used it as an example. A sign of duplicated effort on the net is that when I set the calendar up there weren't any others available, now there are 181.
 
