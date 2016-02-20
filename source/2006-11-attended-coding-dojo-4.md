@@ -1,5 +1,5 @@
 ---
-title: CodingDojo #4
+title: CodingDojo 4
 date: 2006/11/30
 tags: [events]
 author: Jez Nicholson

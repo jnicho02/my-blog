@@ -4,3 +4,4 @@ date: 2012/10/13
 tags: [events]
 author: Jez Nicholson
 ---
+I worked on a prototype for a 'things you can see from trains' system with Frankie Roberto (my Open Plaques pal)

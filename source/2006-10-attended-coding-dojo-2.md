@@ -1,9 +1,8 @@
 ---
-title: CodingDojo #2
+title: CodingDojo 2
 date: 2006/10/31
 tags: [events]
 author: Jez Nicholson
-alias: /coding-dojo-2
 ---
 I attending the Brighton Coders (Coding?) Dojo for the second time last night. This week we were attempting to write a text adventure game in Java. The game was to include a number of things like 'a cat', 'a lift (elevator)', and some other things I can't remember as the spec hasn't been updated on the wiki yet. People were less nervous (of looking stupid!) and we nearly managed to create a working piece of software. The meeting threw up a number of areas of thought for me:
 

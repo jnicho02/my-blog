@@ -1,5 +1,5 @@
 ---
-title: CodingDojo #1
+title: CodingDojo 1
 date: 2006/10/18
 tags: [events]
 author: Jez Nicholson

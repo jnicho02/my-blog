@@ -50,13 +50,14 @@ An information publishing system consists of these components in some form or an
 ##Ownership
 Balance human resources by putting the components into the right hands
 
-Content & Site Structure = Community
-Timeliness. Words matter, they must not be delayed by technical concerns.
-Digital Assets & Page Layout = Design
-Presentation. Any output seen by an end user must be created by a Graphic Designer.
-Code = Web Development
-Accuracy, Security, Extensibility
-Commentary
+*Content & Site Structure = Community
+*Timeliness. Words matter, they must not be delayed by technical concerns.
+*Digital Assets & Page Layout = Design
+*Presentation. Any output seen by an end user must be created by a Graphic Designer.
+*Code = Web Development
+*Accuracy, Security, Extensibility
+
+##Commentary
 The components of a publishing system should be able to be owned by the appropriate group of people. I believe that in creating a system you should be empowering people and1 not restricting them. You don't know what they are going to do with the system yet so should make sure that you are providing tools that are of appropriate power to the right people. There will often be a trade-off with complexity e.g. content editors want to be able to enter raw text quickly and easily whereas designers want full control over what goes where and are prepared to learn tag-based coding systems if it gives them that power.
 
 #Why Use a CMS?

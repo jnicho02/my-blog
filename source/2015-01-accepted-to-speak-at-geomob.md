@@ -1,9 +1,8 @@
 ---
-title: attended Geomob London
+title: accepted to speak at Geomob London
 date: 2015/01/14
 tags: [events,geo,geomob]
 author: Jez Nicholson
-time-spent: 4h
 ---
 ​Oh, exciting! I've got my next speaking engagement. I will be talking at Geomob London about Open Plaques on 19 May.
 

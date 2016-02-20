@@ -38,5 +38,5 @@ Another angle for creating confidence is to prove that we are professionals.
 
 * Test-driven development leads to higher quality code
 * Use of a sturdy framework means that more effort is spent on the system that on the framework
-* Fewer lines of code, fewer things to go wrong?
+* Fewer lines of code == fewer things to go wrong?
 * Track record of the developers. Have they got a history of delivering accurate solutions?
