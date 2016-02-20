@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap station data
 date: 2012-10-31
-tags: [code, osm]
+tags: [openstreetmap]
 author: Jez Nicholson
 ---
 Here is some quick postgis sql that I used to knock up kml of railway station sites in England.

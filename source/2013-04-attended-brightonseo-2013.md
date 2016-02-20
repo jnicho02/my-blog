@@ -1,6 +1,6 @@
 ---
 title: attended BrightonSEO 2013
 date: 2013/04/12
-tags: [events]
+tags: [events, brighton-seo]
 author: Jez Nicholson
 ---

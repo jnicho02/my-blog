@@ -1,5 +1,5 @@
 ---
-title: Bioshock keynote
+title: Develop Conference. Bioshock keynote
 date: 2008/07/30
 tags: [events,games]
 author: Jez Nicholson

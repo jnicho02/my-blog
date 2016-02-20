@@ -1,7 +1,7 @@
 ---
 title: My first 'web' site, 1987
 date: 2012/06/26
-tags: []
+tags: [ideas]
 author: Jez Nicholson
 ---
 <a href="http://www.flickr.com/photos/jnicho02/7449112198/" title="Burtsoft Issue 5 by J'Roo, on Flickr"><img src="http://farm9.staticflickr.com/8166/7449112198_a2e9eb5442.jpg" height="250" alt="Burtsoft Issue 5" width="180" /></a>

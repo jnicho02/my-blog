@@ -1,7 +1,7 @@
 ---
 title: CodingDojo 1
 date: 2006/10/18
-tags: [events]
+tags: [events,brighton-coding-dojo]
 author: Jez Nicholson
 ---
 Here are my experiences of the Brighton Coders' Dojo on Monday night. Concept: 12 people meet and work on a specified problem for 2 hours, pair programming is used (a keyboard 'driver' and a 'navigator'), after 5 minutes one of the pair is swapped out. The screen is attached to a projector so that everyone could see. All of the developers are aware of progress, but cannot assist if they think that the current pair are going wrong (unless they don't understand, in which case they can ask for clarification).

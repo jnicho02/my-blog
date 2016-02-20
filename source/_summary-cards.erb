@@ -34,8 +34,7 @@
     
       <div class="card card-info" name="article-oneliner" style="max-width: 40rem;">
         <div class="card-block">
-          <h4>event</h4>
-          <p class="card-title"><%= link_to article.title, article %></p>
+          <p class="card-title">Event: <%= link_to article.title, article %></p>
         </div>
         <div class="card-footer">
           <span class="pull-right"><small><%= article.date.strftime('%e %b') %></small></span>

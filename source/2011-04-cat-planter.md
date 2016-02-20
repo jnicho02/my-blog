@@ -1,7 +1,7 @@
 ---
 title: Cat planter
 date: 2011/04/19
-tags: [bad-taste]
+tags: [photo,bad-taste]
 author: Jez Nicholson
 ---
 <div class='p_embed p_image_embed'>

@@ -2,6 +2,8 @@
 title: read "Release It. Design and Deploy Production-Ready Software"
 date: 2007/02/14
 tags: [books]
+img: http://ecx.images-amazon.com/images/I/41nMZPJdhsL.jpg
+isbn: 978-0978739218
 author: Jez Nicholson
 ---
 Just seen this book by Michael T. Nygard discussed in the JavaRanch Big Moose Saloon so I thought i'd make a note here to remember to look at it when it is released.

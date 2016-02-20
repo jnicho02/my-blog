@@ -1,7 +1,7 @@
 ---
 title: CodingDojo 5
 date: 2006/12/12
-tags: [events]
+tags: [events,brighton-coding-dojo]
 author: Jez Nicholson
 ---
 I attended the Brighton CodingDojo Meet 5 last night where Dan, Richard and Dominic did some binary chopping.

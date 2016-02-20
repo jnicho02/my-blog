@@ -1,7 +1,7 @@
 ---
 title: Experimenting with RoR and not writing "neato ajax driven thingies" too soon
 date: 2007/11/20
-tags: [ideas]
+tags: [ruby]
 author: Jez Nicholson
 ---
 I believe that a good Developer should be able to code in more than one language so that we can: use the right tool for the right job; not be tied down to a single approach because when you've got a hammer everything looks like a nail; experience different approaches. Anyway, enough of the dull metaphors! The result is that i've asked Tom and Alex to play around with RubyOnRails and Grails. I'm keen on finding a tool to rapidly develop webapp prototypes and also to broaden my thinking on development approaches.

@@ -1,7 +1,7 @@
 ---
 title: Measuring the effectiveness of social media at MeasurementCamp
 date: 2009/01/15
-tags: [events]
+tags: [events,measurement-camp]
 author: Jez Nicholson
 ---
 So, how do you convince the guy with the money to let you build that fun Facebook App/Flash game/etc.? It's one thing explaining it so that they agree that it's a good idea, but it's another getting them to cough up with the cash (or go-ahead to build it, which can essentially be seen as ultimately as 'cash'). These type of social media applications need to have their own ways of being measured so that we know that we aren't just throwing good money away. Traditionally, Marketing has developed things like magazine readership figures, TV viewing figures, Cost per lead from a mailshot, etc. to try to measure 'success'. Can similar metrics be defined for social media?

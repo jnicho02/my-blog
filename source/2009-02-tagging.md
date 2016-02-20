@@ -2,6 +2,8 @@
 title: There is more to Tagging than meets the eye
 date: 2009/02/25
 tags: [books]
+img: http://ecx.images-amazon.com/images/I/412jmWaZ1GL.jpg
+isbn: 978-0321529176
 author: Jez Nicholson
 ---
 Today, I read "Tagging: People-Powered Metadata for the Social Web" by Gene Smith. I have to admit that before I read it I thought that I knew all that could be known about tags, which is not-a-lot, but I found that I was wrong. At 202 pages it might look to be a bit pricey, but it contains a detailed discussion of a single Social Web feature. If you really want to be advising people to use a particular feature or if you want to be adding it yourself then it is worth knowing the details.

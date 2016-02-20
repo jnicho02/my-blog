@@ -1,6 +1,6 @@
 ---
 title: attended Brighton Lean Agile "Agile For The People with Graeme Sutherland"
 date: 2014/07/24
-tags: [events]
+tags: [events, blag]
 author: Jez Nicholson
 ---

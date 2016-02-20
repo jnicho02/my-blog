@@ -1,7 +1,7 @@
 ---
 title: Tweaking installed open source webapps
 date: 2006/12/04
-tags: [events]
+tags: [ideas]
 author: Jez Nicholson
 ---
 I'm a big fan of open source web applications like Mantis, Moodle and Mediawiki (and some not starting with 'M' too). In my experience, when using systems like these within a company you soon find need for minor tweaks. It's always best to stick with the released version as much as possible, but sometimes it is the difference between the product being accepted by users or not. Obviously, if your tweak works then the ideal is to feed it back to the open source project and have it accepted as a patch.

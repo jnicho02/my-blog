@@ -1,7 +1,7 @@
 ---
 title: More stolpersteine
 date: 2011/05/27
-tags: []
+tags: [photo]
 author: Jez Nicholson
 ---
 <div class='p_embed p_image_embed'>

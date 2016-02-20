@@ -1,9 +1,8 @@
 ---
 title: First steps towards open source OpenStreetMap Points Of Interest POI data
 date: 2011/06/06
-tags: [geo,osm,opendata]
+tags: [geo,openstreetmap,opendata]
 author: Jez Nicholson
-alias: /first-steps-towards-open-source-openstreetmap
 ---
 <div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/temp-2011-06-06/nnikuqgbyqFHvawqjliHmcGbvmwbbFhfwcifbgdnvryHFgoiCcHJhguAycxn/spatialite_pois.JPG.scaled1000.jpg"><img alt="Spatialite_pois" height="350" src="/media/getfile/files.posterous.com/temp-2011-06-06/nnikuqgbyqFHvawqjliHmcGbvmwbbFhfwcifbgdnvryHFgoiCcHJhguAycxn/spatialite_pois.JPG.scaled500.jpg" width="500" /></a>

@@ -1,7 +1,7 @@
 ---
 title: MyHouseMyStreet project, Brighton
 date: 2011/09/20
-tags: []
+tags: [ideas]
 author: Jez Nicholson
 ---
 <div class='p_embed p_image_embed'>

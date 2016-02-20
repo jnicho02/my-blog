@@ -1,7 +1,7 @@
 ---
 title: CodingDojo 8 The Ruby Dojo
 date: 2007/02/14
-tags: [events]
+tags: [events,brighton-coding-dojo]
 author: Jez Nicholson
 ---
 It's been a week since Brighton CodingDojo Meet 8 and i've been slacking on writing down my opinions. I think that i've caught the blogging bug because it starts to trouble me if i don't put my thoughts down in writing. As soon as they're published then they can stop buzzing round my head.

@@ -1,9 +1,8 @@
 ---
 title: Is writing a computer game like writing modern fiction?
 date: 2008/03/03
-tags: [games,books]
+tags: [games]
 author: Jez Nicholson
-alias: /is-writing-a-game-like-writing-fiction
 ---
 In the case of a text adventure, it looks quite like fiction seeing as it is words. A graphical game has less surface appearance, but I still hear terms such as 'narrative' and 'backstory' being used by game designers (I sit next to them in the office) so it seems that they are related. Therefore, I decided to read a book about how to start a modern fiction story to see if it is relevant. The book was 'Hooked - write fiction that grabs the readers at page one and never lets them go'.
 

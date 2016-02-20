@@ -2,6 +2,8 @@
 title: The desirable qualities of a game
 date: 2008/11/19
 tags: [books]
+img: http://ecx.images-amazon.com/images/I/51MLTJrDgpL.jpg
+isbn: 978-0252070334
 author: Jez Nicholson
 ---
 I've been reading "Man, Play and Games" by Roger Caillois and saw this list of the qualities of a game:

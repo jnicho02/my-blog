@@ -1,7 +1,7 @@
 ---
 title: Over The Air 2009
 date: 2009/09/28
-tags: [events]
+tags: [events,over-the-air]
 author: Jez Nicholson
 ---
 I went to the Over The Air 2009 conference on Friday/Saturday, which was about mobile development. My highlights were:

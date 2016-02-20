@@ -2,6 +2,8 @@
 title: What is Semiotics? and why do I care?
 date: 2009/03/06
 tags: [books]
+img: http://ecx.images-amazon.com/images/I/417hhdnhPmL.jpg
+isbn: 978-1848311855
 author: Jez Nicholson
 ---
 I've just read 'Introducing Semiotics', a rather nicely formatted book in the 'Introducing...' philosophy series. Now, that might strike you as a strange thing for a Developer to be reading, but far from it. A Developer's job is all (often?) about Human Computer Interaction so I feel that it is vitally important to understand as much about what makes people tick, and about communication. Semiotics is about both of those things

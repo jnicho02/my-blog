@@ -1,7 +1,7 @@
 ---
-title: Coding Dojo 7
+title: CodingDojo 7
 date: 2007/01/25
-tags: [events]
+tags: [events,brighton-coding-dojo]
 author: Jez Nicholson
 ---
 I have increased my attendance of events in Brighton following my rediscovery of upcoming.org. I believe that upcoming.org has now reached a critical mass of users/events that make it the place to communicate Developer events. I might even kill my BNM Google Calendar that I crowed about previously.

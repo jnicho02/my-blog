@@ -1,7 +1,7 @@
 ---
 title: Loading OpenStreetMap data on Mac OS X Mountain Lion
 date: 2012-10-31
-tags: [code, osm]
+tags: [openstreetmap]
 author: Jez Nicholson
 ---
 I recently installed PostgresApp http://postgresapp.com/ from Heroku on my Mac (OS X Mountain Lion) and am interested in OpenStreetMap data. PostgresApp includes postgis 2.0 as standard and appears to have hstore, although I am having slight difficulties with it.

@@ -1,5 +1,5 @@
 ---
-title: PlayStation Network Home
+title: Develop Conference. PlayStation Network Home
 date: 2008/07/30
 tags: [events,games]
 author: Jez Nicholson

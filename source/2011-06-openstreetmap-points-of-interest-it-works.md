@@ -1,25 +1,25 @@
 ---
 title: OpenStreetMap Points Of Interest - it works!
 date: 2011/06/09
-tags: []
+tags: [openstreetmap]
 author: Jez Nicholson
-alias: /openstreetmap-points-of-interest-it-works
 ---
-<p><div class='p_embed p_image_embed'>
+<div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/temp-2011-06-09/hbjJirtCtmHBGtkHDabIcrlfGblCuoEBuDsHoupJEvgdcbofghkaGrnEuhmG/OSM_Healthcare.JPG.scaled1000.jpg"><img alt="Osm_healthcare" height="306" src="/media/getfile/files.posterous.com/temp-2011-06-09/hbjJirtCtmHBGtkHDabIcrlfGblCuoEBuDsHoupJEvgdcbofghkaGrnEuhmG/OSM_Healthcare.JPG.scaled500.jpg" width="500" /></a>
 </div>
-So, taking features from OSM for healthcare:&nbsp;"pharmacy","hospital","dentist" and "doctors" (we'll leave <a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbaby_hatch" title="Baby Hatch">"baby_hatch"</a> for now as it's slightly scary...or maybe i'm just not enlightened enough!) I can do two sql statements, one for the ways and one for the nodes then UNION ALL them together to get a result set of ways and nodes.</p>
-<p>We are competing with:</p>
-<p>nearest hospital = Children's University Hospital 862m</p>
-<p>nearest pharmacy = Gordons Chemist, Newry 811km&nbsp;(!!!!)</p>
-<p><div class='p_embed p_image_embed'>
+
+So, taking features from OSM for healthcare: "pharmacy","hospital","dentist" and "doctors" (we'll leave <a href="http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbaby_hatch" title="Baby Hatch">"baby_hatch"</a> for now as it's slightly scary...or maybe i'm just not enlightened enough!) I can do two sql statements, one for the ways and one for the nodes then UNION ALL them together to get a result set of ways and nodes.
+
+We are competing with:
+nearest hospital = Children's University Hospital 862m
+nearest pharmacy = Gordons Chemist, Newry 811km (!!!!)
+<div class='p_embed p_image_embed'>
 <a href="/media/getfile/files.posterous.com/temp-2011-06-09/JhDsIElffrxFFysdfBmplAHlmIBtGiIxqFCswzylCHbEkjtzjEpFxdvCFfwD/itworks.JPG.scaled1000.jpg"><img alt="Itworks" height="330" src="/media/getfile/files.posterous.com/temp-2011-06-09/JhDsIElffrxFFysdfBmplAHlmIBtGiIxqFCswzylCHbEkjtzjEpFxdvCFfwD/itworks.JPG.scaled500.jpg" width="500" /></a>
 </div>
-</p>
-<p>Results are:</p>
-<p>&nbsp;</p>
-<table>
 
+Results are:
+
+<table>
 <tr>
 <th>way</th><th>node</th><th>key</th><th>value</th><th>site_name</th><th>dist</th>
 </tr>
@@ -145,73 +145,27 @@ So, taking features from OSM for healthcare:&nbsp;"pharmacy","hospital","dentist
 </tr>
 
 </table>
-<p>The second object detected is a hospital building inside the grounds of Rotunda Maternity Hospital. Buildings often won't be contained within grounds, so I can't distinguish. Perhaps when there is a stanalone building then it has a name?</p>
-<p>&nbsp;</p>
-<p>The sql is:</p>
-<p><code>
 
+The second object detected is a hospital building inside the grounds of Rotunda Maternity Hospital. Buildings often won't be contained within grounds, so I can't distinguish. Perhaps when there is a stanalone building then it has a name?
 
-SELECT wt.way_id as way, osm_way_node_refs.node_id as node, wt.k as key, wt.v as value, name_tag.v AS site_name
+The sql is:
 
+    SELECT wt.way_id as way, osm_way_node_refs.node_id as node, wt.k as key, wt.v as value, name_tag.v AS site_name, min(Distance("Geometry" ,GeomFromText('POINT(-6.2626 53.34942)'))*100000) AS dist
+    FROM osm_way_tags wt, osm_way_node_refs, osm_nodes
+    LEFT OUTER JOIN osm_way_tags name_tag
+    ON wt.way_id = name_tag.way_id AND name_tag.k="name"
+    WHERE wt.way_id = osm_way_node_refs.way_id
+    AND osm_way_node_refs.node_id = osm_nodes.node_id
+    AND wt.k in ("amenity","building") AND wt.v in ("pharmacy","hospital","dentist","doctors")
+    GROUP by way
 
-, min(Distance("Geometry" ,GeomFromText('POINT(-6.2626 53.34942)'))*100000) AS dist
+    UNION ALL
 
-
-FROM osm_way_tags wt, osm_way_node_refs, osm_nodes
-
-
-LEFT OUTER JOIN osm_way_tags name_tag
-
-
-&nbsp;ON wt.way_id = name_tag.way_id AND name_tag.k="name"
-
-
-WHERE wt.way_id = osm_way_node_refs.way_id
-
-
-AND osm_way_node_refs.node_id = osm_nodes.node_id
-
-
-AND wt.k in ("amenity","building") AND wt.v in ("pharmacy","hospital","dentist","doctors")
-
-
-GROUP by way
-
-
-&nbsp;
-
-
-UNION ALL
-
-
-&nbsp;
-
-
-SELECT "" as way, n.node_id as node, wt.k as key, wt.v as value, name_tag.v AS site_name
-
-
-, Distance("Geometry" ,GeomFromText('POINT(-6.2626 53.34942)'))*100000 AS dist
-
-
-FROM osm_node_tags wt, osm_nodes n
-
-
-LEFT OUTER JOIN osm_node_tags name_tag
-
-
-&nbsp;ON wt.node_id = name_tag.node_id AND name_tag.k="name"
-
-
-WHERE wt.node_id = n.node_id
-
-
-AND wt.k in ("amenity","building") AND wt.v in ("pharmacy","hospital","dentist","doctors")
-
-
-&nbsp;
-
-
-ORDER BY dist
-
-
-</code></p>
+    SELECT "" as way, n.node_id as node, wt.k as key, wt.v as value, name_tag.v AS site_name, Distance("Geometry" ,GeomFromText('POINT(-6.2626 53.34942)'))*100000 AS dist
+    FROM osm_node_tags wt, osm_nodes n
+    LEFT OUTER JOIN osm_node_tags name_tag
+    ON wt.node_id = name_tag.node_id AND name_tag.k="name"
+    WHERE wt.node_id = n.node_id
+    AND wt.k in ("amenity","building") AND wt.v in ("pharmacy","hospital","dentist","doctors")
+    
+    ORDER BY dist

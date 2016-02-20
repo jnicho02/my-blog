@@ -1,7 +1,7 @@
 ---
 title: CodingDojo 10
 date: 2007/03/09
-tags: [events]
+tags: [events,brighton-coding-dojo]
 author: Jez Nicholson
 ---
 ​​​​I attended the second Brighton Coding Dojo to be held using Ruby. It's a lot easier to work out why you are at a Dojo if you don't know the language as it's clear that you are there to experience it in action. Dom has been doing a great job in letting people get on with it but being available to give input on syntax, etc. if they want to ask. If you are currently in the driving seat then you are allowed to do anything you like, including 'ask the audience'. The task this week was a repeat of a previous week's kata, that of parsing a file of weather data and returning the day number which has the smallest range between max and min temperatures. Here are the things I noticed about this week:

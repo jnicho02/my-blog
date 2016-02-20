@@ -3,7 +3,6 @@ title: Lessons learnt from i-gaming sites
 date: 2008/07/31
 tags: [games]
 author: Jez Nicholson
-alias: /lessons-learnt-from-i-gaming
 ---
 Internet gambling games are aimed at people who have lots of money to spend + focus heavily on getting the money from people as quickly and easily as possible. The games industry could learn a lot from them, and they better had before they start losing customers to them.
 

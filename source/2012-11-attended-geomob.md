@@ -1,6 +1,6 @@
 ---
 title: attended Geomob November 2012
 date: 2012/11/22
-tags: [events]
+tags: [events, geomob]
 author: Jez Nicholson
 ---

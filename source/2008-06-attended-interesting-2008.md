@@ -1,7 +1,7 @@
 ---
 title: Interesting 2008
 date: 2008/06/24
-tags: [events]
+tags: [events,interesting-conference]
 author: Jez Nicholson
 ---
 I went to Interesting2008 on Saturday and it lived up to it's name. I saw Russell Davies speak at dconstruct2007 and think that he is a inciteful thinker, so when I saw that he runs a mini-conference every year to which he invites 'interesting' people to speak for 5, 10 or 20 minutes I jumped at it.
