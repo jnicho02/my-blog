@@ -1,0 +1,15 @@
+---
+---
+<% if paginate && num_pages > 1 %>
+  <p>Page <%= page_number %> of <%= num_pages %></p>
+
+  <% if prev_page %>
+    <p><%= link_to 'Previous page', prev_page %></p>
+  <% end %>
+<% end %>
+
+<div class="card-columns">
+  <% blog.tags.sort_by { |tag, articles| articles.size }.reverse.each do |tag, articles| %>
+    <h4><%= link_to tag, tag_path(tag) %> <span class="label label-pill label-info pull-right"><%= articles.size %></span></h4>
+  <% end %>
+</div>
