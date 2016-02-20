@@ -1,7 +1,7 @@
 ---
 title: Is it practical to JUnit test a GUI?
 date: 2005/11/16
-tags: [code]
+tags: [ideas]
 author: Jez Nicholson
 ---
 I was talking to Doug last week about test driven development in theory and in practice. Most people are prepared to accept the idea of test driven development, but when you look at big projects that you are working on how many have full JUnit tests? To me, it seems that the first place that the rot sets in is in testing a Swing GUI.

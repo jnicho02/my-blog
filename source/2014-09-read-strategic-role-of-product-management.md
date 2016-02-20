@@ -1,7 +1,7 @@
 ---
 title: read "The Strategic Role of Product Management" by Pragmatic Marketing
 date: 2014-09-16
-tags: [ideas]
+tags: [product-management]
 author: Jez Nicholson
 ---
 ​​​​Another train journey, another book (well, mini-book really). This time it was a guide to roles in Product Management​, available as a pdf at http://mediafiles.pragmaticmarketing.com/strategic-role-of-product-management/strategic_role_product_management.pdf​

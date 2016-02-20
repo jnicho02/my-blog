@@ -1,7 +1,7 @@
 ---
 title: Subtitled QuickTime
 date: 2005/06/06
-tags: [ideas]
+tags: [ux]
 author: Jez Nicholson
 alias: /subtitled-quicktime
 ---

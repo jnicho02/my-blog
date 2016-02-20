@@ -1,7 +1,7 @@
 ---
 title: Agile seminar. Kent Beck and Mary Poppendieck, London June 2005
 date: 2005/10/05
-tags: [events]
+tags: [events,agile]
 author: Jez Nicholson
 ---
 I'm a bit late on writing this up, so have probably forgotten some of it by now....On the 24th June I went to see a seminar from Exoftware.

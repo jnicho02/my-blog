@@ -3,7 +3,8 @@ title: Read "Show Your Work!" by Austin Kleon
 date: 2014/12/09
 tags: [books]
 author: Jez Nicholson
-isbn:
+isbn: 978-0761178972
+img: http://ecx.images-amazon.com/images/I/71NXQC2JfiL.jpg
 time-spent: 1h
 ---
 ​Having read Kleon's first book "Steal Like An Artist" I thought i'd give this one a go.

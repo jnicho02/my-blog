@@ -3,7 +3,6 @@ title: OpenOffice.org 2.0 uses some Java. This is evil apparently...
 date: 2006/01/11
 tags: [java]
 author: Jez Nicholson
-alias: /java-is-evil-apparently
 ---
 I was pleased to see that OpenOffice.org 2.0 now has a database and that that database is HSQL. This seems a practical choice as the feature was badly lacking and is good value for the limited resources available. It does mean that this feature and a couple of others require Java. Whilst doing a bit of searching I found this article on NewsForge and was stunned by the venom that some of the FOSS community has against Java.
 

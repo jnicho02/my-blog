@@ -1,7 +1,7 @@
 ---
 title: user journeys and "Moments of Truth"
 date: 2014-09-21
-tags: [ideas]
+tags: [ux]
 author: Jez Nicholson
 time-spent: 1h
 ---

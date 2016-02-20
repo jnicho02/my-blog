@@ -1,7 +1,7 @@
 ---
 title: attended Product Tank Brighton 3
 date: 2015/01/15
-tags: [events,product-management]
+tags: [events,product-management,product-tank-brighton]
 author: Jez Nicholson
 time-spent: 3h
 ---

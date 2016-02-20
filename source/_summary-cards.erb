@@ -14,6 +14,22 @@
         </div>
       </div>
 
+    <% elsif article.tags.include? 'photo' %>
+    
+      <div class="card card-info" name="article-oneliner" style="max-width: 40rem;">
+        <% if article.data.img %>
+          <img class="card-img-top" data-src="<%= article.data.img %>" src="<%= article.data.img %>" style="width:100%; height:auto;" alt="Card image">
+        <% end %>
+        <div class="card-block">
+          <p class="card-title"><%= article.title %></p>
+          <p class="card-text"><%= article.body %></p>
+        </div>
+        <div class="card-footer">
+          <span class="pull-right"><small><%= article.date.strftime('%e %b') %></small></span>
+          <span class="label label-pill label-info pull-right"><%= article.date.strftime('%Y') %></span>
+        </div>
+      </div>
+
     <% elsif article.tags.include? 'events' %>
     
       <div class="card card-info" name="article-oneliner" style="max-width: 40rem;">

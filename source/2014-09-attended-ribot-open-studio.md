@@ -1,6 +1,7 @@
 ---
 title: attended the Ribot open studio
 date: 2014-09-24
+tags: [events, brighton-open-studios]
 author: Jez Nicholson
 ---
 ​​Part of the Brighton Digital Festival involves encouraging design and development studios to open their doors for an afternoon. One of these studios was Ribot Ltd who are fast becoming our User Experience consultants of choice.
