@@ -4,7 +4,7 @@ date: 2012/09/14
 tags: [ideas,geo]
 author: Jez Nicholson
 ---
-<a href="/media/getfile/files.posterous.com/jnicho02/ichzqztBsJdmvAxgxEJhDGAcAwgyxmFIEsfCeuhIeyiJkutgvkvAxGjJugtC/p220.jpg.scaled1000.jpg"><img alt="P220" height="333" src="/media/getfile/files.posterous.com/jnicho02/ichzqztBsJdmvAxgxEJhDGAcAwgyxmFIEsfCeuhIeyiJkutgvkvAxGjJugtC/p220.jpg.scaled500.jpg" width="500" /></a>
+![]("images/p220.jpg.scaled500.jpg")
 
 I'm taking an online course called Networks: Friends, Money and Bytes from a Princeton lecturer Mung Chiang. As an evolution of universities putting pre-lecture notes on an intranet, then videos of slide presentations, they have started to open them up to the general public. What a fantastic idea! I can't afford (or am too scared to jump) to study full-time, plus the geographical constraint is removed.
 

@@ -6,9 +6,9 @@ author: Jez Nicholson
 ---
 I'm a bit late on writing this up, so have probably forgotten some of it by now....On the 24th June I went to see a seminar from Exoftware.
 
-![Kent Beck](https://en.m.wikipedia.org/wiki/Kent_Beck#/media/File%3AKent_Beck_no_Workshop_Mapping_XP.jpg
+![Kent Beck](https://en.m.wikipedia.org/wiki/Kent_Beck#/media/File%3AKent_Beck_no_Workshop_Mapping_XP.jpg)
 
-##"Accountability and Developer Testing" Kent Beck, Three Rivers Institute. 
+## "Accountability and Developer Testing" Kent Beck, Three Rivers Institute.
 In his talk, Kent will present a high level overview on the business value of developer accountability and a solid testing environment.
 
 I wanted to see Kent Beck due to his seminal textbook [eXtreme Programming eXplained](http://www.amazon.co.uk/Extreme-Programming-Explained-Embrace-Change/dp/0321278658/) and the fact that he wrote [JUnit](http://junit.org). Beck says that the 2nd edition of XP Xplained has been greatly refactored and that he has changed his approach in trying to get his ideas adopted. Rather than saying, "this is how you must develop" he says, "here are some things that worked for me, maybe you can adopt and adapt them".
@@ -19,8 +19,8 @@ His latest focus is on accountability. Quality is an instantaneous measure taken
 
 A large bloated team will produce a large bloated product and vice versa. In order to build great products you must concentrate on building a great team. Using the right tools and processes can enable a team to be flexible and accountable. Accountability is about being able to account for one's actions, this is not about being responsible for them for ever, but about being able to demonstrate what it is you have done. Tools like JUnit foster a climate of being able to demonstrate that a piece of software works, and in the action of doing so a Developer becomes more responsible and more accurate.
 
-Beck posed the rhetorical question, 
-> "What if you published all your test results on your companies home page" 
+Beck posed the rhetorical question,
+> "What if you published all your test results on your companies home page"
 to which the answer is probably either, "everyone would start forging the results" or "you'd make damn sure that they all pass".
 
 ##Lean Software Development Mary Poppendieck
