@@ -1,7 +1,7 @@
 ---
 title: attended Geomob London
 date: 2015/01/13
-tags: [events,geo,geomob]
+tags: [events,geo]
 author: Jez Nicholson
 time-spent: 4h
 ---
@@ -14,4 +14,4 @@ There were 6 talks. Higlights being:
 * [John Snow dataset](http://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/)
 * Beautiful [personalised travel guide card sets](http://www.telescopecards.com/​) Each set is a one-off print run via web->Mapbox Studio->Indesign->pdf->printer
 * The [London Squared Map](http://www.aftertheflood.co/projects/london-squared-map​)
-* [Open Addresses](http://alpha.openaddressesuk.org/news/2015/01/14/UKs-first-open-and-free-address-list-launches​) launched at the Open Data Institute (ODI) in London 
+* [Open Addresses](http://alpha.openaddressesuk.org/news/2015/01/14/UKs-first-open-and-free-address-list-launches​) launched at the Open Data Institute (ODI) in London

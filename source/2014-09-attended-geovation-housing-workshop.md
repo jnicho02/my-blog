@@ -1,7 +1,7 @@
 ---
 title: attended the GeoVation Housing Challenge problem workshop
 date: 2014-09-16
-tags: [events,geovation-challenge]
+tags: [events,geo]
 author: Jez Nicholson
 ---
 ​​​​After attending the launch event the day before, I went up to London to the GeoVation problem workshop.

@@ -1,16 +1,16 @@
 ---
 title: Exploring OSM Railway Data
 date: 2012-10-26
-tags: [openstreetmap]
+tags: [openstreetmap,geo]
 author: Jez Nicholson
 ---
 I've been using Postgis to explore OSM Railway Data. As tagging is open in Open Street Map it means that there may be a number of alternatives to look for. I am doing some counts to see what people actually tag nodes and ways as.
 
 http://wiki.openstreetmap.org/wiki/Railway_stations states that a node should be tagged as railway=station or railway=halt to mark the actual station/halt, or, rather than being on a node, this tag could be on the building, a closed way tagged building=train_station. Let's look at what is actually in the England OpenStreetMap dataset:
 
-    SELECT 
-      tag.v, count(*) 
-    FROM 
+    SELECT
+      tag.v, count(*)
+    FROM
       public.node_tags tag
     WHERE
       tag.k = 'railway'
@@ -22,9 +22,9 @@ http://wiki.openstreetmap.org/wiki/Railway_stations states that a node should be
 
 The wiki page states that "A node on a track way should be tagged as railway=stop to mark the estimate point at which the actual train stops" but there are only 80 occurances in England.
 
-    SELECT 
-      tag.v, count(*) 
-    FROM 
+    SELECT
+      tag.v, count(*)
+    FROM
       public.way_tags tag
     WHERE
       tag.k = 'railway'
@@ -38,9 +38,9 @@ The wiki page states that "A node on a track way should be tagged as railway=sto
 "Tracks within a station should be ways that are tagged as railway=rail". There are 31619 of these.
 
 
-    SELECT 
-      tag.v, count(*) 
-    FROM 
+    SELECT
+      tag.v, count(*)
+    FROM
       public.way_tags tag
     WHERE
       tag.k = 'building'
@@ -64,7 +64,7 @@ The wiki page states that "A node on a track way should be tagged as railway=sto
       and t1.k = 'building' and t1.v = 'yes'
       and t2.k = 'railway' and t2.v in ('station','train_station','railway_station','railway station','train station','rail_station')
     GROUP BY t2.v
-  
+
 1 result
 
 **"station";148**
@@ -77,14 +77,14 @@ Looking at Brighton Station as an example it would appear that the station node 
       public.node_tags tag
     WHERE
       tag.node_id in
-      (SELECT 
+      (SELECT
          node_id
        FROM
          public.node_tags t2
        WHERE
          t2.k = 'railway' and t2.v = 'station')
     ORDER BY tag.node_id
-  
+
 104734;"name";"Swindon"
 104734;"wikipedia";"en:Swindon railway station"
 104734;"naptan:AtcoCode";"9100SDON"
@@ -149,7 +149,7 @@ Let's look at what other tags a railway/station also has:
       public.node_tags tag
     WHERE
       tag.node_id in
-      (SELECT 
+      (SELECT
          node_id
        FROM
          public.node_tags t2

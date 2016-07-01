@@ -1,7 +1,7 @@
 ---
 title: attended env[hack]
 date: 2013/03/17
-tags: [events,geo]
+tags: [events,geo,hacking]
 author: Jez Nicholson
 ---
 This event was run by the Environment Agency and held in Bristol. It was linked to their announcement of opendata releases of key datasets.

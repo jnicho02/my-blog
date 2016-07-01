@@ -5,13 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>It's All In The Game<%= ' - ' + current_article.title unless current_article.nil? %></title>
-    <!-- Bootstrap 4 alpha CSS -->
-    <!-- IMPORTANT: Don't use this .css file in production. Use Bootstrap 3 until Bootstrap 4.0.0 is released. -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css">
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
   </head>
   <body>
- 
+
     <%= partial "nav" %>
 
     <br/>
@@ -24,7 +22,7 @@
     <div class="container" id="main" role="main">
       <%= yield %>
     </div>
-    
+
     <aside class="container">
       <h2>Recent Articles</h2>
       <div class="card-columns">

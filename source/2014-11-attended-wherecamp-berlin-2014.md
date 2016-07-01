@@ -1,12 +1,12 @@
 ---
 title: WhereCampEU, Berlin 2014
 date: 2014/11/16
-tags: [events]
+tags: [events,geo]
 author: Jez Nicholson
 time-spent: 3d
 ---
 ​I went to Wherecamp Berlin 2014 last week. It was a Geographical Information System conference focussing on routing (e.g. satnavs).
-As a bit of an experiment. I have produced a review as a video so that it doesn't rely on me being there in person to present 
+As a bit of an experiment. I have produced a review as a video so that it doesn't rely on me being there in person to present
 
 ![My video review of WhereCamp Berlin 2014](http://img.youtube.com/vi/jX2XbXdouOU/0.jpg)](http://www.youtube.com/watch?v=jX2XbXdouOU)
 

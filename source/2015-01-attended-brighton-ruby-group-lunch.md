@@ -1,7 +1,7 @@
 ---
 title: attended Brighton Ruby Group lunch and chat
 date: 2015/01/13
-tags: [events,ruby,brighton-ruby]
+tags: [events,ruby]
 author: Jez Nicholson
 time-spent: 1h
 ---

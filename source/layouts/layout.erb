@@ -6,21 +6,14 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <!-- Use title if it's in the page YAML frontmatter -->
     <title>
-
     <%= current_page.data.title || "It's All In The Game" %></title>
-    <!-- Bootstrap 4 alpha CSS -->
-    <!-- IMPORTANT: Don't use this .css file in production. Use Bootstrap 3 until Bootstrap 4.0.0 is released. -->
     <link rel="stylesheet" href="https://cdn.rawgit.com/twbs/bootstrap/v4-dev/dist/css/bootstrap.css">
-
     <%= stylesheet_link_tag "normalize", "all" %>
     <%= javascript_include_tag "all" %>
   </head>
 
   <body class="<%= page_classes %>">
-
-
     <%= partial "nav" %>
-
     <br/>
     <br/>
     <br/>

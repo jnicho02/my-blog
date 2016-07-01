@@ -1,20 +1,20 @@
 ---
 title: OpenStreetMap station data
 date: 2012-10-31
-tags: [openstreetmap]
+tags: [openstreetmap,geo]
 author: Jez Nicholson
 ---
 Here is some quick postgis sql that I used to knock up kml of railway station sites in England.
 
     SELECT node.*
-    FROM 
+    FROM
       node_tags tag, nodes node
     WHERE tag.k='railway' and tag.v='station'
       and tag.node_id = node.id
 
 
     SELECT node.*, '<Placemark><name>' || nametag.v || '</name>' || ST_AsKML(node.geom) || '</Placemark>'
-    FROM 
+    FROM
       node_tags tag, nodes node, node_tags nametag
     WHERE tag.k='railway' and tag.v='station'
       and tag.node_id = node.id

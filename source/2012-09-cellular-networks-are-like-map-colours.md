@@ -4,7 +4,7 @@ date: 2012/09/14
 tags: [ideas,geo]
 author: Jez Nicholson
 ---
-![]("images/p220.jpg.scaled500.jpg")
+![cellular network cells](/images/cellular_network_cells.jpg)
 
 I'm taking an online course called Networks: Friends, Money and Bytes from a Princeton lecturer Mung Chiang. As an evolution of universities putting pre-lecture notes on an intranet, then videos of slide presentations, they have started to open them up to the general public. What a fantastic idea! I can't afford (or am too scared to jump) to study full-time, plus the geographical constraint is removed.
 

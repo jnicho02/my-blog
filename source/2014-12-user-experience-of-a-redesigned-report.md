@@ -1,12 +1,12 @@
 ---
 title: User Experience of a redesigned report
 date: 2014/12/10
-tags: [ux]
+tags: [ideas,ux]
 author: Jez Nicholson
 ---
-​We are reaching the end of the redevelopment of the Energy and Infrastructure report. Part of this was about adopting the new graphic style guide. 
+​We are reaching the end of the redevelopment of the Energy and Infrastructure report. Part of this was about adopting the new graphic style guide.
 
-The style guide involves user interface elements such as better icons, a standard report structure, a single colour of orange for the whole of Landmark (!). 
+The style guide involves user interface elements such as better icons, a standard report structure, a single colour of orange for the whole of Landmark (!).
 
 It also introduces the 'understanding this report' page which should echo the summary on the product brief, i.e. who is this report designed for? what will it tell them?...seems obvious, but it isn't something that has been done much before.
 

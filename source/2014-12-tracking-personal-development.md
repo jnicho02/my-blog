@@ -1,7 +1,7 @@
 ---
 title: Tracking personal development
 date: 2014/12/10
-tags: [ideas]
+tags: [ideas,personal-growth]
 author: Jez Nicholson
 ---
 ​​I've been working on an idea for how to track personal development and at the same time create some better interaction at work.

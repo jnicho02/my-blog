@@ -1,11 +1,11 @@
 ---
 title: WhereCampEU Hack Day, Berlin 2014
 date: 2014/11/16
-tags: [events]
+tags: [events,geo]
 author: Jez Nicholson
 time-spent: 1d
 ---
-For the third day of WhereCampEU I attended a hack day. 
+For the third day of WhereCampEU I attended a hack day.
 
 ​* People don’t know where to go
 * People always visit the same places

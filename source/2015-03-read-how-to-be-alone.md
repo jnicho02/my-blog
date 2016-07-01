@@ -1,7 +1,7 @@
 ---
 title: read "How to be Alone" by Sara Maitland
 date: 2015/03/18
-tags: [books]
+tags: [books,personal-growth]
 isbn: 978-0230768086
 img: http://ecx.images-amazon.com/images/I/31BWFKC7FdL.jpg
 author: Jez Nicholson

@@ -3,7 +3,6 @@ title: attended Blockchain Hack Day
 date: 2015/06/26
 tags: [events]
 author: Jez Nicholson
-alias: /
 time-spent: 1d
 ---
 On Friday I attended a hack day with the very nice people at Bright Minded in Hove.
@@ -128,14 +127,14 @@ https://chriseth.github.io/cpp-ethereum/
       mapping (address => uint) public balances;
       address public admin;
       uint tax;
-      
+
       function jtoken()
       {
         balances[msg.sender] = 1000;
         admin = msg.sender;
         tax = 1;
       }
-      
+
       function sendToken(address receiver, uint amount)
       {
         if(balances[msg.sender] < amount + tax) return;
@@ -143,18 +142,18 @@ https://chriseth.github.io/cpp-ethereum/
         balances[receiver] += amount;
         balances[admin] += tax;
       }
-      
+
       function setTax(uint value)
       {
           if (msg.sender == admin) return;
           tax = value;
       }
-      
+
       function getBalance() returns (uint)
       {
           return balances[msg.sender];
       }
-      
+
       function kill() {
         if (msg.sender == admin) {
           suicide(admin);
@@ -170,6 +169,3 @@ eth.getCode(jtoken)
 var address = '0x5b3ac9cd817a30f3e614a313f044e461697a718f';
 var abi = [{"constant":false,"inputs":[],"name":"checkGoalReached","outputs":[{"name":"response","type":"bytes32"}],"type":"function"},{"constant":true,"inputs":[],"name":"deadline","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"beneficiary","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":false,"inputs":[{"name":"_beneficiary","type":"address"},{"name":"_fundingGoal","type":"uint256"},{"name":"_duration","type":"uint256"},{"name":"_price","type":"uint256"},{"name":"_reward","type":"address"}],"name":"setup","outputs":[{"name":"response","type":"bytes32"}],"type":"function"},{"constant":true,"inputs":[],"name":"tokenReward","outputs":[{"name":"","type":"address"}],"type":"function"},{"constant":true,"inputs":[],"name":"fundingGoal","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"amountRaised","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"price","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"numFunders","outputs":[{"name":"","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[{"name":"","type":"uint256"}],"name":"funders","outputs":[{"name":"addr","type":"address"},{"name":"amount","type":"uint256"}],"type":"function"},{"constant":true,"inputs":[],"name":"admin","outputs":[{"name":"","type":"address"}],"type":"function"},{"inputs":[],"type":"constructor"}];
 var instance = eth.contract(abi).at(address)
-
-
-

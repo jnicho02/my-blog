@@ -1,7 +1,7 @@
 ---
 title: attended Coaching Skills presentation
 date: 2015/01/06
-tags: [courses]
+tags: [courses,personal-growth]
 author: Jez Nicholson
 time-spent: 1h
 ---
