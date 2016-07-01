@@ -1,7 +1,7 @@
 ---
 title: Setting up Xampp on the Mac OS X
 date: 2008/12/09
-tags: [code]
+tags: [ideas]
 author: Jez Nicholson
 ---
 I had a small amount of grief recently trying to set up XAMPP on the Apple Mac OS X for some of our designers, so I thought that i'd post my findings here in case it helps someone else.

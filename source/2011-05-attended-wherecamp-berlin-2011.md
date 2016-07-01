@@ -1,7 +1,7 @@
 ---
 title: WhereCampEU, Berlin 27-28th May 2011
 date: 2011/05/28
-tags: [events,geo,wherecamp]
+tags: [events,geo,speaking]
 author: Jez Nicholson
 ---
 <div class='p_embed p_image_embed'>

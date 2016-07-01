@@ -1,7 +1,7 @@
 ---
 title: my second Processing program (3D spheres)
 date: 2008/10/07
-tags: [code]
+tags: [ideas]
 author: Jez Nicholson
 ---
 I revisited my first Processing program this morning and had a play with 3D objects. This is incredibly easy as all I had to do was take a quick look at an example then use a 'Matrix'
@@ -21,13 +21,13 @@ I revisited my first Processing program this morning and had a play with 3D obje
     int k=0;
     float maxz = 0;
     float minz = 0;
-    
+
     void setup()
     {
       size(600, 600, P3D);
       background(102);
     }
-    
+
     void draw()
     {
       lights();

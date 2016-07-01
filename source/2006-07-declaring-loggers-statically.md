@@ -1,7 +1,7 @@
 ---
 title: declaring log4j loggers statically....or not?
 date: 2006/07/03
-tags: [code]
+tags: [java]
 author: Jez Nicholson
 ---
 Logging is undeniably extremely useful, but I haven't quite worked out which strategy to use for creating loggers yet.

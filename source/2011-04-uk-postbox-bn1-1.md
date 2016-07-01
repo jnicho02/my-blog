@@ -1,7 +1,7 @@
 ---
 title: UK postbox BN1 1
 date: 2011/04/20
-tags: [geo]
+tags: [ideas,geo]
 author: Jez Nicholson
 ---
 <p><div class='p_embed p_image_embed'>

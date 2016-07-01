@@ -1,7 +1,7 @@
 ---
 title: CodingDojo 4
 date: 2006/11/30
-tags: [events,brighton-coding-dojo]
+tags: [events,hacking]
 author: Jez Nicholson
 ---
 CodingDojo Meet 4 ran last night and was pretty successful. We'd decided to run this one on a Wednesday to give different people a chance to come, but the experiment seems not to have worked as the numbers were low. I feared that the session wouldn't work with fewer people, but it did. The task for this week was to revisit the game written in Meet 1.

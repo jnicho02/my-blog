@@ -1,7 +1,7 @@
 ---
 title: Bad taste gardener badger
 date: 2011/04/30
-tags: [photo, bad-taste]
+tags: [photo,bad-taste]
 author: Jez Nicholson
 img: https://farm6.staticflickr.com/5145/5675157173_8fcd0ff2e3_z_d.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Urban Web
 date: 2008/09/05
-tags: [events,geo,dconstruct]
+tags: [events,geo,ux]
 author: Jez Nicholson
 ---
 Just listened to a talk from Steven Johnson from outside.in talking about "The Urban Web" at dConstruct 2008, a web conference in Brighton, UK.

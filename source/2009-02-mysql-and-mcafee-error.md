@@ -1,7 +1,7 @@
 ---
 title: Mysql Errcode 13 and McAfee
 date: 2009/02/04
-tags: [code]
+tags: [ideas]
 author: Jez Nicholson
 ---
 ​​​​I had another case of the "Mysql Errcode:13" last week and found that it was caused by McAfee virus checker. Just thought that i'd put a note here so that a) I remember, or b) it helps someone else

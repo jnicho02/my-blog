@@ -1,7 +1,7 @@
 ---
 title: Monetisation of content
 date: 2009/08/02
-tags: [ideas]
+tags: [ideas,games]
 author: Jez Nicholson
 ---
 I've come across two examples of monetisation of content recently through small chunks of content being sold for a micropayment. I wonder whether the business models are effective?

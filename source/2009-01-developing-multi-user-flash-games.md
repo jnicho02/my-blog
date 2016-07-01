@@ -1,7 +1,7 @@
 ---
 title: FlashBrighton. Designing and developing multi-user Flash games
 date: 2009/01/14
-tags: [events,flash-brighton]
+tags: [events]
 author: Jez Nicholson
 ---
 I went to FlashBrighton last night to see Iain Lobb talk about Flash multiplayer games. Iain has built games such as ZW0K!, Stackopolis and Pop Pirates, so really I should have sued him for all the lost man/hours of staff wasting their time playing his addictive games!

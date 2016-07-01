@@ -1,7 +1,7 @@
 ---
 title: Crystal Palace athletics
 date: 2011/08/06
-tags: []
+tags: [photo]
 author: Jez Nicholson
 ---
 <div class='p_embed p_video_embed'>

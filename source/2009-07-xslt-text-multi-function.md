@@ -1,7 +1,7 @@
 ---
 title: xslt replace-text-multi function
 date: 2009/07/28
-tags: [code]
+tags: [ideas]
 author: Jez Nicholson
 ---
 I just wrote an xslt replace-text function that replaces multiple words in one go. Looking on the internet, this is something that people seem to be searching for but not finding, so maybe this page will become popular.
@@ -77,7 +77,7 @@ Call this by providing a list of 'replaces' and 'bys'. For example, I have a dat
 </xsl:call-template>
 A word of warning, remember that those 'replaces' and 'bys' parameters are strings so they will need apostrophes around them. I got stuck on that one for a short while.
 
-( Jul 28 2009, 03:27:04 PM BST ) Permalink Comments [0] 
+( Jul 28 2009, 03:27:04 PM BST ) Permalink Comments [0]
 
  BlinkList  del.icio.us  digg  Fark  Furl  Newsvine  reddit  Simpy  Spurl  Yahoo! MyWeb
 20090720 Monday July 20, 2009
@@ -91,7 +91,7 @@ Here's an example Flickr photo....
 
 Here's a closeup of the machinetag link...
 
-( Jul 20 2009, 12:29:34 PM BST ) Permalink Comments [1] 
+( Jul 20 2009, 12:29:34 PM BST ) Permalink Comments [1]
 
  BlinkList  del.icio.us  digg  Fark  Furl  Newsvine  reddit  Simpy  Spurl  Yahoo! MyWeb
 "Communication Technology and Structures in Scrum Driven Projects" thesis
@@ -108,7 +108,7 @@ mistakes were caught early and could be remedied without adversely affecting the
 knowledge of new features was shared between Devs
 tests were written better as Devs knew that one of their peers would be running it
 testing became a natural part of the process and not a chore to be performed in retrospect
-( Jul 20 2009, 09:28:53 AM BST ) Permalink Comments [0] 
+( Jul 20 2009, 09:28:53 AM BST ) Permalink Comments [0]
 
  BlinkList  del.icio.us  digg  Fark  Furl  Newsvine  reddit  Simpy  Spurl  Yahoo! MyWeb
 20090313 Friday March 13, 2009
@@ -129,7 +129,7 @@ Global Pong (the game, not the smell)
 Next Steps
 Some of the games are being developed further and I may be involved with prototyping them on the Locomatrix Platform. Also, we have 'Bogfest', a Real-Life Gaming event coming up as part of the Brighton Festival Fringe, where we could play some of the games as a simulation to see how they play out.
 
-( Mar 13 2009, 12:02:58 PM GMT ) Permalink Comments [0] 
+( Mar 13 2009, 12:02:58 PM GMT ) Permalink Comments [0]
 
  BlinkList  del.icio.us  digg  Fark  Furl  Newsvine  reddit  Simpy  Spurl  Yahoo! MyWeb
 "The Best Software Writing 1 - Selected and Introduced by Joel Spolsky"
@@ -158,7 +158,7 @@ I was thinking about how I might show the booklist on this blog and thought abou
 
 How about you dear reader? Do you have any recommendations for books that any proud Dev should have access to?
 
-( Mar 13 2009, 11:47:20 AM GMT ) Permalink Comments [0] 
+( Mar 13 2009, 11:47:20 AM GMT ) Permalink Comments [0]
 
  BlinkList  del.icio.us  digg  Fark  Furl  Newsvine  reddit  Simpy  Spurl  Yahoo! MyWeb
 20090306 Friday March 06, 2009
@@ -177,7 +177,7 @@ There is a lot of this going on in advertising and the cinema (Barthes)
 I am a hack. A lot of the subject went right over my head
 Two schools of thought grew up almost seperately in the US and in Europe
 I had heard a lot of the names involved before, but had never actually read anything by or about them: Barthes, Baudrillard, Derrida, Eco, Lacan
-( Mar 06 2009, 12:49:16 PM GMT ) Permalink Comments [2] 
+( Mar 06 2009, 12:49:16 PM GMT ) Permalink Comments [2]
 
  BlinkList  del.icio.us  digg  Fark  Furl  Newsvine  reddit  Simpy  Spurl  Yahoo! MyWeb
 20090225 Wednesday February 25, 2009

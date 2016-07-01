@@ -1,7 +1,7 @@
 ---
 title: What I read Apr 29th-May 2nd 2011
 date: 2011/05/03
-tags: [ideas]
+tags: [ideas,hacking]
 author: Jez Nicholson
 ---
 I'm working on an idea for a simple microblogging publishing pipeline: First, I use my Twitter account to keep track of what I read by starting the tweet 'reading...'. Then, each week or whatever, I can use a ruby program and twitter gem to generate a blog post which I can then edit and add more comment to. The idea is that Twitter acts as an instant active bookmark, 'active' in that the tweet is published content itself and not just a bookmark in a web browser or somesuch. There is no 'todo' list, as the items on the list have already been published. Bingo!

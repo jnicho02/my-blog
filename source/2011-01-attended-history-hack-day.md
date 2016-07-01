@@ -1,7 +1,7 @@
 ---
 title: attended History Hack Day
 date: 2011/01/23
-tags: [events,opendata]
+tags: [events,opendata,hacking]
 author: Jez Nicholson
 ---
 At The Guardian offices in London

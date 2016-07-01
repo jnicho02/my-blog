@@ -1,7 +1,7 @@
 ---
 title: ​​​​MeasurementCamp
 date: 2009/02/19
-tags: [events,measurement-camp]
+tags: [events]
 author: Jez Nicholson
 ---
 Despite being put "at risk" of redundancy last week, which will almost certainly end in actual redundancy next month I have decided to carry on as usual with any activities and events that attend. Today I went up to London to attend MeasurementCamp for the second time.

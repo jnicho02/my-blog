@@ -3,7 +3,6 @@ title: The Wall of Common Sense
 date: 2008/07/31
 tags: [agile]
 author: Jez Nicholson
-alias: /wall-of-common-sense
 ---
 As a reminder to everyone, stick cards on the wall with common sense and common design flaws.
 

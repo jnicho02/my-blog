@@ -1,7 +1,7 @@
 ---
 title: Fox cubs on a trampoline
 date: 2011/05/15
-tags: []
+tags: [photo]
 author: Jez Nicholson
 ---
 <div class='p_embed p_image_embed'>

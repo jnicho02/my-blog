@@ -1,7 +1,7 @@
 ---
 title: can you de-implement an interface?
 date: 2006/01/24
-tags: [ideas]
+tags: [java]
 author: Jez Nicholson
 ---
 Maybe someone will tell me that i'm being really stupid, but is it possible to stop a class from being Serializable?

@@ -1,7 +1,7 @@
 ---
 title: Self-organising game communities / Emergent functionality
 date: 2008/12/09
-tags: [games]
+tags: [ideas,games]
 author: Jez Nicholson
 ---
 I was very proud to be accepted into The Home Guard clan for Day of Defeat:Source yesterday.

@@ -1,7 +1,7 @@
 ---
 title: OpenStreetMap Points Of Interest - it works!
 date: 2011/06/09
-tags: [openstreetmap]
+tags: [openstreetmap,hacking]
 author: Jez Nicholson
 ---
 <div class='p_embed p_image_embed'>
@@ -167,5 +167,5 @@ The sql is:
     ON wt.node_id = name_tag.node_id AND name_tag.k="name"
     WHERE wt.node_id = n.node_id
     AND wt.k in ("amenity","building") AND wt.v in ("pharmacy","hospital","dentist","doctors")
-    
+
     ORDER BY dist

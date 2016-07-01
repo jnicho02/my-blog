@@ -1,7 +1,7 @@
 ---
 title: Fox frolic
 date: 2011/06/22
-tags: []
+tags: [photo]
 author: Jez Nicholson
 ---
 <div class='p_embed p_video_embed'>

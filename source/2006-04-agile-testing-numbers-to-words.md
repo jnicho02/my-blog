@@ -1,7 +1,7 @@
 ---
 title: Agile testing numbers to words
 date: 2006/04/12
-tags: [agile]
+tags: [agile,testing]
 author: Jez Nicholson
 ---
 JUnit testing before/during coding can drastically improve the quality of your code. I've been coding a small util to convert numbers into words. First step was a quick google which soon threw up Réal Gagnon's EnglishDecimalFormat
@@ -17,100 +17,100 @@ random test cases are not enough. Coverage is vital. I should identify the poten
 '''java
 
     import junit.framework.TestCase;
-    
+
     /**
      * tests the EnglishDecimalFormat
      */
     public class EnglishDecimalFormatTest extends TestCase {
-    
+
         public static void main(String[] args) {
             junit.swingui.TestRunner.run(EnglishDecimalFormatTest.class);
         }
-    
+
         protected void setUp() throws Exception {
             super.setUp();
         }
-    
+
         protected void tearDown() throws Exception {
             super.tearDown();
         }
-    
+
         public final void testZero() {
             assertEquals("zero",EnglishDecimalFormat.convert(0));
         }
-    
+
         public final void testOne() {
             assertEquals("one",EnglishDecimalFormat.convert(1));
         }
-    
+
         public final void testTwo() {
             assertEquals("two",EnglishDecimalFormat.convert(2));
         }
-    
+
         public final void testThree() {
             assertEquals("three",EnglishDecimalFormat.convert(3));
         }
-    
+
         public final void testSixteen() {
             assertEquals("sixteen",EnglishDecimalFormat.convert(16));
         }
-    
+
         public final void testTwentyNine() {
             assertEquals("twenty nine",EnglishDecimalFormat.convert(29));
         }
-    
+
         public final void testOneHundred() {
             assertEquals("one hundred",EnglishDecimalFormat.convert(100));
         }
-    
+
         public final void testOneHundredAndOne() {
             assertEquals("one hundred and one",EnglishDecimalFormat.convert(101));
         }
-    
+
         public final void testOneHundredAndEighteen() {
             assertEquals("one hundred and eighteen",EnglishDecimalFormat.convert(118));
         }
-    
+
         public final void testOneHundredAndTwenty() {
             assertEquals("one hundred and twenty",EnglishDecimalFormat.convert(120));
         }
-    
+
         public final void testTwoHundred() {
             assertEquals("two hundred",EnglishDecimalFormat.convert(200));
         }
-    
+
         public final void testTwoHundredAndOne() {
             assertEquals("two hundred and one",EnglishDecimalFormat.convert(201));
         }
-    
+
         public final void testOneThousandThreeHundredAndSixteen() {
             assertEquals("one thousand three hundred and sixteen",EnglishDecimalFormat.convert(1316));
         }
-    
+
         public final void testOneHundredThousand() {
             assertEquals("one hundred thousand",EnglishDecimalFormat.convert(100000));
         }
-    
+
         public final void testOneHundredAndTwentyThousand() {
             assertEquals("one hundred and twenty thousand",EnglishDecimalFormat.convert(120000));
         }
-    
+
         public final void testOneHundredAndTwentyThousandAndOne() {
             assertEquals("one hundred and twenty thousand and one",EnglishDecimalFormat.convert(120001));
         }
-    
+
         public final void testOneMillion() {
             assertEquals("one million",EnglishDecimalFormat.convert(1000000));
         }
-    
+
         public final void testThreeMillionTwoHundred() {
             assertEquals("three million two hundred",EnglishDecimalFormat.convert(3000200));
         }
-    
+
         public final void testMinusFortyFive() {
             assertEquals("minus forty five",EnglishDecimalFormat.convert(-45));
         }
-    
+
         public final void testOneHundredTwentyThreeMillionFourHundredFiftySixThousandSevenHundredAndEightyNine() {
             assertEquals("one hundred twenty three million four hundred fifty six thousand seven hundred and eighty nine",EnglishDecimalFormat.convert(123456789));
         }
