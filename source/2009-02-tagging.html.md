@@ -11,7 +11,7 @@ Today, I read "Tagging: People-Powered Metadata for the Social Web" by Gene Smit
 My plan is to work on the Grails acts-as-taggable plugin to add particular features. These being:
 
 ##Tag Service
-Retrieve more complicated data about tags via a Service rather than direct form domain objects
+Retrieve more complicated data about tags via a Service rather than direct from domain objects
 
 ##Personal tags
 To give users the opportunity to look at their own personal tags we need to store each users taggings and be able to return tags filtered by User

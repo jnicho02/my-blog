@@ -1,5 +1,5 @@
 ---
-title: monetise gaming at your peril
+title: monetise games at your peril
 date: 2006/10/23
 tags: [games]
 author: Jez Nicholson

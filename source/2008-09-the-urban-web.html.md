@@ -6,7 +6,7 @@ author: Jez Nicholson
 ---
 Just listened to a talk from Steven Johnson from outside.in talking about "The Urban Web" at dConstruct 2008, a web conference in Brighton, UK.
 
-He started by talking about an infamous cholera outbreak in Broad Street, London in the 1800s originating from a water pump. This outbreak is famous because John Snow produced a map displaying the location and number of deaths, along with a line that showed where it was easier to go to the Broad Street pump than another pump. This data visualisation was referenced in Tufte's famous book on data visualisation.
+He started by talking about an infamous cholera outbreak in Broad Street, London in the 1800s originating from a water pump. This outbreak is famous because John Snow produced a map displaying the location and number of deaths, along with a line that showed where it was easier to go to the Broad Street pump than another pump. This data visualisation was referenced in Tufte's famous book.
 
 outside.in have been working on a set of tools to identify posts/tweets/news about local geographical places and tag them with geo position. In this way, you could view the web as a local resource rather than a global one, for example by seeing all of the information posted about central Brighton.
 

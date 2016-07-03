@@ -1,7 +1,7 @@
 ---
 title: WhereCampEU, Berlin 2014
 date: 2014/11/16
-tags: [events,geo]
+tags: [events,geo,speaking]
 author: Jez Nicholson
 time-spent: 3d
 ---
