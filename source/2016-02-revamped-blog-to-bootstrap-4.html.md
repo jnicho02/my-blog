@@ -1,7 +1,7 @@
 ---
 title: Revamped my blog to Boostrap 4 + github pages
 date: 2016/02/15
-tags: [code]
+tags: [ruby]
 author: Jez Nicholson
 ---
 I revamped my blog over the weekend to use Middleman and Bootstrap 4. Version 4 isn't a Production release, but hey, what could possibly go wrong?! I needed to learn and there isn't much point learning a soon-to-be-superceded version.

@@ -1,7 +1,7 @@
 ---
 title: watched Organising For Microservices
 date: 2015/03/31
-tags: [presentations]
+tags: [ideas]
 author: Jez Nicholson
 time-spent: 1h
 ---

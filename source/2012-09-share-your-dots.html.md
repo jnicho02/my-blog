@@ -2,10 +2,10 @@
 title: read "Steal Like An Artist" by Austin Kleon
 date: 2012/09/13
 tags: [books,ideas]
+isbn: 978-0761169253
+img: https://images-na.ssl-images-amazon.com/images/I/51B3zEFka3L.jpg
 author: Jez Nicholson
 ---
-<a href="/media/getfile/files.posterous.com/jnicho02/ssGtuHlwfmuwaesqIGyBcvHyvzkIAkjsFJGzbeEgwrcAznufsljBtGmkcsDj/p198.jpg.scaled1000.jpg"><img alt="P198" height="669" src="/media/getfile/files.posterous.com/jnicho02/ssGtuHlwfmuwaesqIGyBcvHyvzkIAkjsFJGzbeEgwrcAznufsljBtGmkcsDj/p198.jpg.scaled500.jpg" width="500" /></a>
-
 Been reading this great book, Steal Like An Artist by Austin Kleon. Very inspiring. The things he says are very relevant to any creative endeavour, in my case developing code. So I'm going to steal a snippet which could just as easily be about encouraging companies to share on the web..
 
 * "Share your dots, but don't connect them."

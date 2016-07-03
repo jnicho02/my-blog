@@ -2,7 +2,8 @@
 title: read "The 4 Disciplines of Execution" by Sean Covey
 date: 2014-09-08
 tags: [books,personal-growth]
-isbn:
+isbn: 978-0857205834
+img: https://images-eu.ssl-images-amazon.com/images/I/51s-wk-27qL._AC_US320_FMwebp_QL65_.jpg
 author: Jez Nicholson
 ---
 I just finished reading The 4 Disciplines of Execution, a book all about setting and achieving goals outside of 'the whirlwind'.
