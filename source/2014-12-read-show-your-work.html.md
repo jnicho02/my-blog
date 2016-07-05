@@ -1,7 +1,7 @@
 ---
 title: Read "Show Your Work!" by Austin Kleon
 date: 2014/12/09
-tags: [books,personal-growth]
+tags: [books]
 author: Jez Nicholson
 isbn: 978-0761178972
 img: http://ecx.images-amazon.com/images/I/71NXQC2JfiL.jpg

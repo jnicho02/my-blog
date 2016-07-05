@@ -1,7 +1,7 @@
 ---
 title: attended Creativity and Innovation workshop
 date: 2015/01/07
-tags: [courses,personal-growth]
+tags: [events]
 author: Jez Nicholson
 time-spent: 3h
 ---

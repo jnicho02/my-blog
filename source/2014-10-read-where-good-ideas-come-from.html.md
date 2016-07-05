@@ -1,7 +1,7 @@
 ---
 title: read "Where Good Ideas Come From. The Seven Patterns of Innovation" by Steven Johnson
 date: 2014-10-06
-tags: [books,personal-growth]
+tags: [books]
 isbn: 978-0141033402
 img: https://images-na.ssl-images-amazon.com/images/I/5130b3LjMfL._SX324_BO1,204,203,200_.jpg
 time-spent: 8h

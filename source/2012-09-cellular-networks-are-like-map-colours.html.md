@@ -1,7 +1,7 @@
 ---
 title: Cellular networks are like map colours
 date: 2012/09/14
-tags: [ideas,geo]
+tags: [geo]
 author: Jez Nicholson
 ---
 ![cellular network cells](/images/cellular_network_cells.jpg)

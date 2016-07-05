@@ -1,7 +1,7 @@
 ---
 title: read "Steal Like An Artist" by Austin Kleon
 date: 2012/09/13
-tags: [books,ideas]
+tags: [books]
 isbn: 978-0761169253
 img: https://images-na.ssl-images-amazon.com/images/I/51B3zEFka3L.jpg
 author: Jez Nicholson

@@ -1,7 +1,7 @@
 ---
 title: read "ReWork" by Jason Fried
 date: 2014-09-15
-tags: [books,personal-growth]
+tags: [books]
 isbn: 978-0091929787
 img: https://images-na.ssl-images-amazon.com/images/I/41B0smyluvL._SX311_BO1,204,203,200_.jpg
 author: Jez Nicholson

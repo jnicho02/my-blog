@@ -1,7 +1,7 @@
 ---
 title: attended Geospatial Apps with Open Data Meetup
 date: 2015/03/04
-tags: [events,geo]
+tags: [events,geo,opendata]
 author: Jez Nicholson
 time-spent: 4h
 ---

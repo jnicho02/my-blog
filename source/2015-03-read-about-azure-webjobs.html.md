@@ -1,7 +1,7 @@
 ---
 title: read up about Azure WebJobs
 date: 2015/04/01
-tags: [articles]
+tags: []
 author: Jez Nicholson
 time-spent: 1h
 ---

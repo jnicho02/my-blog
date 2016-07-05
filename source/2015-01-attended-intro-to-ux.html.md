@@ -1,7 +1,7 @@
 ---
 title: attended Introduction to UX from Akendi
 date: 2015/01/27
-tags: [courses,ux]
+tags: [events,ux]
 author: Jez Nicholson
 time-spent: 8h
 ---

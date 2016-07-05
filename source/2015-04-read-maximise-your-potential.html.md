@@ -1,7 +1,7 @@
 ---
 title: read "Maximise Your Potential" by various, edited by Jocelyn K. Glei
 date: 2015/04/03
-tags: [books,personal-growth]
+tags: [books]
 isbn: 978-1477800898
 img: http://ecx.images-amazon.com/images/I/61HQ3RaGVzL.jpg
 author: Jez Nicholson

@@ -1,7 +1,7 @@
 ---
 title: read microservices article "Agile coding in enterprise IT. Code small and local"
 date: 2015/04/07
-tags: [articles]
+tags: [agile]
 url: http://www.pwc.com/us/en/technology-forecast/2014/cloud-computing/features/microservices.jhtml
 author: Jez Nicholson
 time-spent: 1h

@@ -1,7 +1,7 @@
 ---
 title: read up about Apache Kafka
 date: 2015/04/07
-tags: [articles]
+tags: []
 author: Jez Nicholson
 time-spent: 1h
 ---
