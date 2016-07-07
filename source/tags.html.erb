@@ -1,7 +1,7 @@
 <div class="card-columns">
   <% blog.tags.sort_by { |tag, articles| articles.size }.reverse.each do |tag, articles| %>
     <% link_to tag do %>
-      <img class="card-img-top" data-src="/images/<%= tag %>.jpg" src="/images/<%= tag %>.jpg" style="width:100%; height:auto;" alt="Card image">
+      <img class="card-img-top" data-src="/images/<%= tag %>-small.jpg" src="/images/<%= tag %>-small.jpg" style="width:100%; height:auto;" alt="Card image">
     <% end %>
     <div class="card" style="max-width: 40rem;">
       <div class="card-block">
