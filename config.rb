@@ -114,7 +114,7 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-set :build_dir, '/Users/jeznicholson/Projects/ghpages/'
+set :build_dir, '../ghpages/'
 
 activate :directory_indexes
 
