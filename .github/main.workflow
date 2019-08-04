@@ -10,6 +10,6 @@ action "bundle install" {
 
 action "build Middleman" {
   uses = "actions/docker/cli@86ff551d26008267bb89ac11198ba7f1d807b699"
-  args = "bundle exec middleman build"
   needs = ["bundle install"]
+  args = "RUN bundle exec middleman build"
 }
