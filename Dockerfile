@@ -9,7 +9,7 @@ RUN mkdir $APP_HOME
 RUN mkdir $BUILD_HOME
 WORKDIR $BUILD_HOME
 ADD . $BUILD_HOME/
-RUN git checkout $REMOTE_REPO
+RUN git clone $REMOTE_REPO
 WORKDIR $APP_HOME
 ADD . $APP_HOME/
 RUN bundle install --without development test
