@@ -11,8 +11,8 @@ action "clone from git + build Middleman" {
 action "deploy" {
   uses = "maxheld83/ghpages@v0.2.1"
   secrets = ["GH_PAT"]
-  env = {
-    BUILD_DIR = "ghpages/"
-  }
   needs = ["clone from git + build Middleman"]
+  env = {
+    BUILD_DIR = "/github/workspace/ghpages/"
+  }
 }
