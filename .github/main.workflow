@@ -13,6 +13,6 @@ action "deploy" {
   needs = ["bundle install"]
   secrets = ["GH_PAT"]
   env = {
-    BUILD_DIR = "/ghpages"
+    BUILD_DIR = "ghpages/"
   }
 }
