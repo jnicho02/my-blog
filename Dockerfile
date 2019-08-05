@@ -2,7 +2,7 @@ FROM ruby:2.6.0
 ARG RACK_ENV
 ARG PORT 
 ENV APP_HOME /app
-ENV BUILD_HOME /ghpages
+ENV BUILD_HOME /github/workspace/ghpages
 ENV REMOTE_REPO="https://github.com/jnicho02/jnicho02.github.io.git"
 RUN apt-get update -qq && apt-get install -y build-essential
 ENV NODE_VERSION=8.10.0
